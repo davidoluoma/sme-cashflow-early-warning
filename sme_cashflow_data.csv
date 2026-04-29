@@ -1,0 +1,1602 @@
+Date,Transaction_Type,Category,Amount_NGN,Description,Month,Week,Signed_Amount,Running_Balance_NGN,Cash_Alert
+2024-01-01,Income,Advance Payment,80098.98,Customer payment received,January,1,80098.98,80098.98,DANGER
+2024-01-01,Income,Bulk Order Payment,140201.33,Customer payment received,January,1,140201.33,220300.31,DANGER
+2024-01-01,Income,Product Sales,361412.05,Customer payment received,January,1,361412.05,581712.36,WARNING
+2024-01-01,Expense,Staff Salaries,35255.69,Business expense paid,January,1,-35255.69,546456.6699999999,WARNING
+2024-01-01,Expense,Supplier Payment,124946.23,Business expense paid,January,1,-124946.23,421510.43999999994,DANGER
+2024-01-01,Expense,Loan Repayment,289397.63,Business expense paid,January,1,-289397.63,132112.80999999994,DANGER
+2024-01-01,Expense,Utilities,125811.5,Business expense paid,January,1,-125811.5,6301.3099999999395,DANGER
+2024-01-02,Expense,Marketing,66423.86,Business expense paid,January,1,-66423.86,-60122.55000000006,DANGER
+2024-01-02,Expense,Marketing,123350.61,Business expense paid,January,1,-123350.61,-183473.16000000006,DANGER
+2024-01-02,Expense,Loan Repayment,69060.93,Business expense paid,January,1,-69060.93,-252534.09000000005,DANGER
+2024-01-02,Income,Bulk Order Payment,371463.32,Customer payment received,January,1,371463.32,118929.22999999995,DANGER
+2024-01-02,Expense,Rent,183320.25,Business expense paid,January,1,-183320.25,-64391.02000000005,DANGER
+2024-01-03,Income,Product Sales,149034.39,Customer payment received,January,1,149034.39,84643.36999999997,DANGER
+2024-01-03,Income,Product Sales,358379.3,Customer payment received,January,1,358379.3,443022.6699999999,DANGER
+2024-01-03,Income,Loan Received,467902.09,Customer payment received,January,1,467902.09,910924.76,WARNING
+2024-01-03,Expense,Marketing,284979.5,Business expense paid,January,1,-284979.5,625945.26,WARNING
+2024-01-04,Expense,Marketing,153427.33,Business expense paid,January,1,-153427.33,472517.93000000005,DANGER
+2024-01-04,Income,Product Sales,116529.87,Customer payment received,January,1,116529.87,589047.8,WARNING
+2024-01-04,Income,Bulk Order Payment,50620.97,Customer payment received,January,1,50620.97,639668.77,WARNING
+2024-01-04,Income,Product Sales,377880.75,Customer payment received,January,1,377880.75,1017549.52,WARNING
+2024-01-04,Expense,Loan Repayment,435912.16,Business expense paid,January,1,-435912.16,581637.3600000001,WARNING
+2024-01-05,Expense,Logistics / Delivery,276387.14,Business expense paid,January,1,-276387.14,305250.2200000001,DANGER
+2024-01-05,Expense,Rent,312382.88,Business expense paid,January,1,-312382.88,-7132.659999999916,DANGER
+2024-01-05,Income,Bulk Order Payment,196581.44,Customer payment received,January,1,196581.44,189448.7800000001,DANGER
+2024-01-05,Expense,Staff Salaries,356873.75,Business expense paid,January,1,-356873.75,-167424.9699999999,DANGER
+2024-01-06,Income,Advance Payment,238017.1,Customer payment received,January,1,238017.1,70592.13000000009,DANGER
+2024-01-06,Expense,Supplier Payment,348614.84,Business expense paid,January,1,-348614.84,-278022.70999999996,DANGER
+2024-01-06,Expense,Supplier Payment,129943.07,Business expense paid,January,1,-129943.07,-407965.77999999997,DANGER
+2024-01-07,Income,Product Sales,210524.15,Customer payment received,January,1,210524.15,-197441.62999999998,DANGER
+2024-01-07,Income,Advance Payment,124942.28,Customer payment received,January,1,124942.28,-72499.34999999998,DANGER
+2024-01-07,Expense,Loan Repayment,334610.56,Business expense paid,January,1,-334610.56,-407109.91,DANGER
+2024-01-07,Expense,Miscellaneous,444647.91,Business expense paid,January,1,-444647.91,-851757.82,DANGER
+2024-01-08,Expense,Rent,193758.29,Business expense paid,January,2,-193758.29,-1045516.11,DANGER
+2024-01-08,Expense,Loan Repayment,450954.98,Business expense paid,January,2,-450954.98,-1496471.0899999999,DANGER
+2024-01-08,Income,Bulk Order Payment,149196.07,Customer payment received,January,2,149196.07,-1347275.0199999998,DANGER
+2024-01-08,Expense,Loan Repayment,378566.63,Business expense paid,January,2,-378566.63,-1725841.65,DANGER
+2024-01-09,Income,Product Sales,252082.13,Customer payment received,January,2,252082.13,-1473759.52,DANGER
+2024-01-09,Income,Bulk Order Payment,417496.31,Customer payment received,January,2,417496.31,-1056263.21,DANGER
+2024-01-09,Income,Loan Received,312350.72,Customer payment received,January,2,312350.72,-743912.49,DANGER
+2024-01-09,Expense,Miscellaneous,204688.31,Business expense paid,January,2,-204688.31,-948600.8,DANGER
+2024-01-10,Expense,Supplier Payment,95915.72,Business expense paid,January,2,-95915.72,-1044516.52,DANGER
+2024-01-10,Income,Product Sales,143136.35,Customer payment received,January,2,143136.35,-901380.17,DANGER
+2024-01-10,Income,Product Sales,336127.53,Customer payment received,January,2,336127.53,-565252.64,DANGER
+2024-01-10,Income,Advance Payment,336769.67,Customer payment received,January,2,336769.67,-228482.97000000003,DANGER
+2024-01-10,Expense,Loan Repayment,73545.04,Business expense paid,January,2,-73545.04,-302028.01,DANGER
+2024-01-10,Expense,Utilities,477831.65,Business expense paid,January,2,-477831.65,-779859.66,DANGER
+2024-01-11,Expense,Supplier Payment,278901.93,Business expense paid,January,2,-278901.93,-1058761.59,DANGER
+2024-01-11,Income,Bulk Order Payment,408751.21,Customer payment received,January,2,408751.21,-650010.3800000001,DANGER
+2024-01-11,Expense,Rent,199478.65,Business expense paid,January,2,-199478.65,-849489.0300000001,DANGER
+2024-01-11,Income,Advance Payment,421733.36,Customer payment received,January,2,421733.36,-427755.67000000016,DANGER
+2024-01-11,Income,Product Sales,372882.99,Customer payment received,January,2,372882.99,-54872.68000000017,DANGER
+2024-01-12,Income,Product Sales,175870.23,Customer payment received,January,2,175870.23,120997.54999999984,DANGER
+2024-01-12,Income,Advance Payment,80340.48,Customer payment received,January,2,80340.48,201338.02999999985,DANGER
+2024-01-12,Income,Advance Payment,425424.85,Customer payment received,January,2,425424.85,626762.8799999999,WARNING
+2024-01-12,Expense,Staff Salaries,47804.08,Business expense paid,January,2,-47804.08,578958.7999999999,WARNING
+2024-01-12,Expense,Miscellaneous,61113.66,Business expense paid,January,2,-61113.66,517845.1399999999,WARNING
+2024-01-13,Income,Bulk Order Payment,470093.02,Customer payment received,January,2,470093.02,987938.1599999999,WARNING
+2024-01-13,Expense,Rent,336680.39,Business expense paid,January,2,-336680.39,651257.7699999999,WARNING
+2024-01-13,Expense,Loan Repayment,147227.18,Business expense paid,January,2,-147227.18,504030.5899999999,WARNING
+2024-01-14,Expense,Logistics / Delivery,78082.01,Business expense paid,January,2,-78082.01,425948.5799999999,DANGER
+2024-01-14,Expense,Miscellaneous,230288.04,Business expense paid,January,2,-230288.04,195660.5399999999,DANGER
+2024-01-14,Expense,Marketing,211516.3,Business expense paid,January,2,-211516.3,-15855.760000000097,DANGER
+2024-01-14,Income,Bulk Order Payment,448011.07,Customer payment received,January,2,448011.07,432155.30999999994,DANGER
+2024-01-15,Income,Bulk Order Payment,182138.5,Customer payment received,January,3,182138.5,614293.8099999999,WARNING
+2024-01-15,Expense,Supplier Payment,23451.6,Business expense paid,January,3,-23451.6,590842.21,WARNING
+2024-01-15,Expense,Supplier Payment,129892.06,Business expense paid,January,3,-129892.06,460950.14999999997,DANGER
+2024-01-16,Income,Bulk Order Payment,61885.81,Customer payment received,January,3,61885.81,522835.95999999996,WARNING
+2024-01-16,Income,Loan Received,155314.77,Customer payment received,January,3,155314.77,678150.73,WARNING
+2024-01-16,Expense,Miscellaneous,278832.29,Business expense paid,January,3,-278832.29,399318.44,DANGER
+2024-01-16,Expense,Miscellaneous,136638.68,Business expense paid,January,3,-136638.68,262679.76,DANGER
+2024-01-17,Expense,Staff Salaries,404284.41,Business expense paid,January,3,-404284.41,-141604.64999999997,DANGER
+2024-01-17,Expense,Marketing,49094.08,Business expense paid,January,3,-49094.08,-190698.72999999998,DANGER
+2024-01-17,Expense,Staff Salaries,343214.98,Business expense paid,January,3,-343214.98,-533913.71,DANGER
+2024-01-17,Expense,Supplier Payment,217329.09,Business expense paid,January,3,-217329.09,-751242.7999999999,DANGER
+2024-01-17,Income,Advance Payment,326542.24,Customer payment received,January,3,326542.24,-424700.55999999994,DANGER
+2024-01-17,Income,Product Sales,115684.46,Customer payment received,January,3,115684.46,-309016.0999999999,DANGER
+2024-01-18,Income,Loan Received,116215.53,Customer payment received,January,3,116215.53,-192800.56999999992,DANGER
+2024-01-18,Expense,Utilities,222503.19,Business expense paid,January,3,-222503.19,-415303.7599999999,DANGER
+2024-01-18,Expense,Staff Salaries,242061.47,Business expense paid,January,3,-242061.47,-657365.2299999999,DANGER
+2024-01-19,Income,Product Sales,393610.01,Customer payment received,January,3,393610.01,-263755.21999999986,DANGER
+2024-01-19,Income,Product Sales,52764.75,Customer payment received,January,3,52764.75,-210990.46999999986,DANGER
+2024-01-19,Expense,Logistics / Delivery,464656.15,Business expense paid,January,3,-464656.15,-675646.6199999999,DANGER
+2024-01-20,Income,Loan Received,212886.33,Customer payment received,January,3,212886.33,-462760.2899999999,DANGER
+2024-01-20,Expense,Supplier Payment,435032.19,Business expense paid,January,3,-435032.19,-897792.48,DANGER
+2024-01-20,Expense,Supplier Payment,99025.82,Business expense paid,January,3,-99025.82,-996818.3,DANGER
+2024-01-21,Expense,Supplier Payment,484980.5,Business expense paid,January,3,-484980.5,-1481798.8,DANGER
+2024-01-21,Expense,Logistics / Delivery,111150.98,Business expense paid,January,3,-111150.98,-1592949.78,DANGER
+2024-01-21,Income,Loan Received,149341.38,Customer payment received,January,3,149341.38,-1443608.4,DANGER
+2024-01-21,Income,Loan Received,158362.15,Customer payment received,January,3,158362.15,-1285246.25,DANGER
+2024-01-22,Income,Product Sales,171122.16,Customer payment received,January,4,171122.16,-1114124.09,DANGER
+2024-01-22,Income,Bulk Order Payment,292879.92,Customer payment received,January,4,292879.92,-821244.1700000002,DANGER
+2024-01-22,Income,Product Sales,55595.81,Customer payment received,January,4,55595.81,-765648.3600000001,DANGER
+2024-01-22,Expense,Staff Salaries,52890.24,Business expense paid,January,4,-52890.24,-818538.6000000001,DANGER
+2024-01-22,Expense,Logistics / Delivery,344102.03,Business expense paid,January,4,-344102.03,-1162640.6300000001,DANGER
+2024-01-23,Income,Product Sales,290513.58,Customer payment received,January,4,290513.58,-872127.05,DANGER
+2024-01-23,Income,Bulk Order Payment,83948.98,Customer payment received,January,4,83948.98,-788178.0700000001,DANGER
+2024-01-23,Expense,Marketing,221227.96,Business expense paid,January,4,-221227.96,-1009406.03,DANGER
+2024-01-24,Expense,Staff Salaries,239467.79,Business expense paid,January,4,-239467.79,-1248873.82,DANGER
+2024-01-24,Expense,Utilities,342411.31,Business expense paid,January,4,-342411.31,-1591285.1300000001,DANGER
+2024-01-24,Income,Advance Payment,121916.64,Customer payment received,January,4,121916.64,-1469368.4900000002,DANGER
+2024-01-24,Income,Loan Received,137408.68,Customer payment received,January,4,137408.68,-1331959.8100000003,DANGER
+2024-01-25,Income,Product Sales,236228.49,Customer payment received,January,4,236228.49,-1095731.3200000003,DANGER
+2024-01-25,Expense,Utilities,500516.13,Business expense paid,January,4,-500516.13,-1596247.4500000002,DANGER
+2024-01-26,Income,Product Sales,449966.72,Customer payment received,January,4,449966.72,-1146280.7300000002,DANGER
+2024-01-26,Expense,Rent,355271.4,Business expense paid,January,4,-355271.4,-1501552.1300000004,DANGER
+2024-01-26,Expense,Utilities,414591.47,Business expense paid,January,4,-414591.47,-1916143.6000000003,DANGER
+2024-01-27,Expense,Staff Salaries,264498.56,Business expense paid,January,4,-264498.56,-2180642.16,DANGER
+2024-01-27,Income,Product Sales,472733.99,Customer payment received,January,4,472733.99,-1707908.1700000002,DANGER
+2024-01-27,Income,Advance Payment,330538.44,Customer payment received,January,4,330538.44,-1377369.7300000002,DANGER
+2024-01-27,Income,Product Sales,449290.22,Customer payment received,January,4,449290.22,-928079.5100000002,DANGER
+2024-01-27,Expense,Rent,677448.01,Business expense paid,January,4,-677448.01,-1605527.5200000003,DANGER
+2024-01-28,Expense,Loan Repayment,115745.88,Business expense paid,January,4,-115745.88,-1721273.4000000004,DANGER
+2024-01-28,Expense,Supplier Payment,818210.73,Business expense paid,January,4,-818210.73,-2539484.1300000004,DANGER
+2024-01-28,Income,Bulk Order Payment,156790.32,Customer payment received,January,4,156790.32,-2382693.8100000005,DANGER
+2024-01-28,Income,Bulk Order Payment,352925.48,Customer payment received,January,4,352925.48,-2029768.3300000005,DANGER
+2024-01-28,Expense,Utilities,472673.43,Business expense paid,January,4,-472673.43,-2502441.7600000007,DANGER
+2024-01-29,Expense,Loan Repayment,676423.5,Business expense paid,January,5,-676423.5,-3178865.2600000007,DANGER
+2024-01-29,Income,Advance Payment,49839.04,Customer payment received,January,5,49839.04,-3129026.2200000007,DANGER
+2024-01-29,Income,Advance Payment,377003.65,Customer payment received,January,5,377003.65,-2752022.5700000008,DANGER
+2024-01-29,Expense,Staff Salaries,520623.53,Business expense paid,January,5,-520623.53,-3272646.1000000006,DANGER
+2024-01-30,Expense,Rent,757090.1,Business expense paid,January,5,-757090.1,-4029736.2000000007,DANGER
+2024-01-30,Income,Bulk Order Payment,455272.92,Customer payment received,January,5,455272.92,-3574463.2800000007,DANGER
+2024-01-31,Expense,Loan Repayment,710020.43,Business expense paid,January,5,-710020.43,-4284483.710000001,DANGER
+2024-01-31,Expense,Marketing,612230.47,Business expense paid,January,5,-612230.47,-4896714.180000001,DANGER
+2024-01-31,Income,Advance Payment,87350.48,Customer payment received,January,5,87350.48,-4809363.7,DANGER
+2024-01-31,Income,Product Sales,194093.18,Customer payment received,January,5,194093.18,-4615270.5200000005,DANGER
+2024-01-31,Expense,Logistics / Delivery,217506.13,Business expense paid,January,5,-217506.13,-4832776.65,DANGER
+2024-02-01,Income,Bulk Order Payment,612108.21,Customer payment received,February,5,612108.21,-4220668.44,DANGER
+2024-02-01,Income,Bulk Order Payment,698454.27,Customer payment received,February,5,698454.27,-3522214.1700000004,DANGER
+2024-02-01,Income,Product Sales,711062.15,Customer payment received,February,5,711062.15,-2811152.0200000005,DANGER
+2024-02-01,Expense,Marketing,373550.95,Business expense paid,February,5,-373550.95,-3184702.9700000007,DANGER
+2024-02-01,Expense,Loan Repayment,395545.52,Business expense paid,February,5,-395545.52,-3580248.4900000007,DANGER
+2024-02-02,Expense,Utilities,211263.67,Business expense paid,February,5,-211263.67,-3791512.1600000006,DANGER
+2024-02-02,Expense,Logistics / Delivery,127003.3,Business expense paid,February,5,-127003.3,-3918515.4600000004,DANGER
+2024-02-02,Expense,Logistics / Delivery,187836.04,Business expense paid,February,5,-187836.04,-4106351.5000000005,DANGER
+2024-02-02,Income,Product Sales,250104.28,Customer payment received,February,5,250104.28,-3856247.2200000007,DANGER
+2024-02-02,Income,Product Sales,336906.29,Customer payment received,February,5,336906.29,-3519340.9300000006,DANGER
+2024-02-02,Income,Bulk Order Payment,698048.02,Customer payment received,February,5,698048.02,-2821292.9100000006,DANGER
+2024-02-02,Expense,Miscellaneous,126768.18,Business expense paid,February,5,-126768.18,-2948061.090000001,DANGER
+2024-02-03,Expense,Marketing,346168.7,Business expense paid,February,5,-346168.7,-3294229.790000001,DANGER
+2024-02-03,Income,Advance Payment,775166.83,Customer payment received,February,5,775166.83,-2519062.960000001,DANGER
+2024-02-03,Expense,Loan Repayment,327911.23,Business expense paid,February,5,-327911.23,-2846974.190000001,DANGER
+2024-02-03,Expense,Staff Salaries,470833.83,Business expense paid,February,5,-470833.83,-3317808.020000001,DANGER
+2024-02-04,Expense,Logistics / Delivery,204893.81,Business expense paid,February,5,-204893.81,-3522701.830000001,DANGER
+2024-02-04,Expense,Marketing,369701.63,Business expense paid,February,5,-369701.63,-3892403.460000001,DANGER
+2024-02-04,Expense,Staff Salaries,229469.06,Business expense paid,February,5,-229469.06,-4121872.520000001,DANGER
+2024-02-04,Income,Advance Payment,183925.86,Customer payment received,February,5,183925.86,-3937946.660000001,DANGER
+2024-02-04,Income,Loan Received,78692.9,Customer payment received,February,5,78692.9,-3859253.760000001,DANGER
+2024-02-05,Income,Loan Received,83289.9,Customer payment received,February,6,83289.9,-3775963.8600000013,DANGER
+2024-02-05,Income,Bulk Order Payment,51268.46,Customer payment received,February,6,51268.46,-3724695.4000000013,DANGER
+2024-02-05,Expense,Marketing,227022.75,Business expense paid,February,6,-227022.75,-3951718.1500000013,DANGER
+2024-02-05,Expense,Staff Salaries,319114.6,Business expense paid,February,6,-319114.6,-4270832.750000001,DANGER
+2024-02-05,Expense,Utilities,365482.05,Business expense paid,February,6,-365482.05,-4636314.800000001,DANGER
+2024-02-06,Expense,Loan Repayment,339166.13,Business expense paid,February,6,-339166.13,-4975480.930000001,DANGER
+2024-02-06,Expense,Supplier Payment,214916.08,Business expense paid,February,6,-214916.08,-5190397.010000001,DANGER
+2024-02-06,Expense,Utilities,315447.16,Business expense paid,February,6,-315447.16,-5505844.170000001,DANGER
+2024-02-06,Expense,Rent,345112.61,Business expense paid,February,6,-345112.61,-5850956.780000001,DANGER
+2024-02-06,Income,Bulk Order Payment,465809.36,Customer payment received,February,6,465809.36,-5385147.420000001,DANGER
+2024-02-06,Income,Advance Payment,294637.18,Customer payment received,February,6,294637.18,-5090510.240000001,DANGER
+2024-02-06,Income,Loan Received,281963.5,Customer payment received,February,6,281963.5,-4808546.740000001,DANGER
+2024-02-07,Income,Loan Received,265185.29,Customer payment received,February,6,265185.29,-4543361.450000001,DANGER
+2024-02-07,Income,Advance Payment,639319.12,Customer payment received,February,6,639319.12,-3904042.330000001,DANGER
+2024-02-07,Expense,Logistics / Delivery,232057.29,Business expense paid,February,6,-232057.29,-4136099.620000001,DANGER
+2024-02-07,Expense,Rent,265363.52,Business expense paid,February,6,-265363.52,-4401463.140000001,DANGER
+2024-02-07,Expense,Utilities,336248.36,Business expense paid,February,6,-336248.36,-4737711.500000001,DANGER
+2024-02-07,Expense,Marketing,267416.96,Business expense paid,February,6,-267416.96,-5005128.460000001,DANGER
+2024-02-08,Expense,Miscellaneous,137524.42,Business expense paid,February,6,-137524.42,-5142652.880000001,DANGER
+2024-02-08,Expense,Supplier Payment,90729.9,Business expense paid,February,6,-90729.9,-5233382.780000001,DANGER
+2024-02-08,Expense,Logistics / Delivery,127827.52,Business expense paid,February,6,-127827.52,-5361210.300000001,DANGER
+2024-02-08,Income,Bulk Order Payment,663817.6,Customer payment received,February,6,663817.6,-4697392.700000001,DANGER
+2024-02-09,Income,Product Sales,687303.27,Customer payment received,February,6,687303.27,-4010089.430000001,DANGER
+2024-02-09,Income,Bulk Order Payment,391562.13,Customer payment received,February,6,391562.13,-3618527.300000001,DANGER
+2024-02-09,Income,Loan Received,588759.44,Customer payment received,February,6,588759.44,-3029767.8600000013,DANGER
+2024-02-09,Expense,Rent,211833.37,Business expense paid,February,6,-211833.37,-3241601.2300000014,DANGER
+2024-02-09,Expense,Supplier Payment,334907.85,Business expense paid,February,6,-334907.85,-3576509.0800000015,DANGER
+2024-02-09,Expense,Staff Salaries,448476.72,Business expense paid,February,6,-448476.72,-4024985.8000000017,DANGER
+2024-02-09,Expense,Logistics / Delivery,393641.8,Business expense paid,February,6,-393641.8,-4418627.6000000015,DANGER
+2024-02-10,Income,Loan Received,653082.39,Customer payment received,February,6,653082.39,-3765545.2100000014,DANGER
+2024-02-10,Expense,Staff Salaries,287554.78,Business expense paid,February,6,-287554.78,-4053099.990000001,DANGER
+2024-02-11,Expense,Logistics / Delivery,236033.48,Business expense paid,February,6,-236033.48,-4289133.470000002,DANGER
+2024-02-11,Expense,Miscellaneous,450659.89,Business expense paid,February,6,-450659.89,-4739793.360000001,DANGER
+2024-02-11,Expense,Miscellaneous,418673.2,Business expense paid,February,6,-418673.2,-5158466.560000001,DANGER
+2024-02-11,Income,Loan Received,150004.33,Customer payment received,February,6,150004.33,-5008462.230000001,DANGER
+2024-02-11,Income,Advance Payment,550683.3,Customer payment received,February,6,550683.3,-4457778.930000002,DANGER
+2024-02-11,Expense,Loan Repayment,314073.11,Business expense paid,February,6,-314073.11,-4771852.040000002,DANGER
+2024-02-12,Expense,Marketing,150423.25,Business expense paid,February,7,-150423.25,-4922275.290000002,DANGER
+2024-02-12,Income,Loan Received,257983.51,Customer payment received,February,7,257983.51,-4664291.780000002,DANGER
+2024-02-12,Income,Advance Payment,520061.33,Customer payment received,February,7,520061.33,-4144230.450000002,DANGER
+2024-02-12,Income,Advance Payment,379904.44,Customer payment received,February,7,379904.44,-3764326.010000002,DANGER
+2024-02-12,Expense,Staff Salaries,448652.88,Business expense paid,February,7,-448652.88,-4212978.890000002,DANGER
+2024-02-13,Expense,Staff Salaries,359081.19,Business expense paid,February,7,-359081.19,-4572060.080000003,DANGER
+2024-02-13,Income,Loan Received,163122.99,Customer payment received,February,7,163122.99,-4408937.090000003,DANGER
+2024-02-13,Expense,Marketing,219136.59,Business expense paid,February,7,-219136.59,-4628073.6800000025,DANGER
+2024-02-14,Expense,Loan Repayment,163334.07,Business expense paid,February,7,-163334.07,-4791407.750000003,DANGER
+2024-02-14,Expense,Logistics / Delivery,278345.87,Business expense paid,February,7,-278345.87,-5069753.620000003,DANGER
+2024-02-14,Expense,Marketing,248950.27,Business expense paid,February,7,-248950.27,-5318703.890000002,DANGER
+2024-02-14,Expense,Loan Repayment,429655.02,Business expense paid,February,7,-429655.02,-5748358.910000002,DANGER
+2024-02-14,Income,Loan Received,205125.79,Customer payment received,February,7,205125.79,-5543233.120000002,DANGER
+2024-02-14,Income,Product Sales,399443.23,Customer payment received,February,7,399443.23,-5143789.890000002,DANGER
+2024-02-14,Income,Product Sales,342107.61,Customer payment received,February,7,342107.61,-4801682.280000002,DANGER
+2024-02-15,Income,Loan Received,214566.23,Customer payment received,February,7,214566.23,-4587116.050000002,DANGER
+2024-02-15,Income,Loan Received,414231.5,Customer payment received,February,7,414231.5,-4172884.5500000017,DANGER
+2024-02-15,Expense,Loan Repayment,341059.34,Business expense paid,February,7,-341059.34,-4513943.8900000015,DANGER
+2024-02-15,Expense,Miscellaneous,367607.06,Business expense paid,February,7,-367607.06,-4881550.950000001,DANGER
+2024-02-15,Expense,Supplier Payment,461379.98,Business expense paid,February,7,-461379.98,-5342930.930000002,DANGER
+2024-02-16,Income,Product Sales,493919.58,Customer payment received,February,7,493919.58,-4849011.3500000015,DANGER
+2024-02-16,Income,Loan Received,112960.6,Customer payment received,February,7,112960.6,-4736050.750000002,DANGER
+2024-02-16,Expense,Rent,436088.65,Business expense paid,February,7,-436088.65,-5172139.400000002,DANGER
+2024-02-16,Expense,Loan Repayment,44136.62,Business expense paid,February,7,-44136.62,-5216276.020000002,DANGER
+2024-02-17,Expense,Supplier Payment,245747.28,Business expense paid,February,7,-245747.28,-5462023.300000003,DANGER
+2024-02-17,Expense,Staff Salaries,141090.34,Business expense paid,February,7,-141090.34,-5603113.640000002,DANGER
+2024-02-17,Income,Loan Received,303125.41,Customer payment received,February,7,303125.41,-5299988.230000002,DANGER
+2024-02-17,Income,Advance Payment,208745.21,Customer payment received,February,7,208745.21,-5091243.020000002,DANGER
+2024-02-17,Expense,Loan Repayment,380964.72,Business expense paid,February,7,-380964.72,-5472207.740000002,DANGER
+2024-02-18,Income,Product Sales,218166.62,Customer payment received,February,7,218166.62,-5254041.120000002,DANGER
+2024-02-18,Income,Product Sales,635924.79,Customer payment received,February,7,635924.79,-4618116.330000002,DANGER
+2024-02-18,Expense,Logistics / Delivery,475813.63,Business expense paid,February,7,-475813.63,-5093929.960000002,DANGER
+2024-02-19,Expense,Logistics / Delivery,290705.4,Business expense paid,February,8,-290705.4,-5384635.360000002,DANGER
+2024-02-19,Income,Bulk Order Payment,516001.74,Customer payment received,February,8,516001.74,-4868633.620000002,DANGER
+2024-02-19,Expense,Staff Salaries,247309.31,Business expense paid,February,8,-247309.31,-5115942.930000002,DANGER
+2024-02-20,Expense,Utilities,297768.67,Business expense paid,February,8,-297768.67,-5413711.6000000015,DANGER
+2024-02-20,Expense,Staff Salaries,483065.97,Business expense paid,February,8,-483065.97,-5896777.570000001,DANGER
+2024-02-20,Income,Advance Payment,574598.73,Customer payment received,February,8,574598.73,-5322178.840000002,DANGER
+2024-02-20,Income,Product Sales,175841.86,Customer payment received,February,8,175841.86,-5146336.980000001,DANGER
+2024-02-21,Income,Loan Received,558010.47,Customer payment received,February,8,558010.47,-4588326.510000002,DANGER
+2024-02-21,Income,Bulk Order Payment,347490.83,Customer payment received,February,8,347490.83,-4240835.680000002,DANGER
+2024-02-21,Income,Bulk Order Payment,106997.36,Customer payment received,February,8,106997.36,-4133838.3200000017,DANGER
+2024-02-21,Expense,Utilities,354652.64,Business expense paid,February,8,-354652.64,-4488490.960000002,DANGER
+2024-02-22,Expense,Staff Salaries,414718.84,Business expense paid,February,8,-414718.84,-4903209.800000002,DANGER
+2024-02-22,Expense,Loan Repayment,26073.03,Business expense paid,February,8,-26073.03,-4929282.830000002,DANGER
+2024-02-22,Expense,Marketing,53099.23,Business expense paid,February,8,-53099.23,-4982382.060000002,DANGER
+2024-02-22,Income,Product Sales,647170.41,Customer payment received,February,8,647170.41,-4335211.650000002,DANGER
+2024-02-22,Income,Product Sales,500308.71,Customer payment received,February,8,500308.71,-3834902.9400000023,DANGER
+2024-02-22,Income,Loan Received,310402.82,Customer payment received,February,8,310402.82,-3524500.1200000024,DANGER
+2024-02-23,Income,Loan Received,770590.68,Customer payment received,February,8,770590.68,-2753909.4400000023,DANGER
+2024-02-23,Income,Loan Received,580481.48,Customer payment received,February,8,580481.48,-2173427.9600000023,DANGER
+2024-02-23,Expense,Utilities,372221.75,Business expense paid,February,8,-372221.75,-2545649.7100000023,DANGER
+2024-02-23,Expense,Miscellaneous,315637.93,Business expense paid,February,8,-315637.93,-2861287.6400000025,DANGER
+2024-02-24,Expense,Miscellaneous,153885.56,Business expense paid,February,8,-153885.56,-3015173.2000000025,DANGER
+2024-02-24,Income,Advance Payment,376680.87,Customer payment received,February,8,376680.87,-2638492.3300000024,DANGER
+2024-02-24,Income,Bulk Order Payment,291728.44,Customer payment received,February,8,291728.44,-2346763.8900000025,DANGER
+2024-02-25,Expense,Marketing,60796.8,Business expense paid,February,8,-60796.8,-2407560.6900000023,DANGER
+2024-02-25,Expense,Logistics / Delivery,193109.64,Business expense paid,February,8,-193109.64,-2600670.3300000024,DANGER
+2024-02-25,Income,Loan Received,612857.21,Customer payment received,February,8,612857.21,-1987813.1200000024,DANGER
+2024-02-25,Expense,Utilities,342568.77,Business expense paid,February,8,-342568.77,-2330381.8900000025,DANGER
+2024-02-26,Expense,Loan Repayment,244531.63,Business expense paid,February,9,-244531.63,-2574913.5200000023,DANGER
+2024-02-26,Income,Bulk Order Payment,466843.27,Customer payment received,February,9,466843.27,-2108070.2500000023,DANGER
+2024-02-26,Income,Advance Payment,259743.87,Customer payment received,February,9,259743.87,-1848326.3800000022,DANGER
+2024-02-27,Income,Bulk Order Payment,466382.16,Customer payment received,February,9,466382.16,-1381944.2200000023,DANGER
+2024-02-27,Income,Loan Received,567957.0,Customer payment received,February,9,567957.0,-813987.2200000023,DANGER
+2024-02-27,Expense,Staff Salaries,721094.0,Business expense paid,February,9,-721094.0,-1535081.2200000023,DANGER
+2024-02-27,Expense,Loan Repayment,290219.54,Business expense paid,February,9,-290219.54,-1825300.7600000023,DANGER
+2024-02-27,Expense,Utilities,633704.1,Business expense paid,February,9,-633704.1,-2459004.860000002,DANGER
+2024-02-27,Expense,Marketing,609661.46,Business expense paid,February,9,-609661.46,-3068666.320000002,DANGER
+2024-02-28,Expense,Utilities,643266.67,Business expense paid,February,9,-643266.67,-3711932.990000002,DANGER
+2024-02-28,Expense,Logistics / Delivery,140246.68,Business expense paid,February,9,-140246.68,-3852179.6700000023,DANGER
+2024-02-28,Income,Advance Payment,465104.72,Customer payment received,February,9,465104.72,-3387074.950000002,DANGER
+2024-02-28,Income,Advance Payment,369127.86,Customer payment received,February,9,369127.86,-3017947.090000002,DANGER
+2024-02-28,Expense,Logistics / Delivery,300922.26,Business expense paid,February,9,-300922.26,-3318869.3500000024,DANGER
+2024-02-29,Income,Bulk Order Payment,139666.06,Customer payment received,February,9,139666.06,-3179203.2900000024,DANGER
+2024-02-29,Income,Loan Received,193655.73,Customer payment received,February,9,193655.73,-2985547.5600000024,DANGER
+2024-02-29,Expense,Utilities,662041.44,Business expense paid,February,9,-662041.44,-3647589.0000000023,DANGER
+2024-02-29,Expense,Logistics / Delivery,883161.18,Business expense paid,February,9,-883161.18,-4530750.1800000025,DANGER
+2024-02-29,Expense,Marketing,291956.94,Business expense paid,February,9,-291956.94,-4822707.120000003,DANGER
+2024-03-01,Income,Bulk Order Payment,387380.97,Customer payment received,March,9,387380.97,-4435326.150000003,DANGER
+2024-03-01,Expense,Supplier Payment,41847.54,Business expense paid,March,9,-41847.54,-4477173.690000003,DANGER
+2024-03-01,Expense,Rent,285612.3,Business expense paid,March,9,-285612.3,-4762785.990000003,DANGER
+2024-03-01,Expense,Miscellaneous,326177.43,Business expense paid,March,9,-326177.43,-5088963.420000003,DANGER
+2024-03-02,Expense,Miscellaneous,141189.63,Business expense paid,March,9,-141189.63,-5230153.050000003,DANGER
+2024-03-02,Expense,Staff Salaries,74761.83,Business expense paid,March,9,-74761.83,-5304914.880000003,DANGER
+2024-03-02,Expense,Supplier Payment,108494.56,Business expense paid,March,9,-108494.56,-5413409.440000002,DANGER
+2024-03-02,Income,Advance Payment,986355.72,Customer payment received,March,9,986355.72,-4427053.7200000025,DANGER
+2024-03-02,Expense,Marketing,249782.82,Business expense paid,March,9,-249782.82,-4676836.540000003,DANGER
+2024-03-03,Income,Product Sales,586333.89,Customer payment received,March,9,586333.89,-4090502.6500000027,DANGER
+2024-03-03,Income,Advance Payment,229313.36,Customer payment received,March,9,229313.36,-3861189.290000003,DANGER
+2024-03-03,Expense,Staff Salaries,497080.7,Business expense paid,March,9,-497080.7,-4358269.990000003,DANGER
+2024-03-04,Income,Bulk Order Payment,872665.62,Customer payment received,March,10,872665.62,-3485604.370000003,DANGER
+2024-03-04,Income,Loan Received,884478.22,Customer payment received,March,10,884478.22,-2601126.150000003,DANGER
+2024-03-04,Income,Loan Received,543040.19,Customer payment received,March,10,543040.19,-2058085.9600000032,DANGER
+2024-03-04,Expense,Loan Repayment,432880.0,Business expense paid,March,10,-432880.0,-2490965.960000003,DANGER
+2024-03-04,Expense,Supplier Payment,166582.52,Business expense paid,March,10,-166582.52,-2657548.4800000032,DANGER
+2024-03-04,Expense,Staff Salaries,312622.84,Business expense paid,March,10,-312622.84,-2970171.320000003,DANGER
+2024-03-05,Expense,Rent,95387.4,Business expense paid,March,10,-95387.4,-3065558.720000003,DANGER
+2024-03-05,Income,Advance Payment,726790.78,Customer payment received,March,10,726790.78,-2338767.940000003,DANGER
+2024-03-06,Income,Product Sales,148818.11,Customer payment received,March,10,148818.11,-2189949.8300000033,DANGER
+2024-03-06,Income,Loan Received,498943.45,Customer payment received,March,10,498943.45,-1691006.3800000034,DANGER
+2024-03-06,Income,Bulk Order Payment,375822.25,Customer payment received,March,10,375822.25,-1315184.1300000034,DANGER
+2024-03-06,Expense,Miscellaneous,359338.8,Business expense paid,March,10,-359338.8,-1674522.9300000034,DANGER
+2024-03-06,Expense,Logistics / Delivery,54166.28,Business expense paid,March,10,-54166.28,-1728689.2100000035,DANGER
+2024-03-06,Expense,Logistics / Delivery,463477.3,Business expense paid,March,10,-463477.3,-2192166.5100000035,DANGER
+2024-03-07,Income,Bulk Order Payment,190515.12,Customer payment received,March,10,190515.12,-2001651.3900000034,DANGER
+2024-03-07,Income,Advance Payment,750016.46,Customer payment received,March,10,750016.46,-1251634.9300000034,DANGER
+2024-03-07,Expense,Rent,54276.72,Business expense paid,March,10,-54276.72,-1305911.6500000034,DANGER
+2024-03-07,Expense,Utilities,400461.71,Business expense paid,March,10,-400461.71,-1706373.3600000034,DANGER
+2024-03-08,Expense,Supplier Payment,63836.91,Business expense paid,March,10,-63836.91,-1770210.2700000033,DANGER
+2024-03-08,Expense,Supplier Payment,309782.55,Business expense paid,March,10,-309782.55,-2079992.8200000033,DANGER
+2024-03-08,Expense,Marketing,446922.99,Business expense paid,March,10,-446922.99,-2526915.8100000033,DANGER
+2024-03-08,Income,Advance Payment,804720.37,Customer payment received,March,10,804720.37,-1722195.4400000032,DANGER
+2024-03-08,Income,Advance Payment,200571.34,Customer payment received,March,10,200571.34,-1521624.1000000031,DANGER
+2024-03-08,Expense,Supplier Payment,230124.25,Business expense paid,March,10,-230124.25,-1751748.3500000031,DANGER
+2024-03-09,Income,Product Sales,932492.31,Customer payment received,March,10,932492.31,-819256.0400000031,DANGER
+2024-03-09,Income,Bulk Order Payment,871264.45,Customer payment received,March,10,871264.45,52008.40999999689,DANGER
+2024-03-09,Income,Loan Received,564025.86,Customer payment received,March,10,564025.86,616034.2699999969,WARNING
+2024-03-09,Expense,Loan Repayment,107114.79,Business expense paid,March,10,-107114.79,508919.4799999969,WARNING
+2024-03-09,Expense,Miscellaneous,324696.67,Business expense paid,March,10,-324696.67,184222.8099999969,DANGER
+2024-03-09,Expense,Miscellaneous,485146.51,Business expense paid,March,10,-485146.51,-300923.7000000031,DANGER
+2024-03-10,Expense,Supplier Payment,410511.7,Business expense paid,March,10,-410511.7,-711435.4000000032,DANGER
+2024-03-10,Expense,Loan Repayment,158344.54,Business expense paid,March,10,-158344.54,-869779.9400000032,DANGER
+2024-03-10,Expense,Miscellaneous,217589.64,Business expense paid,March,10,-217589.64,-1087369.5800000033,DANGER
+2024-03-10,Income,Bulk Order Payment,773640.18,Customer payment received,March,10,773640.18,-313729.4000000033,DANGER
+2024-03-10,Income,Advance Payment,498765.5,Customer payment received,March,10,498765.5,185036.09999999672,DANGER
+2024-03-11,Income,Advance Payment,162462.78,Customer payment received,March,11,162462.78,347498.87999999675,DANGER
+2024-03-11,Income,Loan Received,409437.48,Customer payment received,March,11,409437.48,756936.3599999967,WARNING
+2024-03-11,Expense,Miscellaneous,335676.99,Business expense paid,March,11,-335676.99,421259.36999999674,DANGER
+2024-03-12,Income,Advance Payment,126914.29,Customer payment received,March,11,126914.29,548173.6599999968,WARNING
+2024-03-12,Income,Loan Received,723765.57,Customer payment received,March,11,723765.57,1271939.2299999967,WARNING
+2024-03-12,Expense,Logistics / Delivery,384795.46,Business expense paid,March,11,-384795.46,887143.7699999968,WARNING
+2024-03-12,Expense,Rent,148186.99,Business expense paid,March,11,-148186.99,738956.7799999968,WARNING
+2024-03-12,Expense,Miscellaneous,465282.93,Business expense paid,March,11,-465282.93,273673.8499999968,DANGER
+2024-03-12,Expense,Miscellaneous,442806.38,Business expense paid,March,11,-442806.38,-169132.53000000323,DANGER
+2024-03-13,Expense,Staff Salaries,285080.68,Business expense paid,March,11,-285080.68,-454213.2100000032,DANGER
+2024-03-13,Expense,Supplier Payment,169160.07,Business expense paid,March,11,-169160.07,-623373.2800000033,DANGER
+2024-03-13,Income,Bulk Order Payment,100312.91,Customer payment received,March,11,100312.91,-523060.37000000325,DANGER
+2024-03-14,Income,Product Sales,1111870.0,Customer payment received,March,11,1111870.0,588809.6299999967,WARNING
+2024-03-14,Expense,Rent,474589.16,Business expense paid,March,11,-474589.16,114220.46999999677,DANGER
+2024-03-14,Expense,Utilities,259220.24,Business expense paid,March,11,-259220.24,-144999.77000000322,DANGER
+2024-03-14,Expense,Utilities,264258.57,Business expense paid,March,11,-264258.57,-409258.3400000032,DANGER
+2024-03-14,Expense,Miscellaneous,219435.36,Business expense paid,March,11,-219435.36,-628693.7000000032,DANGER
+2024-03-15,Income,Bulk Order Payment,325917.45,Customer payment received,March,11,325917.45,-302776.2500000032,DANGER
+2024-03-15,Income,Bulk Order Payment,472765.31,Customer payment received,March,11,472765.31,169989.0599999968,DANGER
+2024-03-15,Expense,Loan Repayment,152598.75,Business expense paid,March,11,-152598.75,17390.309999996796,DANGER
+2024-03-16,Expense,Marketing,278518.68,Business expense paid,March,11,-278518.68,-261128.3700000032,DANGER
+2024-03-16,Expense,Miscellaneous,435325.09,Business expense paid,March,11,-435325.09,-696453.4600000032,DANGER
+2024-03-16,Expense,Miscellaneous,421988.44,Business expense paid,March,11,-421988.44,-1118441.9000000032,DANGER
+2024-03-16,Income,Advance Payment,931576.95,Customer payment received,March,11,931576.95,-186864.9500000032,DANGER
+2024-03-16,Income,Advance Payment,1050960.81,Customer payment received,March,11,1050960.81,864095.8599999968,WARNING
+2024-03-17,Income,Loan Received,649513.29,Customer payment received,March,11,649513.29,1513609.1499999969,SAFE
+2024-03-17,Income,Advance Payment,548111.85,Customer payment received,March,11,548111.85,2061720.9999999967,SAFE
+2024-03-17,Expense,Logistics / Delivery,490771.82,Business expense paid,March,11,-490771.82,1570949.1799999967,SAFE
+2024-03-17,Expense,Logistics / Delivery,294462.87,Business expense paid,March,11,-294462.87,1276486.3099999968,WARNING
+2024-03-18,Income,Loan Received,115829.66,Customer payment received,March,12,115829.66,1392315.9699999967,WARNING
+2024-03-18,Income,Loan Received,810489.28,Customer payment received,March,12,810489.28,2202805.2499999967,SAFE
+2024-03-18,Expense,Rent,494438.72,Business expense paid,March,12,-494438.72,1708366.5299999968,SAFE
+2024-03-18,Expense,Supplier Payment,257757.75,Business expense paid,March,12,-257757.75,1450608.7799999968,WARNING
+2024-03-18,Expense,Marketing,80598.21,Business expense paid,March,12,-80598.21,1370010.5699999968,WARNING
+2024-03-18,Expense,Miscellaneous,437456.15,Business expense paid,March,12,-437456.15,932554.4199999968,WARNING
+2024-03-19,Expense,Loan Repayment,366773.04,Business expense paid,March,12,-366773.04,565781.3799999969,WARNING
+2024-03-19,Income,Loan Received,622248.64,Customer payment received,March,12,622248.64,1188030.0199999968,WARNING
+2024-03-20,Income,Product Sales,1088454.63,Customer payment received,March,12,1088454.63,2276484.6499999966,SAFE
+2024-03-20,Income,Advance Payment,562965.13,Customer payment received,March,12,562965.13,2839449.7799999965,SAFE
+2024-03-20,Income,Loan Received,425489.3,Customer payment received,March,12,425489.3,3264939.0799999963,SAFE
+2024-03-20,Expense,Loan Repayment,428847.34,Business expense paid,March,12,-428847.34,2836091.7399999965,SAFE
+2024-03-21,Income,Loan Received,728139.14,Customer payment received,March,12,728139.14,3564230.8799999966,SAFE
+2024-03-21,Income,Product Sales,986002.17,Customer payment received,March,12,986002.17,4550233.049999997,SAFE
+2024-03-21,Expense,Utilities,132689.72,Business expense paid,March,12,-132689.72,4417543.329999997,SAFE
+2024-03-22,Income,Loan Received,854104.69,Customer payment received,March,12,854104.69,5271648.019999998,SAFE
+2024-03-22,Expense,Staff Salaries,384977.45,Business expense paid,March,12,-384977.45,4886670.5699999975,SAFE
+2024-03-23,Expense,Loan Repayment,192062.4,Business expense paid,March,12,-192062.4,4694608.169999997,SAFE
+2024-03-23,Expense,Loan Repayment,89873.5,Business expense paid,March,12,-89873.5,4604734.669999997,SAFE
+2024-03-23,Income,Advance Payment,244683.03,Customer payment received,March,12,244683.03,4849417.699999997,SAFE
+2024-03-23,Income,Product Sales,1018595.27,Customer payment received,March,12,1018595.27,5868012.969999997,SAFE
+2024-03-23,Expense,Utilities,402148.86,Business expense paid,March,12,-402148.86,5465864.109999997,SAFE
+2024-03-24,Income,Bulk Order Payment,785890.39,Customer payment received,March,12,785890.39,6251754.499999996,SAFE
+2024-03-24,Income,Product Sales,248482.83,Customer payment received,March,12,248482.83,6500237.329999996,SAFE
+2024-03-24,Income,Loan Received,709966.38,Customer payment received,March,12,709966.38,7210203.709999996,SAFE
+2024-03-24,Expense,Rent,258880.28,Business expense paid,March,12,-258880.28,6951323.429999996,SAFE
+2024-03-24,Expense,Utilities,131450.45,Business expense paid,March,12,-131450.45,6819872.979999996,SAFE
+2024-03-25,Expense,Marketing,99816.68,Business expense paid,March,13,-99816.68,6720056.299999996,SAFE
+2024-03-25,Expense,Rent,621455.81,Business expense paid,March,13,-621455.81,6098600.4899999965,SAFE
+2024-03-25,Expense,Utilities,889331.06,Business expense paid,March,13,-889331.06,5209269.429999996,SAFE
+2024-03-25,Income,Product Sales,338093.04,Customer payment received,March,13,338093.04,5547362.469999996,SAFE
+2024-03-25,Income,Loan Received,1013853.96,Customer payment received,March,13,1013853.96,6561216.429999996,SAFE
+2024-03-26,Expense,Loan Repayment,54955.81,Business expense paid,March,13,-54955.81,6506260.619999996,SAFE
+2024-03-26,Expense,Utilities,893685.93,Business expense paid,March,13,-893685.93,5612574.689999997,SAFE
+2024-03-26,Expense,Utilities,530141.21,Business expense paid,March,13,-530141.21,5082433.479999997,SAFE
+2024-03-26,Income,Advance Payment,1080130.53,Customer payment received,March,13,1080130.53,6162564.009999997,SAFE
+2024-03-26,Income,Loan Received,279177.85,Customer payment received,March,13,279177.85,6441741.859999997,SAFE
+2024-03-26,Income,Advance Payment,549677.6,Customer payment received,March,13,549677.6,6991419.459999996,SAFE
+2024-03-26,Expense,Loan Repayment,128148.42,Business expense paid,March,13,-128148.42,6863271.039999996,SAFE
+2024-03-27,Income,Product Sales,78502.86,Customer payment received,March,13,78502.86,6941773.899999997,SAFE
+2024-03-27,Income,Loan Received,1026147.8,Customer payment received,March,13,1026147.8,7967921.699999996,SAFE
+2024-03-27,Expense,Logistics / Delivery,706240.21,Business expense paid,March,13,-706240.21,7261681.4899999965,SAFE
+2024-03-27,Expense,Marketing,560504.16,Business expense paid,March,13,-560504.16,6701177.329999996,SAFE
+2024-03-27,Expense,Logistics / Delivery,225219.92,Business expense paid,March,13,-225219.92,6475957.409999996,SAFE
+2024-03-28,Expense,Rent,536751.77,Business expense paid,March,13,-536751.77,5939205.639999997,SAFE
+2024-03-28,Income,Loan Received,394379.53,Customer payment received,March,13,394379.53,6333585.169999997,SAFE
+2024-03-28,Income,Product Sales,729660.51,Customer payment received,March,13,729660.51,7063245.679999997,SAFE
+2024-03-28,Income,Bulk Order Payment,333158.14,Customer payment received,March,13,333158.14,7396403.819999997,SAFE
+2024-03-29,Income,Advance Payment,1025109.2,Customer payment received,March,13,1025109.2,8421513.019999996,SAFE
+2024-03-29,Expense,Rent,187753.02,Business expense paid,March,13,-187753.02,8233759.999999996,SAFE
+2024-03-29,Expense,Marketing,715547.07,Business expense paid,March,13,-715547.07,7518212.929999996,SAFE
+2024-03-29,Expense,Utilities,494656.45,Business expense paid,March,13,-494656.45,7023556.479999996,SAFE
+2024-03-29,Expense,Utilities,753528.34,Business expense paid,March,13,-753528.34,6270028.139999996,SAFE
+2024-03-30,Income,Advance Payment,853887.32,Customer payment received,March,13,853887.32,7123915.459999996,SAFE
+2024-03-30,Income,Advance Payment,1085753.28,Customer payment received,March,13,1085753.28,8209668.7399999965,SAFE
+2024-03-30,Expense,Staff Salaries,440638.32,Business expense paid,March,13,-440638.32,7769030.419999996,SAFE
+2024-03-31,Expense,Staff Salaries,48025.72,Business expense paid,March,13,-48025.72,7721004.699999996,SAFE
+2024-03-31,Expense,Loan Repayment,114021.68,Business expense paid,March,13,-114021.68,7606983.019999997,SAFE
+2024-03-31,Expense,Utilities,428935.13,Business expense paid,March,13,-428935.13,7178047.889999997,SAFE
+2024-03-31,Income,Bulk Order Payment,861859.07,Customer payment received,March,13,861859.07,8039906.959999997,SAFE
+2024-03-31,Expense,Marketing,871721.06,Business expense paid,March,13,-871721.06,7168185.899999997,SAFE
+2024-04-01,Income,Advance Payment,470076.77,Customer payment received,April,14,470076.77,7638262.669999996,SAFE
+2024-04-01,Income,Bulk Order Payment,183763.41,Customer payment received,April,14,183763.41,7822026.079999996,SAFE
+2024-04-01,Income,Advance Payment,565050.71,Customer payment received,April,14,565050.71,8387076.789999996,SAFE
+2024-04-01,Expense,Miscellaneous,330873.14,Business expense paid,April,14,-330873.14,8056203.649999997,SAFE
+2024-04-01,Expense,Utilities,456506.07,Business expense paid,April,14,-456506.07,7599697.579999996,SAFE
+2024-04-02,Income,Bulk Order Payment,498710.65,Customer payment received,April,14,498710.65,8098408.229999997,SAFE
+2024-04-02,Income,Product Sales,117614.15,Customer payment received,April,14,117614.15,8216022.379999997,SAFE
+2024-04-02,Income,Loan Received,389582.81,Customer payment received,April,14,389582.81,8605605.189999998,SAFE
+2024-04-02,Expense,Rent,66652.16,Business expense paid,April,14,-66652.16,8538953.029999997,SAFE
+2024-04-03,Expense,Miscellaneous,124289.45,Business expense paid,April,14,-124289.45,8414663.579999998,SAFE
+2024-04-03,Expense,Marketing,35703.82,Business expense paid,April,14,-35703.82,8378959.759999998,SAFE
+2024-04-03,Expense,Utilities,315513.06,Business expense paid,April,14,-315513.06,8063446.699999998,SAFE
+2024-04-03,Income,Bulk Order Payment,686707.36,Customer payment received,April,14,686707.36,8750154.059999999,SAFE
+2024-04-03,Income,Loan Received,546325.94,Customer payment received,April,14,546325.94,9296479.999999998,SAFE
+2024-04-03,Expense,Miscellaneous,334362.51,Business expense paid,April,14,-334362.51,8962117.489999998,SAFE
+2024-04-04,Income,Product Sales,968222.7,Customer payment received,April,14,968222.7,9930340.189999998,SAFE
+2024-04-04,Expense,Marketing,281343.61,Business expense paid,April,14,-281343.61,9648996.579999998,SAFE
+2024-04-04,Expense,Utilities,49064.04,Business expense paid,April,14,-49064.04,9599932.54,SAFE
+2024-04-04,Expense,Staff Salaries,111108.11,Business expense paid,April,14,-111108.11,9488824.43,SAFE
+2024-04-05,Income,Product Sales,743789.69,Customer payment received,April,14,743789.69,10232614.12,SAFE
+2024-04-05,Income,Bulk Order Payment,166257.1,Customer payment received,April,14,166257.1,10398871.219999999,SAFE
+2024-04-05,Expense,Logistics / Delivery,397661.4,Business expense paid,April,14,-397661.4,10001209.819999998,SAFE
+2024-04-06,Expense,Logistics / Delivery,418312.56,Business expense paid,April,14,-418312.56,9582897.259999998,SAFE
+2024-04-06,Income,Bulk Order Payment,896327.0,Customer payment received,April,14,896327.0,10479224.259999998,SAFE
+2024-04-07,Income,Bulk Order Payment,296748.92,Customer payment received,April,14,296748.92,10775973.179999998,SAFE
+2024-04-07,Income,Bulk Order Payment,414987.53,Customer payment received,April,14,414987.53,11190960.709999997,SAFE
+2024-04-07,Income,Product Sales,898075.94,Customer payment received,April,14,898075.94,12089036.649999997,SAFE
+2024-04-07,Expense,Rent,432034.94,Business expense paid,April,14,-432034.94,11657001.709999997,SAFE
+2024-04-07,Expense,Utilities,494013.11,Business expense paid,April,14,-494013.11,11162988.599999998,SAFE
+2024-04-07,Expense,Staff Salaries,403286.64,Business expense paid,April,14,-403286.64,10759701.959999997,SAFE
+2024-04-08,Expense,Staff Salaries,376024.67,Business expense paid,April,15,-376024.67,10383677.289999997,SAFE
+2024-04-08,Income,Product Sales,688295.57,Customer payment received,April,15,688295.57,11071972.859999998,SAFE
+2024-04-08,Expense,Rent,147376.4,Business expense paid,April,15,-147376.4,10924596.459999997,SAFE
+2024-04-08,Income,Bulk Order Payment,979770.28,Customer payment received,April,15,979770.28,11904366.739999996,SAFE
+2024-04-08,Income,Bulk Order Payment,85603.34,Customer payment received,April,15,85603.34,11989970.079999996,SAFE
+2024-04-09,Income,Loan Received,136735.94,Customer payment received,April,15,136735.94,12126706.019999996,SAFE
+2024-04-09,Income,Product Sales,886917.89,Customer payment received,April,15,886917.89,13013623.909999996,SAFE
+2024-04-09,Income,Bulk Order Payment,544605.69,Customer payment received,April,15,544605.69,13558229.599999996,SAFE
+2024-04-09,Expense,Utilities,369076.64,Business expense paid,April,15,-369076.64,13189152.959999995,SAFE
+2024-04-10,Expense,Staff Salaries,55275.54,Business expense paid,April,15,-55275.54,13133877.419999996,SAFE
+2024-04-10,Income,Product Sales,745507.72,Customer payment received,April,15,745507.72,13879385.139999997,SAFE
+2024-04-10,Income,Loan Received,133866.68,Customer payment received,April,15,133866.68,14013251.819999997,SAFE
+2024-04-10,Expense,Staff Salaries,224611.34,Business expense paid,April,15,-224611.34,13788640.479999997,SAFE
+2024-04-10,Expense,Miscellaneous,255329.05,Business expense paid,April,15,-255329.05,13533311.429999996,SAFE
+2024-04-10,Expense,Rent,174613.67,Business expense paid,April,15,-174613.67,13358697.759999996,SAFE
+2024-04-11,Expense,Logistics / Delivery,429340.51,Business expense paid,April,15,-429340.51,12929357.249999996,SAFE
+2024-04-11,Expense,Staff Salaries,67605.66,Business expense paid,April,15,-67605.66,12861751.589999996,SAFE
+2024-04-11,Expense,Loan Repayment,237783.4,Business expense paid,April,15,-237783.4,12623968.189999996,SAFE
+2024-04-11,Expense,Utilities,497421.32,Business expense paid,April,15,-497421.32,12126546.869999995,SAFE
+2024-04-11,Income,Advance Payment,202501.17,Customer payment received,April,15,202501.17,12329048.039999995,SAFE
+2024-04-12,Income,Bulk Order Payment,544132.66,Customer payment received,April,15,544132.66,12873180.699999996,SAFE
+2024-04-12,Income,Loan Received,504504.25,Customer payment received,April,15,504504.25,13377684.949999996,SAFE
+2024-04-12,Expense,Staff Salaries,219675.03,Business expense paid,April,15,-219675.03,13158009.919999996,SAFE
+2024-04-12,Expense,Marketing,170023.21,Business expense paid,April,15,-170023.21,12987986.709999995,SAFE
+2024-04-12,Expense,Marketing,339251.77,Business expense paid,April,15,-339251.77,12648734.939999996,SAFE
+2024-04-12,Expense,Miscellaneous,477724.41,Business expense paid,April,15,-477724.41,12171010.529999996,SAFE
+2024-04-13,Income,Product Sales,165786.03,Customer payment received,April,15,165786.03,12336796.559999995,SAFE
+2024-04-13,Expense,Marketing,227300.73,Business expense paid,April,15,-227300.73,12109495.829999994,SAFE
+2024-04-14,Income,Advance Payment,654189.27,Customer payment received,April,15,654189.27,12763685.099999994,SAFE
+2024-04-14,Expense,Loan Repayment,217188.14,Business expense paid,April,15,-217188.14,12546496.959999993,SAFE
+2024-04-15,Expense,Marketing,426691.93,Business expense paid,April,16,-426691.93,12119805.029999994,SAFE
+2024-04-15,Expense,Logistics / Delivery,335233.43,Business expense paid,April,16,-335233.43,11784571.599999994,SAFE
+2024-04-15,Income,Advance Payment,124018.38,Customer payment received,April,16,124018.38,11908589.979999995,SAFE
+2024-04-15,Income,Advance Payment,700430.6,Customer payment received,April,16,700430.6,12609020.579999994,SAFE
+2024-04-15,Income,Bulk Order Payment,178780.59,Customer payment received,April,16,178780.59,12787801.169999994,SAFE
+2024-04-16,Income,Advance Payment,455939.1,Customer payment received,April,16,455939.1,13243740.269999994,SAFE
+2024-04-16,Income,Loan Received,672805.0,Customer payment received,April,16,672805.0,13916545.269999994,SAFE
+2024-04-16,Income,Product Sales,957412.92,Customer payment received,April,16,957412.92,14873958.189999994,SAFE
+2024-04-16,Expense,Utilities,33897.53,Business expense paid,April,16,-33897.53,14840060.659999995,SAFE
+2024-04-16,Expense,Utilities,357295.41,Business expense paid,April,16,-357295.41,14482765.249999994,SAFE
+2024-04-16,Expense,Marketing,462338.01,Business expense paid,April,16,-462338.01,14020427.239999995,SAFE
+2024-04-17,Expense,Marketing,183630.07,Business expense paid,April,16,-183630.07,13836797.169999994,SAFE
+2024-04-17,Expense,Miscellaneous,200573.31,Business expense paid,April,16,-200573.31,13636223.859999994,SAFE
+2024-04-17,Income,Bulk Order Payment,260475.84,Customer payment received,April,16,260475.84,13896699.699999994,SAFE
+2024-04-17,Expense,Supplier Payment,53401.0,Business expense paid,April,16,-53401.0,13843298.699999994,SAFE
+2024-04-17,Expense,Logistics / Delivery,64043.69,Business expense paid,April,16,-64043.69,13779255.009999994,SAFE
+2024-04-18,Income,Product Sales,827675.77,Customer payment received,April,16,827675.77,14606930.779999994,SAFE
+2024-04-18,Income,Bulk Order Payment,997509.29,Customer payment received,April,16,997509.29,15604440.069999993,SAFE
+2024-04-18,Expense,Supplier Payment,382129.22,Business expense paid,April,16,-382129.22,15222310.849999992,SAFE
+2024-04-18,Expense,Utilities,343504.98,Business expense paid,April,16,-343504.98,14878805.869999992,SAFE
+2024-04-19,Expense,Staff Salaries,185682.97,Business expense paid,April,16,-185682.97,14693122.899999991,SAFE
+2024-04-19,Expense,Staff Salaries,123473.1,Business expense paid,April,16,-123473.1,14569649.799999991,SAFE
+2024-04-19,Expense,Miscellaneous,155958.31,Business expense paid,April,16,-155958.31,14413691.48999999,SAFE
+2024-04-19,Income,Loan Received,765035.63,Customer payment received,April,16,765035.63,15178727.119999992,SAFE
+2024-04-19,Income,Loan Received,707429.81,Customer payment received,April,16,707429.81,15886156.929999992,SAFE
+2024-04-20,Income,Product Sales,770489.19,Customer payment received,April,16,770489.19,16656646.119999992,SAFE
+2024-04-20,Income,Product Sales,301544.36,Customer payment received,April,16,301544.36,16958190.479999993,SAFE
+2024-04-20,Income,Advance Payment,78071.44,Customer payment received,April,16,78071.44,17036261.919999994,SAFE
+2024-04-20,Expense,Utilities,388327.77,Business expense paid,April,16,-388327.77,16647934.149999995,SAFE
+2024-04-20,Expense,Staff Salaries,158934.62,Business expense paid,April,16,-158934.62,16488999.529999996,SAFE
+2024-04-21,Income,Loan Received,592254.6,Customer payment received,April,16,592254.6,17081254.129999995,SAFE
+2024-04-21,Expense,Logistics / Delivery,82009.14,Business expense paid,April,16,-82009.14,16999244.989999995,SAFE
+2024-04-21,Expense,Marketing,260125.93,Business expense paid,April,16,-260125.93,16739119.059999995,SAFE
+2024-04-22,Expense,Loan Repayment,295231.85,Business expense paid,April,17,-295231.85,16443887.209999995,SAFE
+2024-04-22,Expense,Loan Repayment,433812.81,Business expense paid,April,17,-433812.81,16010074.399999995,SAFE
+2024-04-22,Expense,Loan Repayment,158967.3,Business expense paid,April,17,-158967.3,15851107.099999994,SAFE
+2024-04-22,Income,Product Sales,486924.73,Customer payment received,April,17,486924.73,16338031.829999994,SAFE
+2024-04-22,Expense,Staff Salaries,28995.94,Business expense paid,April,17,-28995.94,16309035.889999995,SAFE
+2024-04-23,Expense,Loan Repayment,271502.02,Business expense paid,April,17,-271502.02,16037533.869999995,SAFE
+2024-04-23,Expense,Loan Repayment,136791.91,Business expense paid,April,17,-136791.91,15900741.959999995,SAFE
+2024-04-23,Income,Bulk Order Payment,1084509.68,Customer payment received,April,17,1084509.68,16985251.639999997,SAFE
+2024-04-23,Expense,Marketing,419372.44,Business expense paid,April,17,-419372.44,16565879.199999997,SAFE
+2024-04-23,Expense,Staff Salaries,62302.34,Business expense paid,April,17,-62302.34,16503576.859999998,SAFE
+2024-04-24,Income,Bulk Order Payment,853095.07,Customer payment received,April,17,853095.07,17356671.929999996,SAFE
+2024-04-24,Income,Bulk Order Payment,419722.05,Customer payment received,April,17,419722.05,17776393.979999997,SAFE
+2024-04-24,Expense,Staff Salaries,265031.98,Business expense paid,April,17,-265031.98,17511361.999999996,SAFE
+2024-04-25,Expense,Staff Salaries,692826.02,Business expense paid,April,17,-692826.02,16818535.979999997,SAFE
+2024-04-25,Expense,Rent,206442.84,Business expense paid,April,17,-206442.84,16612093.139999997,SAFE
+2024-04-25,Expense,Miscellaneous,189054.26,Business expense paid,April,17,-189054.26,16423038.879999997,SAFE
+2024-04-25,Income,Bulk Order Payment,438654.72,Customer payment received,April,17,438654.72,16861693.599999998,SAFE
+2024-04-25,Income,Advance Payment,605449.67,Customer payment received,April,17,605449.67,17467143.27,SAFE
+2024-04-25,Income,Bulk Order Payment,318082.29,Customer payment received,April,17,318082.29,17785225.56,SAFE
+2024-04-26,Income,Loan Received,862168.12,Customer payment received,April,17,862168.12,18647393.68,SAFE
+2024-04-26,Income,Advance Payment,785190.15,Customer payment received,April,17,785190.15,19432583.83,SAFE
+2024-04-26,Expense,Staff Salaries,166427.19,Business expense paid,April,17,-166427.19,19266156.639999997,SAFE
+2024-04-26,Expense,Utilities,441147.82,Business expense paid,April,17,-441147.82,18825008.819999997,SAFE
+2024-04-26,Expense,Supplier Payment,724028.84,Business expense paid,April,17,-724028.84,18100979.979999997,SAFE
+2024-04-27,Income,Advance Payment,602703.73,Customer payment received,April,17,602703.73,18703683.709999997,SAFE
+2024-04-27,Income,Product Sales,554829.61,Customer payment received,April,17,554829.61,19258513.319999997,SAFE
+2024-04-27,Expense,Utilities,354589.29,Business expense paid,April,17,-354589.29,18903924.029999997,SAFE
+2024-04-28,Expense,Supplier Payment,469181.35,Business expense paid,April,17,-469181.35,18434742.679999996,SAFE
+2024-04-28,Expense,Logistics / Delivery,424569.92,Business expense paid,April,17,-424569.92,18010172.759999994,SAFE
+2024-04-28,Expense,Miscellaneous,313799.12,Business expense paid,April,17,-313799.12,17696373.639999993,SAFE
+2024-04-28,Income,Product Sales,746899.79,Customer payment received,April,17,746899.79,18443273.429999992,SAFE
+2024-04-28,Expense,Supplier Payment,435782.87,Business expense paid,April,17,-435782.87,18007490.55999999,SAFE
+2024-04-29,Income,Advance Payment,178676.97,Customer payment received,April,18,178676.97,18186167.52999999,SAFE
+2024-04-29,Income,Product Sales,1101504.86,Customer payment received,April,18,1101504.86,19287672.38999999,SAFE
+2024-04-29,Expense,Miscellaneous,69818.8,Business expense paid,April,18,-69818.8,19217853.58999999,SAFE
+2024-04-29,Expense,Rent,892211.92,Business expense paid,April,18,-892211.92,18325641.669999987,SAFE
+2024-04-30,Income,Advance Payment,461494.58,Customer payment received,April,18,461494.58,18787136.249999985,SAFE
+2024-04-30,Income,Advance Payment,476787.39,Customer payment received,April,18,476787.39,19263923.639999986,SAFE
+2024-04-30,Expense,Marketing,717892.07,Business expense paid,April,18,-717892.07,18546031.569999985,SAFE
+2024-05-01,Expense,Rent,180013.78,Business expense paid,May,18,-180013.78,18366017.789999984,SAFE
+2024-05-01,Expense,Utilities,460038.3,Business expense paid,May,18,-460038.3,17905979.489999983,SAFE
+2024-05-01,Income,Loan Received,297268.07,Customer payment received,May,18,297268.07,18203247.559999984,SAFE
+2024-05-01,Expense,Rent,140957.98,Business expense paid,May,18,-140957.98,18062289.579999983,SAFE
+2024-05-02,Expense,Supplier Payment,264074.47,Business expense paid,May,18,-264074.47,17798215.109999985,SAFE
+2024-05-02,Income,Loan Received,573859.97,Customer payment received,May,18,573859.97,18372075.079999983,SAFE
+2024-05-02,Income,Product Sales,146713.74,Customer payment received,May,18,146713.74,18518788.81999998,SAFE
+2024-05-02,Income,Loan Received,282186.42,Customer payment received,May,18,282186.42,18800975.239999983,SAFE
+2024-05-02,Expense,Staff Salaries,410328.7,Business expense paid,May,18,-410328.7,18390646.539999984,SAFE
+2024-05-02,Expense,Loan Repayment,330091.91,Business expense paid,May,18,-330091.91,18060554.629999984,SAFE
+2024-05-03,Expense,Rent,128740.66,Business expense paid,May,18,-128740.66,17931813.969999984,SAFE
+2024-05-03,Expense,Utilities,94373.68,Business expense paid,May,18,-94373.68,17837440.289999984,SAFE
+2024-05-03,Income,Bulk Order Payment,281649.55,Customer payment received,May,18,281649.55,18119089.839999985,SAFE
+2024-05-03,Income,Loan Received,306299.26,Customer payment received,May,18,306299.26,18425389.099999987,SAFE
+2024-05-04,Expense,Rent,306678.29,Business expense paid,May,18,-306678.29,18118710.809999987,SAFE
+2024-05-04,Expense,Rent,97878.66,Business expense paid,May,18,-97878.66,18020832.149999987,SAFE
+2024-05-04,Income,Product Sales,430767.28,Customer payment received,May,18,430767.28,18451599.42999999,SAFE
+2024-05-04,Expense,Rent,440668.53,Business expense paid,May,18,-440668.53,18010930.899999987,SAFE
+2024-05-05,Income,Loan Received,378255.05,Customer payment received,May,18,378255.05,18389185.949999988,SAFE
+2024-05-05,Income,Bulk Order Payment,323224.56,Customer payment received,May,18,323224.56,18712410.509999987,SAFE
+2024-05-05,Income,Advance Payment,777191.45,Customer payment received,May,18,777191.45,19489601.959999986,SAFE
+2024-05-05,Expense,Logistics / Delivery,132321.41,Business expense paid,May,18,-132321.41,19357280.549999986,SAFE
+2024-05-05,Expense,Miscellaneous,168544.59,Business expense paid,May,18,-168544.59,19188735.959999986,SAFE
+2024-05-05,Expense,Logistics / Delivery,453907.68,Business expense paid,May,18,-453907.68,18734828.279999986,SAFE
+2024-05-05,Expense,Miscellaneous,196563.66,Business expense paid,May,18,-196563.66,18538264.619999986,SAFE
+2024-05-06,Expense,Supplier Payment,439040.92,Business expense paid,May,19,-439040.92,18099223.699999984,SAFE
+2024-05-06,Expense,Rent,412107.79,Business expense paid,May,19,-412107.79,17687115.909999985,SAFE
+2024-05-06,Income,Loan Received,427180.02,Customer payment received,May,19,427180.02,18114295.929999985,SAFE
+2024-05-06,Income,Loan Received,627078.91,Customer payment received,May,19,627078.91,18741374.839999985,SAFE
+2024-05-07,Income,Advance Payment,410442.99,Customer payment received,May,19,410442.99,19151817.829999983,SAFE
+2024-05-07,Income,Product Sales,465905.56,Customer payment received,May,19,465905.56,19617723.389999982,SAFE
+2024-05-07,Income,Product Sales,583550.73,Customer payment received,May,19,583550.73,20201274.119999982,SAFE
+2024-05-07,Expense,Rent,60260.06,Business expense paid,May,19,-60260.06,20141014.059999984,SAFE
+2024-05-07,Expense,Rent,150939.82,Business expense paid,May,19,-150939.82,19990074.239999983,SAFE
+2024-05-07,Expense,Staff Salaries,418902.42,Business expense paid,May,19,-418902.42,19571171.81999998,SAFE
+2024-05-08,Income,Advance Payment,662527.44,Customer payment received,May,19,662527.44,20233699.259999983,SAFE
+2024-05-08,Expense,Loan Repayment,219150.51,Business expense paid,May,19,-219150.51,20014548.74999998,SAFE
+2024-05-09,Income,Advance Payment,218404.07,Customer payment received,May,19,218404.07,20232952.81999998,SAFE
+2024-05-09,Expense,Marketing,422804.62,Business expense paid,May,19,-422804.62,19810148.19999998,SAFE
+2024-05-09,Income,Loan Received,330471.12,Customer payment received,May,19,330471.12,20140619.31999998,SAFE
+2024-05-09,Income,Advance Payment,795894.01,Customer payment received,May,19,795894.01,20936513.329999983,SAFE
+2024-05-10,Income,Advance Payment,153199.69,Customer payment received,May,19,153199.69,21089713.019999985,SAFE
+2024-05-10,Expense,Rent,354114.55,Business expense paid,May,19,-354114.55,20735598.469999984,SAFE
+2024-05-10,Expense,Miscellaneous,384243.75,Business expense paid,May,19,-384243.75,20351354.719999984,SAFE
+2024-05-10,Expense,Supplier Payment,235328.71,Business expense paid,May,19,-235328.71,20116026.009999983,SAFE
+2024-05-10,Expense,Supplier Payment,454811.59,Business expense paid,May,19,-454811.59,19661214.419999983,SAFE
+2024-05-11,Income,Bulk Order Payment,211741.06,Customer payment received,May,19,211741.06,19872955.47999998,SAFE
+2024-05-11,Income,Loan Received,461603.18,Customer payment received,May,19,461603.18,20334558.65999998,SAFE
+2024-05-11,Expense,Logistics / Delivery,392562.86,Business expense paid,May,19,-392562.86,19941995.799999982,SAFE
+2024-05-12,Income,Bulk Order Payment,141386.26,Customer payment received,May,19,141386.26,20083382.059999984,SAFE
+2024-05-12,Income,Loan Received,364869.16,Customer payment received,May,19,364869.16,20448251.219999984,SAFE
+2024-05-12,Expense,Miscellaneous,73211.79,Business expense paid,May,19,-73211.79,20375039.429999985,SAFE
+2024-05-13,Expense,Staff Salaries,338898.22,Business expense paid,May,20,-338898.22,20036141.209999986,SAFE
+2024-05-13,Expense,Rent,293918.58,Business expense paid,May,20,-293918.58,19742222.629999988,SAFE
+2024-05-13,Income,Bulk Order Payment,452040.34,Customer payment received,May,20,452040.34,20194262.969999988,SAFE
+2024-05-13,Income,Advance Payment,588908.25,Customer payment received,May,20,588908.25,20783171.219999988,SAFE
+2024-05-13,Income,Advance Payment,371929.17,Customer payment received,May,20,371929.17,21155100.38999999,SAFE
+2024-05-14,Income,Product Sales,780990.87,Customer payment received,May,20,780990.87,21936091.25999999,SAFE
+2024-05-14,Income,Product Sales,765052.76,Customer payment received,May,20,765052.76,22701144.019999992,SAFE
+2024-05-14,Income,Loan Received,342840.3,Customer payment received,May,20,342840.3,23043984.319999993,SAFE
+2024-05-14,Expense,Marketing,325121.98,Business expense paid,May,20,-325121.98,22718862.339999992,SAFE
+2024-05-15,Income,Advance Payment,610487.44,Customer payment received,May,20,610487.44,23329349.779999994,SAFE
+2024-05-15,Income,Advance Payment,641390.01,Customer payment received,May,20,641390.01,23970739.789999995,SAFE
+2024-05-15,Expense,Staff Salaries,371811.69,Business expense paid,May,20,-371811.69,23598928.099999994,SAFE
+2024-05-15,Expense,Marketing,390320.66,Business expense paid,May,20,-390320.66,23208607.439999994,SAFE
+2024-05-16,Expense,Miscellaneous,490793.21,Business expense paid,May,20,-490793.21,22717814.229999993,SAFE
+2024-05-16,Expense,Miscellaneous,418584.16,Business expense paid,May,20,-418584.16,22299230.069999993,SAFE
+2024-05-16,Income,Advance Payment,83251.77,Customer payment received,May,20,83251.77,22382481.839999992,SAFE
+2024-05-17,Income,Bulk Order Payment,186708.5,Customer payment received,May,20,186708.5,22569190.339999992,SAFE
+2024-05-17,Income,Loan Received,97325.4,Customer payment received,May,20,97325.4,22666515.73999999,SAFE
+2024-05-17,Income,Bulk Order Payment,77737.84,Customer payment received,May,20,77737.84,22744253.57999999,SAFE
+2024-05-17,Expense,Supplier Payment,399732.42,Business expense paid,May,20,-399732.42,22344521.15999999,SAFE
+2024-05-18,Income,Loan Received,750028.23,Customer payment received,May,20,750028.23,23094549.38999999,SAFE
+2024-05-18,Income,Loan Received,791842.03,Customer payment received,May,20,791842.03,23886391.41999999,SAFE
+2024-05-18,Expense,Logistics / Delivery,37577.97,Business expense paid,May,20,-37577.97,23848813.44999999,SAFE
+2024-05-18,Expense,Supplier Payment,157333.23,Business expense paid,May,20,-157333.23,23691480.21999999,SAFE
+2024-05-18,Expense,Marketing,435583.17,Business expense paid,May,20,-435583.17,23255897.04999999,SAFE
+2024-05-19,Expense,Utilities,196326.52,Business expense paid,May,20,-196326.52,23059570.52999999,SAFE
+2024-05-19,Expense,Miscellaneous,258177.55,Business expense paid,May,20,-258177.55,22801392.97999999,SAFE
+2024-05-19,Expense,Rent,182737.58,Business expense paid,May,20,-182737.58,22618655.39999999,SAFE
+2024-05-19,Income,Loan Received,377713.54,Customer payment received,May,20,377713.54,22996368.93999999,SAFE
+2024-05-19,Income,Advance Payment,143356.26,Customer payment received,May,20,143356.26,23139725.19999999,SAFE
+2024-05-19,Expense,Loan Repayment,449426.0,Business expense paid,May,20,-449426.0,22690299.19999999,SAFE
+2024-05-20,Income,Product Sales,595310.99,Customer payment received,May,21,595310.99,23285610.18999999,SAFE
+2024-05-20,Expense,Rent,309177.58,Business expense paid,May,21,-309177.58,22976432.609999992,SAFE
+2024-05-20,Expense,Marketing,281827.71,Business expense paid,May,21,-281827.71,22694604.89999999,SAFE
+2024-05-20,Expense,Marketing,69247.0,Business expense paid,May,21,-69247.0,22625357.89999999,SAFE
+2024-05-20,Expense,Utilities,337241.23,Business expense paid,May,21,-337241.23,22288116.66999999,SAFE
+2024-05-21,Expense,Supplier Payment,151786.57,Business expense paid,May,21,-151786.57,22136330.09999999,SAFE
+2024-05-21,Expense,Marketing,234622.24,Business expense paid,May,21,-234622.24,21901707.859999992,SAFE
+2024-05-21,Expense,Loan Repayment,315128.71,Business expense paid,May,21,-315128.71,21586579.14999999,SAFE
+2024-05-21,Income,Loan Received,501966.22,Customer payment received,May,21,501966.22,22088545.36999999,SAFE
+2024-05-21,Income,Loan Received,174983.58,Customer payment received,May,21,174983.58,22263528.949999988,SAFE
+2024-05-22,Income,Loan Received,553387.92,Customer payment received,May,21,553387.92,22816916.86999999,SAFE
+2024-05-22,Expense,Rent,266281.29,Business expense paid,May,21,-266281.29,22550635.57999999,SAFE
+2024-05-22,Expense,Rent,477338.91,Business expense paid,May,21,-477338.91,22073296.66999999,SAFE
+2024-05-22,Expense,Miscellaneous,427361.27,Business expense paid,May,21,-427361.27,21645935.39999999,SAFE
+2024-05-23,Income,Bulk Order Payment,144672.52,Customer payment received,May,21,144672.52,21790607.91999999,SAFE
+2024-05-23,Expense,Supplier Payment,193832.28,Business expense paid,May,21,-193832.28,21596775.63999999,SAFE
+2024-05-23,Expense,Miscellaneous,310445.52,Business expense paid,May,21,-310445.52,21286330.11999999,SAFE
+2024-05-23,Expense,Marketing,475435.29,Business expense paid,May,21,-475435.29,20810894.82999999,SAFE
+2024-05-24,Expense,Logistics / Delivery,331789.15,Business expense paid,May,21,-331789.15,20479105.679999992,SAFE
+2024-05-24,Expense,Miscellaneous,373123.93,Business expense paid,May,21,-373123.93,20105981.749999993,SAFE
+2024-05-24,Expense,Supplier Payment,481049.63,Business expense paid,May,21,-481049.63,19624932.119999994,SAFE
+2024-05-24,Income,Loan Received,447094.91,Customer payment received,May,21,447094.91,20072027.029999994,SAFE
+2024-05-24,Income,Bulk Order Payment,622313.35,Customer payment received,May,21,622313.35,20694340.379999995,SAFE
+2024-05-25,Income,Product Sales,340240.54,Customer payment received,May,21,340240.54,21034580.919999994,SAFE
+2024-05-25,Income,Advance Payment,246332.51,Customer payment received,May,21,246332.51,21280913.429999996,SAFE
+2024-05-25,Income,Bulk Order Payment,578028.36,Customer payment received,May,21,578028.36,21858941.789999995,SAFE
+2024-05-25,Expense,Miscellaneous,635599.27,Business expense paid,May,21,-635599.27,21223342.519999996,SAFE
+2024-05-25,Expense,Rent,208954.09,Business expense paid,May,21,-208954.09,21014388.429999996,SAFE
+2024-05-25,Expense,Miscellaneous,772841.91,Business expense paid,May,21,-772841.91,20241546.519999996,SAFE
+2024-05-26,Income,Loan Received,724009.27,Customer payment received,May,21,724009.27,20965555.789999995,SAFE
+2024-05-26,Expense,Marketing,736283.42,Business expense paid,May,21,-736283.42,20229272.369999994,SAFE
+2024-05-27,Expense,Logistics / Delivery,140857.16,Business expense paid,May,22,-140857.16,20088415.209999993,SAFE
+2024-05-27,Income,Bulk Order Payment,718498.76,Customer payment received,May,22,718498.76,20806913.969999995,SAFE
+2024-05-27,Expense,Logistics / Delivery,721753.68,Business expense paid,May,22,-721753.68,20085160.289999995,SAFE
+2024-05-27,Income,Product Sales,310568.97,Customer payment received,May,22,310568.97,20395729.259999994,SAFE
+2024-05-27,Income,Advance Payment,462497.86,Customer payment received,May,22,462497.86,20858227.119999994,SAFE
+2024-05-28,Income,Loan Received,227552.14,Customer payment received,May,22,227552.14,21085779.259999994,SAFE
+2024-05-28,Expense,Marketing,347814.6,Business expense paid,May,22,-347814.6,20737964.659999993,SAFE
+2024-05-29,Income,Bulk Order Payment,652746.29,Customer payment received,May,22,652746.29,21390710.94999999,SAFE
+2024-05-29,Income,Product Sales,508961.27,Customer payment received,May,22,508961.27,21899672.21999999,SAFE
+2024-05-29,Expense,Miscellaneous,303227.18,Business expense paid,May,22,-303227.18,21596445.03999999,SAFE
+2024-05-30,Expense,Marketing,424777.96,Business expense paid,May,22,-424777.96,21171667.07999999,SAFE
+2024-05-30,Income,Loan Received,358096.34,Customer payment received,May,22,358096.34,21529763.41999999,SAFE
+2024-05-30,Income,Product Sales,667504.55,Customer payment received,May,22,667504.55,22197267.96999999,SAFE
+2024-05-30,Income,Advance Payment,143995.09,Customer payment received,May,22,143995.09,22341263.05999999,SAFE
+2024-05-31,Expense,Rent,754321.66,Business expense paid,May,22,-754321.66,21586941.39999999,SAFE
+2024-05-31,Income,Bulk Order Payment,708470.11,Customer payment received,May,22,708470.11,22295411.50999999,SAFE
+2024-05-31,Expense,Supplier Payment,409782.2,Business expense paid,May,22,-409782.2,21885629.30999999,SAFE
+2024-06-01,Income,Advance Payment,173492.81,Customer payment received,June,22,173492.81,22059122.11999999,SAFE
+2024-06-01,Income,Bulk Order Payment,751053.38,Customer payment received,June,22,751053.38,22810175.49999999,SAFE
+2024-06-01,Expense,Utilities,474791.91,Business expense paid,June,22,-474791.91,22335383.58999999,SAFE
+2024-06-01,Expense,Utilities,426048.18,Business expense paid,June,22,-426048.18,21909335.40999999,SAFE
+2024-06-01,Expense,Utilities,114224.92,Business expense paid,June,22,-114224.92,21795110.489999987,SAFE
+2024-06-02,Expense,Rent,304068.05,Business expense paid,June,22,-304068.05,21491042.439999986,SAFE
+2024-06-02,Income,Product Sales,518766.77,Customer payment received,June,22,518766.77,22009809.209999986,SAFE
+2024-06-02,Expense,Marketing,102176.3,Business expense paid,June,22,-102176.3,21907632.909999985,SAFE
+2024-06-03,Expense,Utilities,259058.27,Business expense paid,June,23,-259058.27,21648574.639999986,SAFE
+2024-06-03,Income,Loan Received,538347.48,Customer payment received,June,23,538347.48,22186922.119999986,SAFE
+2024-06-03,Income,Product Sales,80895.73,Customer payment received,June,23,80895.73,22267817.849999987,SAFE
+2024-06-03,Income,Advance Payment,110917.14,Customer payment received,June,23,110917.14,22378734.989999987,SAFE
+2024-06-04,Income,Loan Received,767487.63,Customer payment received,June,23,767487.63,23146222.619999986,SAFE
+2024-06-04,Income,Loan Received,233658.43,Customer payment received,June,23,233658.43,23379881.049999986,SAFE
+2024-06-04,Income,Product Sales,273075.4,Customer payment received,June,23,273075.4,23652956.449999984,SAFE
+2024-06-04,Expense,Loan Repayment,95878.61,Business expense paid,June,23,-95878.61,23557077.839999985,SAFE
+2024-06-05,Expense,Staff Salaries,385119.2,Business expense paid,June,23,-385119.2,23171958.639999986,SAFE
+2024-06-05,Expense,Marketing,372415.88,Business expense paid,June,23,-372415.88,22799542.759999987,SAFE
+2024-06-05,Expense,Rent,488179.58,Business expense paid,June,23,-488179.58,22311363.17999999,SAFE
+2024-06-05,Income,Advance Payment,398331.62,Customer payment received,June,23,398331.62,22709694.79999999,SAFE
+2024-06-05,Income,Advance Payment,504995.2,Customer payment received,June,23,504995.2,23214689.99999999,SAFE
+2024-06-06,Income,Product Sales,231303.4,Customer payment received,June,23,231303.4,23445993.399999987,SAFE
+2024-06-06,Income,Bulk Order Payment,250603.76,Customer payment received,June,23,250603.76,23696597.15999999,SAFE
+2024-06-06,Expense,Utilities,66469.59,Business expense paid,June,23,-66469.59,23630127.56999999,SAFE
+2024-06-06,Expense,Loan Repayment,473784.75,Business expense paid,June,23,-473784.75,23156342.81999999,SAFE
+2024-06-07,Expense,Rent,111120.37,Business expense paid,June,23,-111120.37,23045222.449999988,SAFE
+2024-06-07,Income,Bulk Order Payment,772014.39,Customer payment received,June,23,772014.39,23817236.83999999,SAFE
+2024-06-07,Expense,Marketing,468200.74,Business expense paid,June,23,-468200.74,23349036.09999999,SAFE
+2024-06-07,Expense,Miscellaneous,259167.46,Business expense paid,June,23,-259167.46,23089868.63999999,SAFE
+2024-06-08,Expense,Miscellaneous,44259.39,Business expense paid,June,23,-44259.39,23045609.24999999,SAFE
+2024-06-08,Expense,Supplier Payment,300005.17,Business expense paid,June,23,-300005.17,22745604.079999987,SAFE
+2024-06-08,Expense,Miscellaneous,306809.01,Business expense paid,June,23,-306809.01,22438795.069999985,SAFE
+2024-06-08,Income,Loan Received,67382.22,Customer payment received,June,23,67382.22,22506177.289999984,SAFE
+2024-06-08,Income,Loan Received,709306.75,Customer payment received,June,23,709306.75,23215484.039999984,SAFE
+2024-06-08,Expense,Logistics / Delivery,484009.58,Business expense paid,June,23,-484009.58,22731474.459999986,SAFE
+2024-06-09,Expense,Logistics / Delivery,293735.19,Business expense paid,June,23,-293735.19,22437739.269999985,SAFE
+2024-06-09,Expense,Supplier Payment,41716.35,Business expense paid,June,23,-41716.35,22396022.919999983,SAFE
+2024-06-09,Income,Advance Payment,373195.83,Customer payment received,June,23,373195.83,22769218.74999998,SAFE
+2024-06-09,Income,Product Sales,452518.06,Customer payment received,June,23,452518.06,23221736.80999998,SAFE
+2024-06-09,Expense,Marketing,386651.25,Business expense paid,June,23,-386651.25,22835085.55999998,SAFE
+2024-06-10,Income,Product Sales,464917.19,Customer payment received,June,24,464917.19,23300002.74999998,SAFE
+2024-06-10,Income,Loan Received,339761.62,Customer payment received,June,24,339761.62,23639764.369999982,SAFE
+2024-06-10,Expense,Staff Salaries,416149.43,Business expense paid,June,24,-416149.43,23223614.939999983,SAFE
+2024-06-10,Expense,Staff Salaries,81758.43,Business expense paid,June,24,-81758.43,23141856.509999983,SAFE
+2024-06-10,Expense,Marketing,209073.78,Business expense paid,June,24,-209073.78,22932782.72999998,SAFE
+2024-06-11,Income,Bulk Order Payment,754211.43,Customer payment received,June,24,754211.43,23686994.15999998,SAFE
+2024-06-11,Income,Loan Received,199293.41,Customer payment received,June,24,199293.41,23886287.56999998,SAFE
+2024-06-11,Income,Product Sales,425058.43,Customer payment received,June,24,425058.43,24311345.99999998,SAFE
+2024-06-11,Expense,Marketing,85777.46,Business expense paid,June,24,-85777.46,24225568.53999998,SAFE
+2024-06-12,Expense,Miscellaneous,304987.83,Business expense paid,June,24,-304987.83,23920580.709999982,SAFE
+2024-06-12,Expense,Utilities,98000.98,Business expense paid,June,24,-98000.98,23822579.72999998,SAFE
+2024-06-12,Income,Bulk Order Payment,504695.39,Customer payment received,June,24,504695.39,24327275.119999982,SAFE
+2024-06-12,Income,Bulk Order Payment,439499.53,Customer payment received,June,24,439499.53,24766774.649999984,SAFE
+2024-06-12,Expense,Marketing,467056.99,Business expense paid,June,24,-467056.99,24299717.659999985,SAFE
+2024-06-13,Expense,Miscellaneous,366272.05,Business expense paid,June,24,-366272.05,23933445.609999985,SAFE
+2024-06-13,Income,Loan Received,472193.2,Customer payment received,June,24,472193.2,24405638.809999984,SAFE
+2024-06-13,Income,Advance Payment,661811.62,Customer payment received,June,24,661811.62,25067450.429999985,SAFE
+2024-06-13,Income,Product Sales,298429.7,Customer payment received,June,24,298429.7,25365880.129999984,SAFE
+2024-06-13,Expense,Supplier Payment,300177.03,Business expense paid,June,24,-300177.03,25065703.099999983,SAFE
+2024-06-13,Expense,Utilities,306516.62,Business expense paid,June,24,-306516.62,24759186.47999998,SAFE
+2024-06-13,Expense,Logistics / Delivery,484193.93,Business expense paid,June,24,-484193.93,24274992.549999982,SAFE
+2024-06-14,Expense,Staff Salaries,35153.85,Business expense paid,June,24,-35153.85,24239838.69999998,SAFE
+2024-06-14,Expense,Logistics / Delivery,414397.42,Business expense paid,June,24,-414397.42,23825441.27999998,SAFE
+2024-06-14,Income,Loan Received,443174.25,Customer payment received,June,24,443174.25,24268615.52999998,SAFE
+2024-06-15,Income,Advance Payment,64203.03,Customer payment received,June,24,64203.03,24332818.55999998,SAFE
+2024-06-15,Expense,Logistics / Delivery,92687.0,Business expense paid,June,24,-92687.0,24240131.55999998,SAFE
+2024-06-15,Expense,Miscellaneous,216981.16,Business expense paid,June,24,-216981.16,24023150.39999998,SAFE
+2024-06-15,Expense,Supplier Payment,438952.5,Business expense paid,June,24,-438952.5,23584197.89999998,SAFE
+2024-06-15,Expense,Logistics / Delivery,358772.11,Business expense paid,June,24,-358772.11,23225425.78999998,SAFE
+2024-06-16,Expense,Logistics / Delivery,312836.76,Business expense paid,June,24,-312836.76,22912589.02999998,SAFE
+2024-06-16,Expense,Utilities,282211.15,Business expense paid,June,24,-282211.15,22630377.87999998,SAFE
+2024-06-16,Expense,Utilities,479521.95,Business expense paid,June,24,-479521.95,22150855.92999998,SAFE
+2024-06-16,Income,Advance Payment,444107.86,Customer payment received,June,24,444107.86,22594963.78999998,SAFE
+2024-06-16,Income,Loan Received,293787.15,Customer payment received,June,24,293787.15,22888750.93999998,SAFE
+2024-06-16,Income,Loan Received,767514.12,Customer payment received,June,24,767514.12,23656265.05999998,SAFE
+2024-06-17,Income,Advance Payment,273874.37,Customer payment received,June,25,273874.37,23930139.42999998,SAFE
+2024-06-17,Income,Bulk Order Payment,628380.7,Customer payment received,June,25,628380.7,24558520.12999998,SAFE
+2024-06-17,Income,Loan Received,567679.93,Customer payment received,June,25,567679.93,25126200.05999998,SAFE
+2024-06-17,Expense,Utilities,250305.64,Business expense paid,June,25,-250305.64,24875894.41999998,SAFE
+2024-06-17,Expense,Loan Repayment,158138.9,Business expense paid,June,25,-158138.9,24717755.51999998,SAFE
+2024-06-17,Expense,Loan Repayment,449965.02,Business expense paid,June,25,-449965.02,24267790.49999998,SAFE
+2024-06-18,Income,Bulk Order Payment,765956.65,Customer payment received,June,25,765956.65,25033747.14999998,SAFE
+2024-06-18,Income,Advance Payment,267839.49,Customer payment received,June,25,267839.49,25301586.63999998,SAFE
+2024-06-18,Expense,Miscellaneous,186254.49,Business expense paid,June,25,-186254.49,25115332.14999998,SAFE
+2024-06-19,Expense,Logistics / Delivery,136379.86,Business expense paid,June,25,-136379.86,24978952.28999998,SAFE
+2024-06-19,Expense,Logistics / Delivery,72428.76,Business expense paid,June,25,-72428.76,24906523.52999998,SAFE
+2024-06-19,Income,Advance Payment,210490.11,Customer payment received,June,25,210490.11,25117013.63999998,SAFE
+2024-06-19,Income,Loan Received,242332.98,Customer payment received,June,25,242332.98,25359346.61999998,SAFE
+2024-06-19,Income,Advance Payment,749767.95,Customer payment received,June,25,749767.95,26109114.569999978,SAFE
+2024-06-20,Income,Product Sales,224627.42,Customer payment received,June,25,224627.42,26333741.98999998,SAFE
+2024-06-20,Income,Loan Received,359976.02,Customer payment received,June,25,359976.02,26693718.00999998,SAFE
+2024-06-20,Income,Bulk Order Payment,125408.68,Customer payment received,June,25,125408.68,26819126.68999998,SAFE
+2024-06-20,Expense,Rent,482969.01,Business expense paid,June,25,-482969.01,26336157.679999977,SAFE
+2024-06-21,Expense,Staff Salaries,455809.74,Business expense paid,June,25,-455809.74,25880347.93999998,SAFE
+2024-06-21,Expense,Supplier Payment,174160.5,Business expense paid,June,25,-174160.5,25706187.43999998,SAFE
+2024-06-21,Expense,Logistics / Delivery,333103.39,Business expense paid,June,25,-333103.39,25373084.04999998,SAFE
+2024-06-21,Income,Loan Received,539669.6,Customer payment received,June,25,539669.6,25912753.64999998,SAFE
+2024-06-21,Income,Bulk Order Payment,408086.39,Customer payment received,June,25,408086.39,26320840.03999998,SAFE
+2024-06-22,Income,Product Sales,604014.89,Customer payment received,June,25,604014.89,26924854.92999998,SAFE
+2024-06-22,Income,Bulk Order Payment,734922.29,Customer payment received,June,25,734922.29,27659777.21999998,SAFE
+2024-06-22,Income,Bulk Order Payment,363413.74,Customer payment received,June,25,363413.74,28023190.95999998,SAFE
+2024-06-22,Expense,Loan Repayment,498642.47,Business expense paid,June,25,-498642.47,27524548.48999998,SAFE
+2024-06-23,Expense,Miscellaneous,156589.59,Business expense paid,June,25,-156589.59,27367958.89999998,SAFE
+2024-06-23,Income,Advance Payment,189733.72,Customer payment received,June,25,189733.72,27557692.61999998,SAFE
+2024-06-23,Income,Product Sales,707557.38,Customer payment received,June,25,707557.38,28265249.999999978,SAFE
+2024-06-23,Expense,Staff Salaries,292621.7,Business expense paid,June,25,-292621.7,27972628.29999998,SAFE
+2024-06-23,Expense,Marketing,465658.33,Business expense paid,June,25,-465658.33,27506969.96999998,SAFE
+2024-06-24,Expense,Miscellaneous,178728.37,Business expense paid,June,26,-178728.37,27328241.59999998,SAFE
+2024-06-24,Expense,Rent,331176.96,Business expense paid,June,26,-331176.96,26997064.63999998,SAFE
+2024-06-24,Income,Loan Received,688294.8,Customer payment received,June,26,688294.8,27685359.43999998,SAFE
+2024-06-24,Expense,Staff Salaries,112549.47,Business expense paid,June,26,-112549.47,27572809.96999998,SAFE
+2024-06-25,Income,Advance Payment,602463.42,Customer payment received,June,26,602463.42,28175273.389999982,SAFE
+2024-06-25,Expense,Loan Repayment,187627.61,Business expense paid,June,26,-187627.61,27987645.779999983,SAFE
+2024-06-25,Expense,Marketing,750519.21,Business expense paid,June,26,-750519.21,27237126.56999998,SAFE
+2024-06-26,Income,Product Sales,350624.93,Customer payment received,June,26,350624.93,27587751.49999998,SAFE
+2024-06-26,Expense,Miscellaneous,884176.01,Business expense paid,June,26,-884176.01,26703575.48999998,SAFE
+2024-06-26,Expense,Logistics / Delivery,315591.84,Business expense paid,June,26,-315591.84,26387983.64999998,SAFE
+2024-06-27,Expense,Marketing,261981.92,Business expense paid,June,26,-261981.92,26126001.729999978,SAFE
+2024-06-27,Expense,Supplier Payment,296881.21,Business expense paid,June,26,-296881.21,25829120.519999977,SAFE
+2024-06-27,Expense,Supplier Payment,634552.06,Business expense paid,June,26,-634552.06,25194568.45999998,SAFE
+2024-06-27,Income,Bulk Order Payment,245588.96,Customer payment received,June,26,245588.96,25440157.41999998,SAFE
+2024-06-27,Expense,Marketing,687245.75,Business expense paid,June,26,-687245.75,24752911.66999998,SAFE
+2024-06-28,Income,Advance Payment,138668.64,Customer payment received,June,26,138668.64,24891580.30999998,SAFE
+2024-06-28,Income,Advance Payment,169787.62,Customer payment received,June,26,169787.62,25061367.92999998,SAFE
+2024-06-28,Income,Advance Payment,567717.78,Customer payment received,June,26,567717.78,25629085.709999982,SAFE
+2024-06-28,Expense,Logistics / Delivery,567036.39,Business expense paid,June,26,-567036.39,25062049.31999998,SAFE
+2024-06-28,Expense,Miscellaneous,863159.5,Business expense paid,June,26,-863159.5,24198889.81999998,SAFE
+2024-06-28,Expense,Marketing,168352.33,Business expense paid,June,26,-168352.33,24030537.489999983,SAFE
+2024-06-29,Income,Loan Received,576455.55,Customer payment received,June,26,576455.55,24606993.039999984,SAFE
+2024-06-29,Income,Bulk Order Payment,618012.89,Customer payment received,June,26,618012.89,25225005.929999985,SAFE
+2024-06-29,Expense,Staff Salaries,623815.42,Business expense paid,June,26,-623815.42,24601190.509999983,SAFE
+2024-06-29,Expense,Marketing,490037.75,Business expense paid,June,26,-490037.75,24111152.759999983,SAFE
+2024-06-30,Income,Product Sales,737933.53,Customer payment received,June,26,737933.53,24849086.289999984,SAFE
+2024-06-30,Expense,Logistics / Delivery,752060.78,Business expense paid,June,26,-752060.78,24097025.509999983,SAFE
+2024-07-01,Expense,Loan Repayment,83333.28,Business expense paid,July,27,-83333.28,24013692.22999998,SAFE
+2024-07-01,Expense,Supplier Payment,239263.27,Business expense paid,July,27,-239263.27,23774428.959999982,SAFE
+2024-07-01,Expense,Miscellaneous,408172.2,Business expense paid,July,27,-408172.2,23366256.759999983,SAFE
+2024-07-01,Income,Bulk Order Payment,137180.02,Customer payment received,July,27,137180.02,23503436.779999983,SAFE
+2024-07-01,Expense,Miscellaneous,63651.99,Business expense paid,July,27,-63651.99,23439784.789999984,SAFE
+2024-07-01,Income,Loan Received,296088.23,Customer payment received,July,27,296088.23,23735873.019999985,SAFE
+2024-07-01,Income,Bulk Order Payment,452495.12,Customer payment received,July,27,452495.12,24188368.139999986,SAFE
+2024-07-02,Income,Advance Payment,396783.73,Customer payment received,July,27,396783.73,24585151.869999986,SAFE
+2024-07-02,Income,Loan Received,592460.06,Customer payment received,July,27,592460.06,25177611.929999985,SAFE
+2024-07-02,Income,Product Sales,240842.91,Customer payment received,July,27,240842.91,25418454.839999985,SAFE
+2024-07-02,Expense,Supplier Payment,297589.41,Business expense paid,July,27,-297589.41,25120865.429999985,SAFE
+2024-07-02,Expense,Staff Salaries,223374.74,Business expense paid,July,27,-223374.74,24897490.689999986,SAFE
+2024-07-03,Expense,Loan Repayment,389106.59,Business expense paid,July,27,-389106.59,24508384.099999987,SAFE
+2024-07-03,Income,Loan Received,73801.15,Customer payment received,July,27,73801.15,24582185.249999985,SAFE
+2024-07-03,Expense,Loan Repayment,199741.24,Business expense paid,July,27,-199741.24,24382444.009999987,SAFE
+2024-07-03,Income,Product Sales,795592.75,Customer payment received,July,27,795592.75,25178036.759999987,SAFE
+2024-07-03,Income,Loan Received,789602.94,Customer payment received,July,27,789602.94,25967639.699999988,SAFE
+2024-07-04,Income,Loan Received,702215.21,Customer payment received,July,27,702215.21,26669854.90999999,SAFE
+2024-07-04,Income,Bulk Order Payment,331734.15,Customer payment received,July,27,331734.15,27001589.059999987,SAFE
+2024-07-04,Expense,Loan Repayment,76943.92,Business expense paid,July,27,-76943.92,26924645.139999986,SAFE
+2024-07-04,Expense,Logistics / Delivery,273844.42,Business expense paid,July,27,-273844.42,26650800.719999984,SAFE
+2024-07-04,Expense,Supplier Payment,420714.37,Business expense paid,July,27,-420714.37,26230086.349999983,SAFE
+2024-07-05,Income,Loan Received,397252.93,Customer payment received,July,27,397252.93,26627339.279999983,SAFE
+2024-07-05,Income,Bulk Order Payment,448950.21,Customer payment received,July,27,448950.21,27076289.489999983,SAFE
+2024-07-05,Expense,Rent,241100.13,Business expense paid,July,27,-241100.13,26835189.359999985,SAFE
+2024-07-05,Expense,Staff Salaries,152311.87,Business expense paid,July,27,-152311.87,26682877.489999983,SAFE
+2024-07-06,Expense,Staff Salaries,135519.82,Business expense paid,July,27,-135519.82,26547357.669999983,SAFE
+2024-07-06,Income,Loan Received,657108.64,Customer payment received,July,27,657108.64,27204466.309999984,SAFE
+2024-07-07,Expense,Supplier Payment,137472.39,Business expense paid,July,27,-137472.39,27066993.919999983,SAFE
+2024-07-07,Income,Loan Received,495458.11,Customer payment received,July,27,495458.11,27562452.029999983,SAFE
+2024-07-08,Income,Bulk Order Payment,379222.11,Customer payment received,July,28,379222.11,27941674.139999982,SAFE
+2024-07-08,Income,Product Sales,615789.28,Customer payment received,July,28,615789.28,28557463.419999983,SAFE
+2024-07-08,Expense,Utilities,261870.01,Business expense paid,July,28,-261870.01,28295593.40999998,SAFE
+2024-07-08,Expense,Marketing,132397.53,Business expense paid,July,28,-132397.53,28163195.87999998,SAFE
+2024-07-09,Income,Advance Payment,498438.26,Customer payment received,July,28,498438.26,28661634.139999982,SAFE
+2024-07-09,Income,Bulk Order Payment,227678.03,Customer payment received,July,28,227678.03,28889312.169999983,SAFE
+2024-07-09,Income,Bulk Order Payment,789271.67,Customer payment received,July,28,789271.67,29678583.839999985,SAFE
+2024-07-09,Expense,Supplier Payment,164240.46,Business expense paid,July,28,-164240.46,29514343.379999984,SAFE
+2024-07-09,Expense,Rent,287224.7,Business expense paid,July,28,-287224.7,29227118.679999985,SAFE
+2024-07-09,Expense,Loan Repayment,320476.71,Business expense paid,July,28,-320476.71,28906641.969999984,SAFE
+2024-07-09,Expense,Supplier Payment,286808.32,Business expense paid,July,28,-286808.32,28619833.649999984,SAFE
+2024-07-10,Expense,Rent,164353.48,Business expense paid,July,28,-164353.48,28455480.169999983,SAFE
+2024-07-10,Expense,Logistics / Delivery,135664.73,Business expense paid,July,28,-135664.73,28319815.439999983,SAFE
+2024-07-10,Expense,Miscellaneous,200700.89,Business expense paid,July,28,-200700.89,28119114.549999982,SAFE
+2024-07-10,Income,Loan Received,756189.81,Customer payment received,July,28,756189.81,28875304.35999998,SAFE
+2024-07-10,Income,Advance Payment,639353.45,Customer payment received,July,28,639353.45,29514657.80999998,SAFE
+2024-07-10,Expense,Utilities,215964.4,Business expense paid,July,28,-215964.4,29298693.40999998,SAFE
+2024-07-11,Expense,Logistics / Delivery,64382.72,Business expense paid,July,28,-64382.72,29234310.689999983,SAFE
+2024-07-11,Income,Loan Received,736055.88,Customer payment received,July,28,736055.88,29970366.56999998,SAFE
+2024-07-11,Income,Bulk Order Payment,775839.64,Customer payment received,July,28,775839.64,30746206.209999982,SAFE
+2024-07-11,Expense,Logistics / Delivery,136572.09,Business expense paid,July,28,-136572.09,30609634.119999982,SAFE
+2024-07-11,Expense,Staff Salaries,178526.24,Business expense paid,July,28,-178526.24,30431107.879999984,SAFE
+2024-07-11,Expense,Marketing,462668.53,Business expense paid,July,28,-462668.53,29968439.349999983,SAFE
+2024-07-12,Expense,Logistics / Delivery,110318.38,Business expense paid,July,28,-110318.38,29858120.969999984,SAFE
+2024-07-12,Income,Product Sales,251346.19,Customer payment received,July,28,251346.19,30109467.159999985,SAFE
+2024-07-13,Income,Advance Payment,206666.82,Customer payment received,July,28,206666.82,30316133.979999986,SAFE
+2024-07-13,Income,Product Sales,277391.02,Customer payment received,July,28,277391.02,30593524.999999985,SAFE
+2024-07-13,Expense,Staff Salaries,469836.69,Business expense paid,July,28,-469836.69,30123688.309999984,SAFE
+2024-07-13,Expense,Miscellaneous,378502.03,Business expense paid,July,28,-378502.03,29745186.279999983,SAFE
+2024-07-14,Income,Bulk Order Payment,571719.71,Customer payment received,July,28,571719.71,30316905.989999983,SAFE
+2024-07-14,Expense,Marketing,459260.7,Business expense paid,July,28,-459260.7,29857645.289999984,SAFE
+2024-07-14,Expense,Loan Repayment,392246.66,Business expense paid,July,28,-392246.66,29465398.629999984,SAFE
+2024-07-14,Expense,Marketing,243800.22,Business expense paid,July,28,-243800.22,29221598.409999985,SAFE
+2024-07-14,Expense,Marketing,168042.7,Business expense paid,July,28,-168042.7,29053555.709999986,SAFE
+2024-07-15,Expense,Logistics / Delivery,41943.42,Business expense paid,July,29,-41943.42,29011612.289999984,SAFE
+2024-07-15,Expense,Loan Repayment,197938.36,Business expense paid,July,29,-197938.36,28813673.929999985,SAFE
+2024-07-15,Income,Loan Received,123956.17,Customer payment received,July,29,123956.17,28937630.099999987,SAFE
+2024-07-15,Income,Loan Received,712108.96,Customer payment received,July,29,712108.96,29649739.059999987,SAFE
+2024-07-15,Income,Advance Payment,621221.73,Customer payment received,July,29,621221.73,30270960.789999988,SAFE
+2024-07-16,Income,Advance Payment,159442.03,Customer payment received,July,29,159442.03,30430402.81999999,SAFE
+2024-07-16,Income,Loan Received,464983.67,Customer payment received,July,29,464983.67,30895386.48999999,SAFE
+2024-07-16,Income,Bulk Order Payment,271394.22,Customer payment received,July,29,271394.22,31166780.70999999,SAFE
+2024-07-16,Expense,Logistics / Delivery,130408.94,Business expense paid,July,29,-130408.94,31036371.76999999,SAFE
+2024-07-16,Expense,Marketing,259664.71,Business expense paid,July,29,-259664.71,30776707.059999987,SAFE
+2024-07-16,Expense,Miscellaneous,143516.84,Business expense paid,July,29,-143516.84,30633190.219999988,SAFE
+2024-07-17,Expense,Staff Salaries,271493.32,Business expense paid,July,29,-271493.32,30361696.899999987,SAFE
+2024-07-17,Income,Loan Received,176949.28,Customer payment received,July,29,176949.28,30538646.17999999,SAFE
+2024-07-17,Expense,Supplier Payment,460111.71,Business expense paid,July,29,-460111.71,30078534.469999988,SAFE
+2024-07-17,Income,Loan Received,531270.84,Customer payment received,July,29,531270.84,30609805.309999987,SAFE
+2024-07-17,Income,Advance Payment,395621.75,Customer payment received,July,29,395621.75,31005427.059999987,SAFE
+2024-07-18,Income,Product Sales,86385.8,Customer payment received,July,29,86385.8,31091812.85999999,SAFE
+2024-07-18,Income,Bulk Order Payment,359294.17,Customer payment received,July,29,359294.17,31451107.02999999,SAFE
+2024-07-18,Income,Bulk Order Payment,100975.96,Customer payment received,July,29,100975.96,31552082.98999999,SAFE
+2024-07-18,Expense,Miscellaneous,124985.44,Business expense paid,July,29,-124985.44,31427097.54999999,SAFE
+2024-07-19,Income,Loan Received,95337.59,Customer payment received,July,29,95337.59,31522435.13999999,SAFE
+2024-07-19,Income,Product Sales,544463.26,Customer payment received,July,29,544463.26,32066898.39999999,SAFE
+2024-07-19,Expense,Loan Repayment,275461.99,Business expense paid,July,29,-275461.99,31791436.409999993,SAFE
+2024-07-20,Expense,Staff Salaries,71367.89,Business expense paid,July,29,-71367.89,31720068.519999992,SAFE
+2024-07-20,Expense,Rent,406960.5,Business expense paid,July,29,-406960.5,31313108.019999992,SAFE
+2024-07-20,Expense,Loan Repayment,28228.45,Business expense paid,July,29,-28228.45,31284879.569999993,SAFE
+2024-07-20,Income,Advance Payment,62544.61,Customer payment received,July,29,62544.61,31347424.179999992,SAFE
+2024-07-21,Income,Bulk Order Payment,161673.11,Customer payment received,July,29,161673.11,31509097.28999999,SAFE
+2024-07-21,Income,Advance Payment,514835.63,Customer payment received,July,29,514835.63,32023932.91999999,SAFE
+2024-07-21,Income,Advance Payment,661410.79,Customer payment received,July,29,661410.79,32685343.70999999,SAFE
+2024-07-21,Expense,Loan Repayment,57929.24,Business expense paid,July,29,-57929.24,32627414.46999999,SAFE
+2024-07-21,Expense,Logistics / Delivery,240318.92,Business expense paid,July,29,-240318.92,32387095.54999999,SAFE
+2024-07-21,Expense,Logistics / Delivery,495311.86,Business expense paid,July,29,-495311.86,31891783.68999999,SAFE
+2024-07-21,Expense,Staff Salaries,163987.83,Business expense paid,July,29,-163987.83,31727795.859999992,SAFE
+2024-07-22,Income,Loan Received,332877.18,Customer payment received,July,30,332877.18,32060673.03999999,SAFE
+2024-07-22,Expense,Rent,325639.08,Business expense paid,July,30,-325639.08,31735033.959999993,SAFE
+2024-07-22,Income,Product Sales,793756.03,Customer payment received,July,30,793756.03,32528789.989999995,SAFE
+2024-07-22,Income,Loan Received,120125.38,Customer payment received,July,30,120125.38,32648915.369999994,SAFE
+2024-07-23,Expense,Miscellaneous,130287.92,Business expense paid,July,30,-130287.92,32518627.44999999,SAFE
+2024-07-23,Expense,Supplier Payment,449499.78,Business expense paid,July,30,-449499.78,32069127.66999999,SAFE
+2024-07-23,Expense,Staff Salaries,291611.18,Business expense paid,July,30,-291611.18,31777516.48999999,SAFE
+2024-07-23,Income,Loan Received,424893.79,Customer payment received,July,30,424893.79,32202410.27999999,SAFE
+2024-07-24,Income,Product Sales,84921.48,Customer payment received,July,30,84921.48,32287331.75999999,SAFE
+2024-07-24,Income,Advance Payment,563321.56,Customer payment received,July,30,563321.56,32850653.31999999,SAFE
+2024-07-24,Expense,Marketing,106090.16,Business expense paid,July,30,-106090.16,32744563.15999999,SAFE
+2024-07-25,Income,Bulk Order Payment,771101.89,Customer payment received,July,30,771101.89,33515665.04999999,SAFE
+2024-07-25,Expense,Utilities,838547.95,Business expense paid,July,30,-838547.95,32677117.09999999,SAFE
+2024-07-25,Expense,Logistics / Delivery,176357.02,Business expense paid,July,30,-176357.02,32500760.07999999,SAFE
+2024-07-25,Expense,Loan Repayment,525625.27,Business expense paid,July,30,-525625.27,31975134.80999999,SAFE
+2024-07-25,Expense,Marketing,620958.21,Business expense paid,July,30,-620958.21,31354176.59999999,SAFE
+2024-07-26,Expense,Loan Repayment,330272.13,Business expense paid,July,30,-330272.13,31023904.46999999,SAFE
+2024-07-26,Expense,Staff Salaries,236572.42,Business expense paid,July,30,-236572.42,30787332.04999999,SAFE
+2024-07-26,Income,Bulk Order Payment,616706.95,Customer payment received,July,30,616706.95,31404038.99999999,SAFE
+2024-07-26,Income,Product Sales,642873.56,Customer payment received,July,30,642873.56,32046912.559999987,SAFE
+2024-07-26,Expense,Loan Repayment,82393.72,Business expense paid,July,30,-82393.72,31964518.83999999,SAFE
+2024-07-27,Expense,Staff Salaries,725519.67,Business expense paid,July,30,-725519.67,31238999.169999987,SAFE
+2024-07-27,Income,Advance Payment,72219.24,Customer payment received,July,30,72219.24,31311218.409999985,SAFE
+2024-07-27,Income,Loan Received,637661.1,Customer payment received,July,30,637661.1,31948879.509999987,SAFE
+2024-07-27,Expense,Loan Repayment,233111.57,Business expense paid,July,30,-233111.57,31715767.939999986,SAFE
+2024-07-27,Expense,Loan Repayment,409116.63,Business expense paid,July,30,-409116.63,31306651.309999987,SAFE
+2024-07-27,Expense,Utilities,110039.72,Business expense paid,July,30,-110039.72,31196611.58999999,SAFE
+2024-07-28,Expense,Staff Salaries,347645.0,Business expense paid,July,30,-347645.0,30848966.58999999,SAFE
+2024-07-28,Expense,Marketing,675062.17,Business expense paid,July,30,-675062.17,30173904.419999987,SAFE
+2024-07-28,Income,Loan Received,250979.02,Customer payment received,July,30,250979.02,30424883.439999986,SAFE
+2024-07-29,Income,Loan Received,757220.17,Customer payment received,July,31,757220.17,31182103.60999999,SAFE
+2024-07-29,Expense,Staff Salaries,693803.37,Business expense paid,July,31,-693803.37,30488300.239999987,SAFE
+2024-07-29,Expense,Rent,150486.05,Business expense paid,July,31,-150486.05,30337814.189999986,SAFE
+2024-07-29,Expense,Loan Repayment,408366.3,Business expense paid,July,31,-408366.3,29929447.889999986,SAFE
+2024-07-30,Income,Advance Payment,69696.43,Customer payment received,July,31,69696.43,29999144.319999985,SAFE
+2024-07-30,Expense,Marketing,551742.82,Business expense paid,July,31,-551742.82,29447401.499999985,SAFE
+2024-07-31,Expense,Rent,530173.81,Business expense paid,July,31,-530173.81,28917227.689999986,SAFE
+2024-07-31,Expense,Rent,628113.02,Business expense paid,July,31,-628113.02,28289114.669999987,SAFE
+2024-07-31,Income,Loan Received,59255.46,Customer payment received,July,31,59255.46,28348370.129999988,SAFE
+2024-07-31,Income,Product Sales,340849.67,Customer payment received,July,31,340849.67,28689219.79999999,SAFE
+2024-08-01,Income,Advance Payment,151013.53,Customer payment received,August,31,151013.53,28840233.32999999,SAFE
+2024-08-01,Expense,Rent,90048.71,Business expense paid,August,31,-90048.71,28750184.61999999,SAFE
+2024-08-01,Expense,Loan Repayment,228644.61,Business expense paid,August,31,-228644.61,28521540.00999999,SAFE
+2024-08-01,Expense,Staff Salaries,163881.08,Business expense paid,August,31,-163881.08,28357658.929999992,SAFE
+2024-08-01,Expense,Logistics / Delivery,193339.96,Business expense paid,August,31,-193339.96,28164318.96999999,SAFE
+2024-08-02,Expense,Marketing,405956.7,Business expense paid,August,31,-405956.7,27758362.269999992,SAFE
+2024-08-02,Income,Bulk Order Payment,311265.16,Customer payment received,August,31,311265.16,28069627.429999992,SAFE
+2024-08-02,Income,Bulk Order Payment,236037.73,Customer payment received,August,31,236037.73,28305665.159999993,SAFE
+2024-08-02,Income,Loan Received,167096.1,Customer payment received,August,31,167096.1,28472761.259999994,SAFE
+2024-08-02,Expense,Loan Repayment,423974.43,Business expense paid,August,31,-423974.43,28048786.829999994,SAFE
+2024-08-02,Expense,Loan Repayment,231307.0,Business expense paid,August,31,-231307.0,27817479.829999994,SAFE
+2024-08-03,Expense,Logistics / Delivery,484526.28,Business expense paid,August,31,-484526.28,27332953.549999993,SAFE
+2024-08-03,Expense,Utilities,176425.39,Business expense paid,August,31,-176425.39,27156528.159999993,SAFE
+2024-08-03,Expense,Utilities,484988.11,Business expense paid,August,31,-484988.11,26671540.049999993,SAFE
+2024-08-03,Expense,Miscellaneous,372739.7,Business expense paid,August,31,-372739.7,26298800.349999994,SAFE
+2024-08-03,Income,Bulk Order Payment,245554.38,Customer payment received,August,31,245554.38,26544354.729999993,SAFE
+2024-08-03,Income,Bulk Order Payment,165195.88,Customer payment received,August,31,165195.88,26709550.609999992,SAFE
+2024-08-03,Income,Bulk Order Payment,468401.42,Customer payment received,August,31,468401.42,27177952.029999994,SAFE
+2024-08-04,Income,Bulk Order Payment,194256.99,Customer payment received,August,31,194256.99,27372209.019999992,SAFE
+2024-08-04,Income,Bulk Order Payment,296502.17,Customer payment received,August,31,296502.17,27668711.189999994,SAFE
+2024-08-04,Expense,Miscellaneous,477442.21,Business expense paid,August,31,-477442.21,27191268.979999993,SAFE
+2024-08-05,Expense,Loan Repayment,363313.47,Business expense paid,August,32,-363313.47,26827955.509999994,SAFE
+2024-08-05,Expense,Rent,136170.16,Business expense paid,August,32,-136170.16,26691785.349999994,SAFE
+2024-08-05,Expense,Utilities,86805.98,Business expense paid,August,32,-86805.98,26604979.369999994,SAFE
+2024-08-05,Expense,Miscellaneous,55503.27,Business expense paid,August,32,-55503.27,26549476.099999994,SAFE
+2024-08-05,Income,Product Sales,404076.81,Customer payment received,August,32,404076.81,26953552.909999993,SAFE
+2024-08-05,Income,Advance Payment,124341.78,Customer payment received,August,32,124341.78,27077894.689999994,SAFE
+2024-08-05,Income,Loan Received,398534.51,Customer payment received,August,32,398534.51,27476429.199999996,SAFE
+2024-08-06,Income,Loan Received,210362.29,Customer payment received,August,32,210362.29,27686791.489999995,SAFE
+2024-08-06,Income,Advance Payment,274640.34,Customer payment received,August,32,274640.34,27961431.829999994,SAFE
+2024-08-06,Income,Product Sales,345735.43,Customer payment received,August,32,345735.43,28307167.259999994,SAFE
+2024-08-06,Expense,Marketing,389097.94,Business expense paid,August,32,-389097.94,27918069.319999993,SAFE
+2024-08-07,Income,Product Sales,321149.93,Customer payment received,August,32,321149.93,28239219.249999993,SAFE
+2024-08-07,Expense,Marketing,484069.34,Business expense paid,August,32,-484069.34,27755149.909999993,SAFE
+2024-08-07,Expense,Loan Repayment,483544.05,Business expense paid,August,32,-483544.05,27271605.859999992,SAFE
+2024-08-07,Expense,Staff Salaries,70853.38,Business expense paid,August,32,-70853.38,27200752.479999993,SAFE
+2024-08-07,Expense,Logistics / Delivery,144194.42,Business expense paid,August,32,-144194.42,27056558.05999999,SAFE
+2024-08-08,Expense,Loan Repayment,70183.69,Business expense paid,August,32,-70183.69,26986374.36999999,SAFE
+2024-08-08,Expense,Staff Salaries,461862.82,Business expense paid,August,32,-461862.82,26524511.54999999,SAFE
+2024-08-08,Expense,Miscellaneous,498897.31,Business expense paid,August,32,-498897.31,26025614.23999999,SAFE
+2024-08-08,Income,Loan Received,198353.81,Customer payment received,August,32,198353.81,26223968.04999999,SAFE
+2024-08-08,Income,Bulk Order Payment,377554.0,Customer payment received,August,32,377554.0,26601522.04999999,SAFE
+2024-08-09,Income,Bulk Order Payment,404092.99,Customer payment received,August,32,404092.99,27005615.039999988,SAFE
+2024-08-09,Expense,Miscellaneous,169707.37,Business expense paid,August,32,-169707.37,26835907.669999987,SAFE
+2024-08-09,Expense,Miscellaneous,396449.6,Business expense paid,August,32,-396449.6,26439458.069999985,SAFE
+2024-08-09,Expense,Staff Salaries,187184.14,Business expense paid,August,32,-187184.14,26252273.929999985,SAFE
+2024-08-10,Income,Loan Received,354897.27,Customer payment received,August,32,354897.27,26607171.199999984,SAFE
+2024-08-10,Income,Advance Payment,173509.26,Customer payment received,August,32,173509.26,26780680.459999986,SAFE
+2024-08-10,Expense,Staff Salaries,408889.25,Business expense paid,August,32,-408889.25,26371791.209999986,SAFE
+2024-08-11,Expense,Logistics / Delivery,466362.77,Business expense paid,August,32,-466362.77,25905428.439999986,SAFE
+2024-08-11,Income,Product Sales,412131.0,Customer payment received,August,32,412131.0,26317559.439999986,SAFE
+2024-08-11,Expense,Rent,267677.07,Business expense paid,August,32,-267677.07,26049882.369999986,SAFE
+2024-08-12,Income,Loan Received,281932.03,Customer payment received,August,33,281932.03,26331814.399999987,SAFE
+2024-08-12,Income,Loan Received,134335.0,Customer payment received,August,33,134335.0,26466149.399999987,SAFE
+2024-08-12,Expense,Loan Repayment,109465.72,Business expense paid,August,33,-109465.72,26356683.67999999,SAFE
+2024-08-12,Expense,Logistics / Delivery,209879.54,Business expense paid,August,33,-209879.54,26146804.13999999,SAFE
+2024-08-13,Expense,Staff Salaries,153605.52,Business expense paid,August,33,-153605.52,25993198.61999999,SAFE
+2024-08-13,Expense,Rent,297126.99,Business expense paid,August,33,-297126.99,25696071.62999999,SAFE
+2024-08-13,Income,Loan Received,296491.42,Customer payment received,August,33,296491.42,25992563.049999993,SAFE
+2024-08-13,Income,Bulk Order Payment,32002.52,Customer payment received,August,33,32002.52,26024565.569999993,SAFE
+2024-08-14,Expense,Loan Repayment,306546.0,Business expense paid,August,33,-306546.0,25718019.569999993,SAFE
+2024-08-14,Expense,Marketing,301762.26,Business expense paid,August,33,-301762.26,25416257.30999999,SAFE
+2024-08-14,Income,Loan Received,176693.21,Customer payment received,August,33,176693.21,25592950.519999992,SAFE
+2024-08-14,Income,Loan Received,81279.74,Customer payment received,August,33,81279.74,25674230.25999999,SAFE
+2024-08-14,Expense,Miscellaneous,188952.76,Business expense paid,August,33,-188952.76,25485277.49999999,SAFE
+2024-08-15,Expense,Staff Salaries,134514.91,Business expense paid,August,33,-134514.91,25350762.58999999,SAFE
+2024-08-15,Income,Advance Payment,332449.54,Customer payment received,August,33,332449.54,25683212.129999988,SAFE
+2024-08-15,Income,Advance Payment,107637.38,Customer payment received,August,33,107637.38,25790849.509999987,SAFE
+2024-08-15,Income,Product Sales,443407.16,Customer payment received,August,33,443407.16,26234256.669999987,SAFE
+2024-08-16,Income,Bulk Order Payment,197987.73,Customer payment received,August,33,197987.73,26432244.399999987,SAFE
+2024-08-16,Expense,Rent,220754.77,Business expense paid,August,33,-220754.77,26211489.629999988,SAFE
+2024-08-16,Expense,Loan Repayment,295906.9,Business expense paid,August,33,-295906.9,25915582.72999999,SAFE
+2024-08-16,Expense,Rent,109161.78,Business expense paid,August,33,-109161.78,25806420.949999988,SAFE
+2024-08-16,Expense,Miscellaneous,286358.04,Business expense paid,August,33,-286358.04,25520062.90999999,SAFE
+2024-08-17,Income,Advance Payment,93133.44,Customer payment received,August,33,93133.44,25613196.34999999,SAFE
+2024-08-17,Income,Product Sales,408893.35,Customer payment received,August,33,408893.35,26022089.69999999,SAFE
+2024-08-17,Expense,Miscellaneous,476884.14,Business expense paid,August,33,-476884.14,25545205.55999999,SAFE
+2024-08-17,Expense,Loan Repayment,85536.66,Business expense paid,August,33,-85536.66,25459668.89999999,SAFE
+2024-08-17,Expense,Miscellaneous,482637.96,Business expense paid,August,33,-482637.96,24977030.93999999,SAFE
+2024-08-18,Expense,Utilities,127924.84,Business expense paid,August,33,-127924.84,24849106.09999999,SAFE
+2024-08-18,Expense,Utilities,160203.16,Business expense paid,August,33,-160203.16,24688902.93999999,SAFE
+2024-08-18,Expense,Logistics / Delivery,402022.83,Business expense paid,August,33,-402022.83,24286880.109999992,SAFE
+2024-08-18,Income,Loan Received,349564.07,Customer payment received,August,33,349564.07,24636444.179999992,SAFE
+2024-08-18,Income,Loan Received,338113.5,Customer payment received,August,33,338113.5,24974557.679999992,SAFE
+2024-08-18,Expense,Supplier Payment,100281.67,Business expense paid,August,33,-100281.67,24874276.00999999,SAFE
+2024-08-19,Income,Loan Received,381333.09,Customer payment received,August,34,381333.09,25255609.09999999,SAFE
+2024-08-19,Expense,Utilities,294902.75,Business expense paid,August,34,-294902.75,24960706.34999999,SAFE
+2024-08-20,Expense,Logistics / Delivery,373274.57,Business expense paid,August,34,-373274.57,24587431.77999999,SAFE
+2024-08-20,Income,Advance Payment,400477.26,Customer payment received,August,34,400477.26,24987909.03999999,SAFE
+2024-08-20,Income,Product Sales,273919.52,Customer payment received,August,34,273919.52,25261828.55999999,SAFE
+2024-08-20,Income,Loan Received,372001.86,Customer payment received,August,34,372001.86,25633830.41999999,SAFE
+2024-08-20,Expense,Staff Salaries,495092.35,Business expense paid,August,34,-495092.35,25138738.06999999,SAFE
+2024-08-21,Expense,Staff Salaries,230753.55,Business expense paid,August,34,-230753.55,24907984.51999999,SAFE
+2024-08-21,Income,Advance Payment,232379.55,Customer payment received,August,34,232379.55,25140364.06999999,SAFE
+2024-08-21,Income,Product Sales,423664.43,Customer payment received,August,34,423664.43,25564028.49999999,SAFE
+2024-08-22,Income,Advance Payment,124445.18,Customer payment received,August,34,124445.18,25688473.67999999,SAFE
+2024-08-22,Expense,Rent,99671.18,Business expense paid,August,34,-99671.18,25588802.49999999,SAFE
+2024-08-22,Expense,Logistics / Delivery,396727.67,Business expense paid,August,34,-396727.67,25192074.829999987,SAFE
+2024-08-22,Expense,Marketing,406611.44,Business expense paid,August,34,-406611.44,24785463.389999986,SAFE
+2024-08-22,Expense,Rent,275494.78,Business expense paid,August,34,-275494.78,24509968.609999985,SAFE
+2024-08-23,Expense,Loan Repayment,85082.68,Business expense paid,August,34,-85082.68,24424885.929999985,SAFE
+2024-08-23,Income,Advance Payment,470550.07,Customer payment received,August,34,470550.07,24895435.999999985,SAFE
+2024-08-23,Income,Advance Payment,160199.96,Customer payment received,August,34,160199.96,25055635.959999986,SAFE
+2024-08-24,Expense,Loan Repayment,417671.27,Business expense paid,August,34,-417671.27,24637964.689999986,SAFE
+2024-08-24,Income,Bulk Order Payment,476618.8,Customer payment received,August,34,476618.8,25114583.489999987,SAFE
+2024-08-24,Expense,Marketing,139845.08,Business expense paid,August,34,-139845.08,24974738.40999999,SAFE
+2024-08-25,Expense,Marketing,636223.92,Business expense paid,August,34,-636223.92,24338514.489999987,SAFE
+2024-08-25,Income,Advance Payment,93977.23,Customer payment received,August,34,93977.23,24432491.719999988,SAFE
+2024-08-25,Income,Loan Received,312515.77,Customer payment received,August,34,312515.77,24745007.489999987,SAFE
+2024-08-25,Expense,Staff Salaries,101246.06,Business expense paid,August,34,-101246.06,24643761.42999999,SAFE
+2024-08-25,Expense,Utilities,384063.07,Business expense paid,August,34,-384063.07,24259698.35999999,SAFE
+2024-08-25,Expense,Miscellaneous,428857.04,Business expense paid,August,34,-428857.04,23830841.31999999,SAFE
+2024-08-26,Expense,Loan Repayment,224205.06,Business expense paid,August,35,-224205.06,23606636.25999999,SAFE
+2024-08-26,Expense,Loan Repayment,770491.79,Business expense paid,August,35,-770491.79,22836144.46999999,SAFE
+2024-08-26,Expense,Miscellaneous,748668.37,Business expense paid,August,35,-748668.37,22087476.09999999,SAFE
+2024-08-26,Income,Product Sales,291880.0,Customer payment received,August,35,291880.0,22379356.09999999,SAFE
+2024-08-26,Income,Loan Received,358919.37,Customer payment received,August,35,358919.37,22738275.46999999,SAFE
+2024-08-27,Expense,Supplier Payment,417271.06,Business expense paid,August,35,-417271.06,22321004.409999993,SAFE
+2024-08-27,Expense,Rent,50067.09,Business expense paid,August,35,-50067.09,22270937.319999993,SAFE
+2024-08-27,Expense,Miscellaneous,75694.69,Business expense paid,August,35,-75694.69,22195242.62999999,SAFE
+2024-08-27,Income,Advance Payment,175289.32,Customer payment received,August,35,175289.32,22370531.94999999,SAFE
+2024-08-27,Income,Bulk Order Payment,181989.82,Customer payment received,August,35,181989.82,22552521.769999992,SAFE
+2024-08-27,Expense,Supplier Payment,717094.36,Business expense paid,August,35,-717094.36,21835427.409999993,SAFE
+2024-08-28,Income,Bulk Order Payment,121043.19,Customer payment received,August,35,121043.19,21956470.599999994,SAFE
+2024-08-28,Income,Advance Payment,426966.49,Customer payment received,August,35,426966.49,22383437.089999992,SAFE
+2024-08-28,Expense,Utilities,791501.79,Business expense paid,August,35,-791501.79,21591935.299999993,SAFE
+2024-08-28,Expense,Marketing,116645.75,Business expense paid,August,35,-116645.75,21475289.549999993,SAFE
+2024-08-29,Expense,Staff Salaries,406855.53,Business expense paid,August,35,-406855.53,21068434.019999992,SAFE
+2024-08-29,Expense,Supplier Payment,643995.11,Business expense paid,August,35,-643995.11,20424438.909999993,SAFE
+2024-08-29,Income,Bulk Order Payment,67089.24,Customer payment received,August,35,67089.24,20491528.14999999,SAFE
+2024-08-29,Income,Advance Payment,53304.27,Customer payment received,August,35,53304.27,20544832.41999999,SAFE
+2024-08-30,Income,Bulk Order Payment,244563.02,Customer payment received,August,35,244563.02,20789395.43999999,SAFE
+2024-08-30,Expense,Miscellaneous,484799.84,Business expense paid,August,35,-484799.84,20304595.59999999,SAFE
+2024-08-30,Expense,Marketing,44023.92,Business expense paid,August,35,-44023.92,20260571.67999999,SAFE
+2024-08-31,Income,Loan Received,474669.71,Customer payment received,August,35,474669.71,20735241.38999999,SAFE
+2024-08-31,Expense,Logistics / Delivery,448733.01,Business expense paid,August,35,-448733.01,20286508.379999988,SAFE
+2024-08-31,Expense,Staff Salaries,366972.42,Business expense paid,August,35,-366972.42,19919535.959999986,SAFE
+2024-09-01,Expense,Rent,327956.55,Business expense paid,September,35,-327956.55,19591579.409999985,SAFE
+2024-09-01,Income,Advance Payment,285013.61,Customer payment received,September,35,285013.61,19876593.019999985,SAFE
+2024-09-01,Expense,Rent,203706.1,Business expense paid,September,35,-203706.1,19672886.919999983,SAFE
+2024-09-02,Expense,Logistics / Delivery,231247.72,Business expense paid,September,36,-231247.72,19441639.199999984,SAFE
+2024-09-02,Expense,Rent,321478.42,Business expense paid,September,36,-321478.42,19120160.779999983,SAFE
+2024-09-02,Income,Product Sales,447881.21,Customer payment received,September,36,447881.21,19568041.989999983,SAFE
+2024-09-03,Income,Loan Received,512057.01,Customer payment received,September,36,512057.01,20080098.999999985,SAFE
+2024-09-03,Income,Product Sales,694971.89,Customer payment received,September,36,694971.89,20775070.889999986,SAFE
+2024-09-03,Expense,Staff Salaries,87206.31,Business expense paid,September,36,-87206.31,20687864.579999987,SAFE
+2024-09-04,Income,Advance Payment,597506.86,Customer payment received,September,36,597506.86,21285371.439999986,SAFE
+2024-09-04,Income,Advance Payment,772436.53,Customer payment received,September,36,772436.53,22057807.969999988,SAFE
+2024-09-04,Income,Bulk Order Payment,643307.5,Customer payment received,September,36,643307.5,22701115.469999988,SAFE
+2024-09-04,Expense,Logistics / Delivery,329417.87,Business expense paid,September,36,-329417.87,22371697.599999987,SAFE
+2024-09-04,Expense,Utilities,285630.38,Business expense paid,September,36,-285630.38,22086067.219999988,SAFE
+2024-09-04,Expense,Supplier Payment,393905.43,Business expense paid,September,36,-393905.43,21692161.789999988,SAFE
+2024-09-05,Income,Bulk Order Payment,438311.85,Customer payment received,September,36,438311.85,22130473.63999999,SAFE
+2024-09-05,Expense,Logistics / Delivery,396224.77,Business expense paid,September,36,-396224.77,21734248.86999999,SAFE
+2024-09-05,Income,Bulk Order Payment,706870.39,Customer payment received,September,36,706870.39,22441119.25999999,SAFE
+2024-09-05,Income,Advance Payment,610882.73,Customer payment received,September,36,610882.73,23052001.98999999,SAFE
+2024-09-06,Income,Bulk Order Payment,339414.18,Customer payment received,September,36,339414.18,23391416.16999999,SAFE
+2024-09-06,Income,Product Sales,424686.91,Customer payment received,September,36,424686.91,23816103.07999999,SAFE
+2024-09-06,Expense,Marketing,493703.62,Business expense paid,September,36,-493703.62,23322399.45999999,SAFE
+2024-09-07,Expense,Staff Salaries,386108.45,Business expense paid,September,36,-386108.45,22936291.00999999,SAFE
+2024-09-07,Income,Loan Received,340128.69,Customer payment received,September,36,340128.69,23276419.69999999,SAFE
+2024-09-07,Expense,Rent,282250.99,Business expense paid,September,36,-282250.99,22994168.709999993,SAFE
+2024-09-07,Expense,Staff Salaries,28010.91,Business expense paid,September,36,-28010.91,22966157.799999993,SAFE
+2024-09-08,Income,Product Sales,246638.96,Customer payment received,September,36,246638.96,23212796.759999994,SAFE
+2024-09-08,Expense,Loan Repayment,475366.4,Business expense paid,September,36,-475366.4,22737430.359999996,SAFE
+2024-09-09,Income,Loan Received,367681.43,Customer payment received,September,37,367681.43,23105111.789999995,SAFE
+2024-09-09,Expense,Rent,487670.42,Business expense paid,September,37,-487670.42,22617441.369999994,SAFE
+2024-09-09,Expense,Logistics / Delivery,265426.26,Business expense paid,September,37,-265426.26,22352015.109999992,SAFE
+2024-09-09,Income,Loan Received,264865.85,Customer payment received,September,37,264865.85,22616880.959999993,SAFE
+2024-09-09,Income,Bulk Order Payment,111820.86,Customer payment received,September,37,111820.86,22728701.819999993,SAFE
+2024-09-09,Expense,Staff Salaries,60126.6,Business expense paid,September,37,-60126.6,22668575.21999999,SAFE
+2024-09-10,Income,Product Sales,295062.72,Customer payment received,September,37,295062.72,22963637.93999999,SAFE
+2024-09-10,Income,Loan Received,282627.12,Customer payment received,September,37,282627.12,23246265.05999999,SAFE
+2024-09-10,Income,Bulk Order Payment,597468.78,Customer payment received,September,37,597468.78,23843733.839999992,SAFE
+2024-09-10,Expense,Loan Repayment,137350.28,Business expense paid,September,37,-137350.28,23706383.55999999,SAFE
+2024-09-11,Income,Product Sales,390028.88,Customer payment received,September,37,390028.88,24096412.43999999,SAFE
+2024-09-11,Expense,Rent,339718.2,Business expense paid,September,37,-339718.2,23756694.23999999,SAFE
+2024-09-11,Expense,Rent,77332.64,Business expense paid,September,37,-77332.64,23679361.59999999,SAFE
+2024-09-11,Expense,Rent,356719.81,Business expense paid,September,37,-356719.81,23322641.78999999,SAFE
+2024-09-12,Expense,Loan Repayment,180805.29,Business expense paid,September,37,-180805.29,23141836.499999993,SAFE
+2024-09-12,Expense,Supplier Payment,390286.54,Business expense paid,September,37,-390286.54,22751549.959999993,SAFE
+2024-09-12,Income,Advance Payment,764762.15,Customer payment received,September,37,764762.15,23516312.109999992,SAFE
+2024-09-12,Income,Bulk Order Payment,175222.22,Customer payment received,September,37,175222.22,23691534.32999999,SAFE
+2024-09-12,Expense,Staff Salaries,371809.2,Business expense paid,September,37,-371809.2,23319725.12999999,SAFE
+2024-09-13,Expense,Staff Salaries,391197.9,Business expense paid,September,37,-391197.9,22928527.229999993,SAFE
+2024-09-13,Income,Advance Payment,442890.66,Customer payment received,September,37,442890.66,23371417.889999993,SAFE
+2024-09-13,Income,Product Sales,584242.44,Customer payment received,September,37,584242.44,23955660.329999994,SAFE
+2024-09-13,Expense,Marketing,238494.93,Business expense paid,September,37,-238494.93,23717165.399999995,SAFE
+2024-09-13,Expense,Rent,46610.77,Business expense paid,September,37,-46610.77,23670554.629999995,SAFE
+2024-09-13,Expense,Utilities,196490.13,Business expense paid,September,37,-196490.13,23474064.499999996,SAFE
+2024-09-14,Expense,Supplier Payment,432170.72,Business expense paid,September,37,-432170.72,23041893.779999997,SAFE
+2024-09-14,Income,Product Sales,605584.97,Customer payment received,September,37,605584.97,23647478.749999996,SAFE
+2024-09-15,Income,Advance Payment,84486.15,Customer payment received,September,37,84486.15,23731964.899999995,SAFE
+2024-09-15,Expense,Rent,461708.74,Business expense paid,September,37,-461708.74,23270256.159999996,SAFE
+2024-09-15,Expense,Supplier Payment,466956.84,Business expense paid,September,37,-466956.84,22803299.319999997,SAFE
+2024-09-15,Expense,Loan Repayment,285375.1,Business expense paid,September,37,-285375.1,22517924.219999995,SAFE
+2024-09-15,Expense,Logistics / Delivery,127767.35,Business expense paid,September,37,-127767.35,22390156.869999994,SAFE
+2024-09-16,Expense,Supplier Payment,106085.29,Business expense paid,September,38,-106085.29,22284071.579999994,SAFE
+2024-09-16,Expense,Supplier Payment,77312.45,Business expense paid,September,38,-77312.45,22206759.129999995,SAFE
+2024-09-16,Expense,Staff Salaries,477958.12,Business expense paid,September,38,-477958.12,21728801.009999994,SAFE
+2024-09-16,Income,Advance Payment,736891.07,Customer payment received,September,38,736891.07,22465692.079999994,SAFE
+2024-09-16,Income,Product Sales,253443.47,Customer payment received,September,38,253443.47,22719135.549999993,SAFE
+2024-09-17,Income,Advance Payment,699524.17,Customer payment received,September,38,699524.17,23418659.719999995,SAFE
+2024-09-17,Income,Loan Received,295475.69,Customer payment received,September,38,295475.69,23714135.409999996,SAFE
+2024-09-17,Expense,Utilities,197081.29,Business expense paid,September,38,-197081.29,23517054.119999997,SAFE
+2024-09-18,Income,Bulk Order Payment,638380.41,Customer payment received,September,38,638380.41,24155434.529999997,SAFE
+2024-09-18,Income,Loan Received,397945.02,Customer payment received,September,38,397945.02,24553379.549999997,SAFE
+2024-09-18,Income,Bulk Order Payment,798340.34,Customer payment received,September,38,798340.34,25351719.889999997,SAFE
+2024-09-18,Expense,Loan Repayment,92271.86,Business expense paid,September,38,-92271.86,25259448.029999997,SAFE
+2024-09-18,Expense,Marketing,31476.92,Business expense paid,September,38,-31476.92,25227971.109999996,SAFE
+2024-09-19,Expense,Supplier Payment,221511.6,Business expense paid,September,38,-221511.6,25006459.509999994,SAFE
+2024-09-19,Expense,Logistics / Delivery,69895.53,Business expense paid,September,38,-69895.53,24936563.979999993,SAFE
+2024-09-19,Expense,Rent,486828.43,Business expense paid,September,38,-486828.43,24449735.549999993,SAFE
+2024-09-19,Income,Product Sales,763242.7,Customer payment received,September,38,763242.7,25212978.249999993,SAFE
+2024-09-19,Income,Product Sales,679680.51,Customer payment received,September,38,679680.51,25892658.759999994,SAFE
+2024-09-19,Income,Loan Received,619196.86,Customer payment received,September,38,619196.86,26511855.619999994,SAFE
+2024-09-20,Income,Product Sales,259868.95,Customer payment received,September,38,259868.95,26771724.569999993,SAFE
+2024-09-20,Income,Loan Received,740955.8,Customer payment received,September,38,740955.8,27512680.369999994,SAFE
+2024-09-20,Income,Advance Payment,575635.18,Customer payment received,September,38,575635.18,28088315.549999993,SAFE
+2024-09-20,Expense,Staff Salaries,487786.3,Business expense paid,September,38,-487786.3,27600529.249999993,SAFE
+2024-09-20,Expense,Rent,298769.9,Business expense paid,September,38,-298769.9,27301759.349999994,SAFE
+2024-09-20,Expense,Loan Repayment,325863.53,Business expense paid,September,38,-325863.53,26975895.819999993,SAFE
+2024-09-20,Expense,Supplier Payment,55918.63,Business expense paid,September,38,-55918.63,26919977.189999994,SAFE
+2024-09-21,Expense,Utilities,172667.71,Business expense paid,September,38,-172667.71,26747309.479999993,SAFE
+2024-09-21,Expense,Marketing,356348.29,Business expense paid,September,38,-356348.29,26390961.189999994,SAFE
+2024-09-21,Expense,Loan Repayment,464500.14,Business expense paid,September,38,-464500.14,25926461.049999993,SAFE
+2024-09-21,Income,Bulk Order Payment,546832.95,Customer payment received,September,38,546832.95,26473293.999999993,SAFE
+2024-09-21,Income,Advance Payment,227578.8,Customer payment received,September,38,227578.8,26700872.799999993,SAFE
+2024-09-22,Income,Bulk Order Payment,106015.58,Customer payment received,September,38,106015.58,26806888.37999999,SAFE
+2024-09-22,Expense,Staff Salaries,394369.75,Business expense paid,September,38,-394369.75,26412518.62999999,SAFE
+2024-09-22,Expense,Rent,94597.06,Business expense paid,September,38,-94597.06,26317921.569999993,SAFE
+2024-09-23,Income,Loan Received,399541.33,Customer payment received,September,39,399541.33,26717462.89999999,SAFE
+2024-09-23,Income,Advance Payment,140552.55,Customer payment received,September,39,140552.55,26858015.44999999,SAFE
+2024-09-23,Expense,Miscellaneous,236920.2,Business expense paid,September,39,-236920.2,26621095.249999993,SAFE
+2024-09-23,Expense,Staff Salaries,147203.8,Business expense paid,September,39,-147203.8,26473891.44999999,SAFE
+2024-09-24,Income,Advance Payment,168211.53,Customer payment received,September,39,168211.53,26642102.979999993,SAFE
+2024-09-24,Expense,Marketing,123209.98,Business expense paid,September,39,-123209.98,26518892.999999993,SAFE
+2024-09-25,Expense,Rent,744557.43,Business expense paid,September,39,-744557.43,25774335.569999993,SAFE
+2024-09-25,Expense,Utilities,621086.44,Business expense paid,September,39,-621086.44,25153249.12999999,SAFE
+2024-09-25,Income,Bulk Order Payment,118409.68,Customer payment received,September,39,118409.68,25271658.80999999,SAFE
+2024-09-25,Expense,Supplier Payment,378355.22,Business expense paid,September,39,-378355.22,24893303.589999992,SAFE
+2024-09-26,Income,Loan Received,764072.46,Customer payment received,September,39,764072.46,25657376.049999993,SAFE
+2024-09-26,Expense,Staff Salaries,117842.64,Business expense paid,September,39,-117842.64,25539533.409999993,SAFE
+2024-09-26,Expense,Rent,730566.79,Business expense paid,September,39,-730566.79,24808966.619999994,SAFE
+2024-09-27,Income,Bulk Order Payment,58967.69,Customer payment received,September,39,58967.69,24867934.309999995,SAFE
+2024-09-27,Expense,Loan Repayment,207186.94,Business expense paid,September,39,-207186.94,24660747.369999994,SAFE
+2024-09-27,Expense,Staff Salaries,357615.14,Business expense paid,September,39,-357615.14,24303132.229999993,SAFE
+2024-09-28,Expense,Miscellaneous,141863.9,Business expense paid,September,39,-141863.9,24161268.329999994,SAFE
+2024-09-28,Income,Loan Received,198312.75,Customer payment received,September,39,198312.75,24359581.079999994,SAFE
+2024-09-28,Expense,Marketing,115469.54,Business expense paid,September,39,-115469.54,24244111.539999995,SAFE
+2024-09-28,Income,Product Sales,489589.06,Customer payment received,September,39,489589.06,24733700.599999994,SAFE
+2024-09-28,Income,Product Sales,66350.14,Customer payment received,September,39,66350.14,24800050.739999995,SAFE
+2024-09-29,Income,Loan Received,175991.91,Customer payment received,September,39,175991.91,24976042.649999995,SAFE
+2024-09-29,Expense,Loan Repayment,464653.2,Business expense paid,September,39,-464653.2,24511389.449999996,SAFE
+2024-09-29,Expense,Rent,626295.96,Business expense paid,September,39,-626295.96,23885093.489999995,SAFE
+2024-09-29,Expense,Rent,341806.97,Business expense paid,September,39,-341806.97,23543286.519999996,SAFE
+2024-09-29,Expense,Miscellaneous,273584.25,Business expense paid,September,39,-273584.25,23269702.269999996,SAFE
+2024-09-30,Expense,Utilities,88685.92,Business expense paid,September,40,-88685.92,23181016.349999994,SAFE
+2024-09-30,Income,Bulk Order Payment,75987.08,Customer payment received,September,40,75987.08,23257003.429999992,SAFE
+2024-09-30,Expense,Miscellaneous,467042.35,Business expense paid,September,40,-467042.35,22789961.07999999,SAFE
+2024-09-30,Expense,Loan Repayment,366925.2,Business expense paid,September,40,-366925.2,22423035.87999999,SAFE
+2024-10-01,Income,Bulk Order Payment,531989.39,Customer payment received,October,40,531989.39,22955025.269999992,SAFE
+2024-10-01,Expense,Marketing,494913.74,Business expense paid,October,40,-494913.74,22460111.529999994,SAFE
+2024-10-02,Expense,Utilities,34065.66,Business expense paid,October,40,-34065.66,22426045.869999994,SAFE
+2024-10-02,Expense,Miscellaneous,48123.79,Business expense paid,October,40,-48123.79,22377922.079999994,SAFE
+2024-10-02,Expense,Supplier Payment,149809.13,Business expense paid,October,40,-149809.13,22228112.949999996,SAFE
+2024-10-02,Income,Loan Received,458388.35,Customer payment received,October,40,458388.35,22686501.299999997,SAFE
+2024-10-02,Income,Advance Payment,308025.59,Customer payment received,October,40,308025.59,22994526.889999997,SAFE
+2024-10-02,Expense,Logistics / Delivery,173061.23,Business expense paid,October,40,-173061.23,22821465.659999996,SAFE
+2024-10-03,Income,Bulk Order Payment,318074.67,Customer payment received,October,40,318074.67,23139540.33,SAFE
+2024-10-03,Income,Product Sales,780484.9,Customer payment received,October,40,780484.9,23920025.229999997,SAFE
+2024-10-03,Income,Bulk Order Payment,235892.79,Customer payment received,October,40,235892.79,24155918.019999996,SAFE
+2024-10-03,Expense,Supplier Payment,276170.99,Business expense paid,October,40,-276170.99,23879747.029999997,SAFE
+2024-10-03,Expense,Logistics / Delivery,386743.87,Business expense paid,October,40,-386743.87,23493003.159999996,SAFE
+2024-10-03,Expense,Loan Repayment,296332.21,Business expense paid,October,40,-296332.21,23196670.949999996,SAFE
+2024-10-04,Income,Bulk Order Payment,751404.52,Customer payment received,October,40,751404.52,23948075.469999995,SAFE
+2024-10-04,Income,Advance Payment,182075.28,Customer payment received,October,40,182075.28,24130150.749999996,SAFE
+2024-10-04,Expense,Supplier Payment,458710.4,Business expense paid,October,40,-458710.4,23671440.349999998,SAFE
+2024-10-04,Expense,Marketing,357657.38,Business expense paid,October,40,-357657.38,23313782.97,SAFE
+2024-10-04,Expense,Rent,474828.19,Business expense paid,October,40,-474828.19,22838954.779999997,SAFE
+2024-10-05,Expense,Logistics / Delivery,131659.21,Business expense paid,October,40,-131659.21,22707295.569999997,SAFE
+2024-10-05,Income,Product Sales,417827.32,Customer payment received,October,40,417827.32,23125122.889999997,SAFE
+2024-10-05,Income,Loan Received,761276.38,Customer payment received,October,40,761276.38,23886399.269999996,SAFE
+2024-10-05,Income,Bulk Order Payment,456593.45,Customer payment received,October,40,456593.45,24342992.719999995,SAFE
+2024-10-06,Income,Product Sales,444836.39,Customer payment received,October,40,444836.39,24787829.109999996,SAFE
+2024-10-06,Expense,Logistics / Delivery,460590.17,Business expense paid,October,40,-460590.17,24327238.939999994,SAFE
+2024-10-06,Expense,Marketing,407093.8,Business expense paid,October,40,-407093.8,23920145.139999993,SAFE
+2024-10-06,Expense,Marketing,364130.06,Business expense paid,October,40,-364130.06,23556015.079999994,SAFE
+2024-10-07,Income,Bulk Order Payment,66434.67,Customer payment received,October,41,66434.67,23622449.749999996,SAFE
+2024-10-07,Expense,Marketing,426310.83,Business expense paid,October,41,-426310.83,23196138.919999998,SAFE
+2024-10-08,Income,Loan Received,330193.09,Customer payment received,October,41,330193.09,23526332.009999998,SAFE
+2024-10-08,Expense,Marketing,181549.31,Business expense paid,October,41,-181549.31,23344782.7,SAFE
+2024-10-09,Expense,Utilities,201624.37,Business expense paid,October,41,-201624.37,23143158.33,SAFE
+2024-10-09,Expense,Rent,127153.86,Business expense paid,October,41,-127153.86,23016004.47,SAFE
+2024-10-09,Income,Loan Received,781895.5,Customer payment received,October,41,781895.5,23797899.97,SAFE
+2024-10-09,Expense,Rent,331606.53,Business expense paid,October,41,-331606.53,23466293.439999998,SAFE
+2024-10-09,Expense,Marketing,359447.8,Business expense paid,October,41,-359447.8,23106845.639999997,SAFE
+2024-10-10,Income,Product Sales,183281.22,Customer payment received,October,41,183281.22,23290126.859999996,SAFE
+2024-10-10,Expense,Supplier Payment,428363.34,Business expense paid,October,41,-428363.34,22861763.519999996,SAFE
+2024-10-10,Expense,Marketing,107399.24,Business expense paid,October,41,-107399.24,22754364.279999997,SAFE
+2024-10-10,Expense,Logistics / Delivery,462098.34,Business expense paid,October,41,-462098.34,22292265.939999998,SAFE
+2024-10-10,Expense,Staff Salaries,327030.45,Business expense paid,October,41,-327030.45,21965235.49,SAFE
+2024-10-11,Income,Product Sales,155482.53,Customer payment received,October,41,155482.53,22120718.02,SAFE
+2024-10-11,Income,Advance Payment,228496.94,Customer payment received,October,41,228496.94,22349214.96,SAFE
+2024-10-11,Expense,Staff Salaries,325369.65,Business expense paid,October,41,-325369.65,22023845.310000002,SAFE
+2024-10-11,Expense,Marketing,414397.67,Business expense paid,October,41,-414397.67,21609447.64,SAFE
+2024-10-12,Expense,Loan Repayment,205249.81,Business expense paid,October,41,-205249.81,21404197.830000002,SAFE
+2024-10-12,Expense,Supplier Payment,365798.52,Business expense paid,October,41,-365798.52,21038399.310000002,SAFE
+2024-10-12,Income,Bulk Order Payment,58546.72,Customer payment received,October,41,58546.72,21096946.03,SAFE
+2024-10-12,Income,Product Sales,237155.65,Customer payment received,October,41,237155.65,21334101.68,SAFE
+2024-10-12,Expense,Staff Salaries,143195.81,Business expense paid,October,41,-143195.81,21190905.87,SAFE
+2024-10-13,Income,Loan Received,713414.0,Customer payment received,October,41,713414.0,21904319.87,SAFE
+2024-10-13,Expense,Loan Repayment,188590.96,Business expense paid,October,41,-188590.96,21715728.91,SAFE
+2024-10-13,Expense,Miscellaneous,68685.71,Business expense paid,October,41,-68685.71,21647043.2,SAFE
+2024-10-13,Expense,Logistics / Delivery,398590.4,Business expense paid,October,41,-398590.4,21248452.8,SAFE
+2024-10-13,Expense,Staff Salaries,98075.13,Business expense paid,October,41,-98075.13,21150377.67,SAFE
+2024-10-14,Expense,Staff Salaries,97234.16,Business expense paid,October,42,-97234.16,21053143.51,SAFE
+2024-10-14,Expense,Loan Repayment,184067.94,Business expense paid,October,42,-184067.94,20869075.57,SAFE
+2024-10-14,Income,Advance Payment,271181.46,Customer payment received,October,42,271181.46,21140257.03,SAFE
+2024-10-14,Expense,Staff Salaries,476797.82,Business expense paid,October,42,-476797.82,20663459.21,SAFE
+2024-10-15,Income,Product Sales,756375.61,Customer payment received,October,42,756375.61,21419834.82,SAFE
+2024-10-15,Income,Loan Received,303462.94,Customer payment received,October,42,303462.94,21723297.76,SAFE
+2024-10-15,Income,Loan Received,578378.48,Customer payment received,October,42,578378.48,22301676.240000002,SAFE
+2024-10-15,Expense,Loan Repayment,311512.46,Business expense paid,October,42,-311512.46,21990163.78,SAFE
+2024-10-15,Expense,Staff Salaries,95409.81,Business expense paid,October,42,-95409.81,21894753.970000003,SAFE
+2024-10-16,Expense,Miscellaneous,43825.01,Business expense paid,October,42,-43825.01,21850928.96,SAFE
+2024-10-16,Expense,Staff Salaries,162752.31,Business expense paid,October,42,-162752.31,21688176.650000002,SAFE
+2024-10-16,Expense,Marketing,93723.17,Business expense paid,October,42,-93723.17,21594453.48,SAFE
+2024-10-16,Income,Bulk Order Payment,204162.86,Customer payment received,October,42,204162.86,21798616.34,SAFE
+2024-10-16,Income,Advance Payment,356959.9,Customer payment received,October,42,356959.9,22155576.24,SAFE
+2024-10-17,Income,Advance Payment,370704.47,Customer payment received,October,42,370704.47,22526280.709999997,SAFE
+2024-10-17,Expense,Supplier Payment,115843.9,Business expense paid,October,42,-115843.9,22410436.81,SAFE
+2024-10-17,Expense,Utilities,119337.43,Business expense paid,October,42,-119337.43,22291099.38,SAFE
+2024-10-17,Expense,Miscellaneous,488987.69,Business expense paid,October,42,-488987.69,21802111.689999998,SAFE
+2024-10-17,Expense,Utilities,425009.16,Business expense paid,October,42,-425009.16,21377102.529999997,SAFE
+2024-10-18,Expense,Miscellaneous,197312.8,Business expense paid,October,42,-197312.8,21179789.729999997,SAFE
+2024-10-18,Income,Advance Payment,403208.34,Customer payment received,October,42,403208.34,21582998.069999997,SAFE
+2024-10-18,Income,Loan Received,118352.66,Customer payment received,October,42,118352.66,21701350.729999997,SAFE
+2024-10-18,Expense,Loan Repayment,198089.85,Business expense paid,October,42,-198089.85,21503260.879999995,SAFE
+2024-10-19,Expense,Staff Salaries,381072.87,Business expense paid,October,42,-381072.87,21122188.009999994,SAFE
+2024-10-19,Expense,Rent,290838.36,Business expense paid,October,42,-290838.36,20831349.649999995,SAFE
+2024-10-19,Income,Loan Received,247471.98,Customer payment received,October,42,247471.98,21078821.629999995,SAFE
+2024-10-19,Expense,Utilities,128596.29,Business expense paid,October,42,-128596.29,20950225.339999996,SAFE
+2024-10-20,Income,Loan Received,551105.88,Customer payment received,October,42,551105.88,21501331.219999995,SAFE
+2024-10-20,Expense,Loan Repayment,285728.91,Business expense paid,October,42,-285728.91,21215602.309999995,SAFE
+2024-10-20,Expense,Loan Repayment,412834.5,Business expense paid,October,42,-412834.5,20802767.809999995,SAFE
+2024-10-21,Expense,Rent,102981.91,Business expense paid,October,43,-102981.91,20699785.899999995,SAFE
+2024-10-21,Expense,Miscellaneous,77735.3,Business expense paid,October,43,-77735.3,20622050.599999994,SAFE
+2024-10-21,Expense,Supplier Payment,453333.06,Business expense paid,October,43,-453333.06,20168717.539999995,SAFE
+2024-10-21,Expense,Rent,261008.71,Business expense paid,October,43,-261008.71,19907708.829999994,SAFE
+2024-10-21,Income,Bulk Order Payment,479535.72,Customer payment received,October,43,479535.72,20387244.549999993,SAFE
+2024-10-21,Income,Loan Received,565300.95,Customer payment received,October,43,565300.95,20952545.499999993,SAFE
+2024-10-21,Income,Product Sales,407196.71,Customer payment received,October,43,407196.71,21359742.209999993,SAFE
+2024-10-22,Income,Bulk Order Payment,656345.54,Customer payment received,October,43,656345.54,22016087.749999993,SAFE
+2024-10-22,Expense,Loan Repayment,223219.95,Business expense paid,October,43,-223219.95,21792867.799999993,SAFE
+2024-10-23,Expense,Utilities,284986.01,Business expense paid,October,43,-284986.01,21507881.78999999,SAFE
+2024-10-23,Income,Bulk Order Payment,797951.92,Customer payment received,October,43,797951.92,22305833.709999993,SAFE
+2024-10-23,Expense,Staff Salaries,173479.75,Business expense paid,October,43,-173479.75,22132353.959999993,SAFE
+2024-10-23,Expense,Loan Repayment,61773.17,Business expense paid,October,43,-61773.17,22070580.78999999,SAFE
+2024-10-24,Income,Bulk Order Payment,134389.13,Customer payment received,October,43,134389.13,22204969.91999999,SAFE
+2024-10-24,Expense,Staff Salaries,291965.08,Business expense paid,October,43,-291965.08,21913004.839999992,SAFE
+2024-10-24,Income,Product Sales,393617.89,Customer payment received,October,43,393617.89,22306622.729999993,SAFE
+2024-10-24,Income,Loan Received,639912.98,Customer payment received,October,43,639912.98,22946535.709999993,SAFE
+2024-10-24,Expense,Staff Salaries,463965.52,Business expense paid,October,43,-463965.52,22482570.189999994,SAFE
+2024-10-25,Expense,Loan Repayment,384169.5,Business expense paid,October,43,-384169.5,22098400.689999994,SAFE
+2024-10-25,Expense,Marketing,69508.11,Business expense paid,October,43,-69508.11,22028892.579999994,SAFE
+2024-10-25,Expense,Utilities,68370.34,Business expense paid,October,43,-68370.34,21960522.239999995,SAFE
+2024-10-25,Income,Advance Payment,700606.45,Customer payment received,October,43,700606.45,22661128.689999994,SAFE
+2024-10-25,Income,Advance Payment,708420.17,Customer payment received,October,43,708420.17,23369548.859999996,SAFE
+2024-10-25,Expense,Miscellaneous,601736.55,Business expense paid,October,43,-601736.55,22767812.309999995,SAFE
+2024-10-26,Income,Loan Received,228184.47,Customer payment received,October,43,228184.47,22995996.779999994,SAFE
+2024-10-26,Income,Advance Payment,740626.24,Customer payment received,October,43,740626.24,23736623.019999992,SAFE
+2024-10-26,Income,Advance Payment,65174.67,Customer payment received,October,43,65174.67,23801797.689999994,SAFE
+2024-10-26,Expense,Miscellaneous,278219.51,Business expense paid,October,43,-278219.51,23523578.179999992,SAFE
+2024-10-26,Expense,Staff Salaries,777514.85,Business expense paid,October,43,-777514.85,22746063.32999999,SAFE
+2024-10-26,Expense,Logistics / Delivery,876237.1,Business expense paid,October,43,-876237.1,21869826.22999999,SAFE
+2024-10-27,Income,Loan Received,275360.34,Customer payment received,October,43,275360.34,22145186.56999999,SAFE
+2024-10-27,Expense,Loan Repayment,268778.86,Business expense paid,October,43,-268778.86,21876407.70999999,SAFE
+2024-10-27,Expense,Staff Salaries,558701.97,Business expense paid,October,43,-558701.97,21317705.73999999,SAFE
+2024-10-27,Expense,Logistics / Delivery,198376.44,Business expense paid,October,43,-198376.44,21119329.29999999,SAFE
+2024-10-28,Expense,Loan Repayment,304810.35,Business expense paid,October,44,-304810.35,20814518.949999988,SAFE
+2024-10-28,Income,Advance Payment,605708.6,Customer payment received,October,44,605708.6,21420227.54999999,SAFE
+2024-10-28,Income,Bulk Order Payment,665763.04,Customer payment received,October,44,665763.04,22085990.58999999,SAFE
+2024-10-29,Income,Product Sales,635387.32,Customer payment received,October,44,635387.32,22721377.90999999,SAFE
+2024-10-29,Expense,Logistics / Delivery,202547.62,Business expense paid,October,44,-202547.62,22518830.289999988,SAFE
+2024-10-29,Expense,Logistics / Delivery,759147.85,Business expense paid,October,44,-759147.85,21759682.439999986,SAFE
+2024-10-30,Income,Advance Payment,392336.5,Customer payment received,October,44,392336.5,22152018.939999986,SAFE
+2024-10-30,Expense,Miscellaneous,272716.56,Business expense paid,October,44,-272716.56,21879302.379999988,SAFE
+2024-10-30,Expense,Staff Salaries,472429.19,Business expense paid,October,44,-472429.19,21406873.189999986,SAFE
+2024-10-31,Expense,Loan Repayment,282299.94,Business expense paid,October,44,-282299.94,21124573.249999985,SAFE
+2024-10-31,Expense,Staff Salaries,683102.42,Business expense paid,October,44,-683102.42,20441470.829999983,SAFE
+2024-10-31,Expense,Utilities,333431.14,Business expense paid,October,44,-333431.14,20108039.689999983,SAFE
+2024-10-31,Income,Loan Received,183187.77,Customer payment received,October,44,183187.77,20291227.459999982,SAFE
+2024-10-31,Income,Loan Received,416590.05,Customer payment received,October,44,416590.05,20707817.509999983,SAFE
+2024-10-31,Income,Advance Payment,72922.39,Customer payment received,October,44,72922.39,20780739.899999984,SAFE
+2024-11-01,Income,Bulk Order Payment,241052.78,Customer payment received,November,44,241052.78,21021792.679999985,SAFE
+2024-11-01,Expense,Logistics / Delivery,330742.35,Business expense paid,November,44,-330742.35,20691050.329999983,SAFE
+2024-11-01,Expense,Loan Repayment,149160.12,Business expense paid,November,44,-149160.12,20541890.209999982,SAFE
+2024-11-02,Income,Product Sales,91054.98,Customer payment received,November,44,91054.98,20632945.189999983,SAFE
+2024-11-02,Income,Bulk Order Payment,567802.07,Customer payment received,November,44,567802.07,21200747.259999983,SAFE
+2024-11-02,Income,Product Sales,749740.13,Customer payment received,November,44,749740.13,21950487.389999982,SAFE
+2024-11-02,Expense,Utilities,141147.41,Business expense paid,November,44,-141147.41,21809339.97999998,SAFE
+2024-11-02,Expense,Utilities,362115.43,Business expense paid,November,44,-362115.43,21447224.549999982,SAFE
+2024-11-03,Expense,Utilities,289499.42,Business expense paid,November,44,-289499.42,21157725.12999998,SAFE
+2024-11-03,Expense,Marketing,265526.58,Business expense paid,November,44,-265526.58,20892198.549999982,SAFE
+2024-11-03,Expense,Supplier Payment,300553.83,Business expense paid,November,44,-300553.83,20591644.719999984,SAFE
+2024-11-03,Income,Advance Payment,1010257.12,Customer payment received,November,44,1010257.12,21601901.839999985,SAFE
+2024-11-03,Income,Bulk Order Payment,551947.92,Customer payment received,November,44,551947.92,22153849.759999987,SAFE
+2024-11-03,Expense,Loan Repayment,165029.64,Business expense paid,November,44,-165029.64,21988820.119999986,SAFE
+2024-11-04,Income,Loan Received,788633.79,Customer payment received,November,45,788633.79,22777453.909999985,SAFE
+2024-11-04,Income,Advance Payment,137028.91,Customer payment received,November,45,137028.91,22914482.819999985,SAFE
+2024-11-04,Expense,Utilities,433515.97,Business expense paid,November,45,-433515.97,22480966.849999987,SAFE
+2024-11-04,Expense,Utilities,334937.41,Business expense paid,November,45,-334937.41,22146029.439999986,SAFE
+2024-11-04,Expense,Logistics / Delivery,110412.84,Business expense paid,November,45,-110412.84,22035616.599999987,SAFE
+2024-11-05,Expense,Utilities,334592.27,Business expense paid,November,45,-334592.27,21701024.329999987,SAFE
+2024-11-05,Expense,Loan Repayment,144524.61,Business expense paid,November,45,-144524.61,21556499.719999988,SAFE
+2024-11-05,Expense,Supplier Payment,346762.76,Business expense paid,November,45,-346762.76,21209736.959999986,SAFE
+2024-11-05,Income,Loan Received,915701.31,Customer payment received,November,45,915701.31,22125438.269999985,SAFE
+2024-11-06,Income,Product Sales,477688.67,Customer payment received,November,45,477688.67,22603126.939999986,SAFE
+2024-11-06,Income,Bulk Order Payment,682174.89,Customer payment received,November,45,682174.89,23285301.829999987,SAFE
+2024-11-06,Expense,Logistics / Delivery,368743.94,Business expense paid,November,45,-368743.94,22916557.889999986,SAFE
+2024-11-06,Expense,Miscellaneous,349432.69,Business expense paid,November,45,-349432.69,22567125.199999984,SAFE
+2024-11-06,Expense,Marketing,455132.72,Business expense paid,November,45,-455132.72,22111992.479999986,SAFE
+2024-11-07,Income,Bulk Order Payment,385204.57,Customer payment received,November,45,385204.57,22497197.049999986,SAFE
+2024-11-07,Income,Bulk Order Payment,952670.63,Customer payment received,November,45,952670.63,23449867.679999985,SAFE
+2024-11-07,Income,Loan Received,378473.26,Customer payment received,November,45,378473.26,23828340.939999986,SAFE
+2024-11-07,Expense,Rent,375641.07,Business expense paid,November,45,-375641.07,23452699.869999986,SAFE
+2024-11-07,Expense,Marketing,474523.22,Business expense paid,November,45,-474523.22,22978176.649999987,SAFE
+2024-11-08,Expense,Staff Salaries,245857.55,Business expense paid,November,45,-245857.55,22732319.099999987,SAFE
+2024-11-08,Expense,Staff Salaries,242605.1,Business expense paid,November,45,-242605.1,22489713.999999985,SAFE
+2024-11-08,Expense,Utilities,145068.43,Business expense paid,November,45,-145068.43,22344645.569999985,SAFE
+2024-11-08,Income,Advance Payment,163764.81,Customer payment received,November,45,163764.81,22508410.379999984,SAFE
+2024-11-08,Income,Advance Payment,304494.32,Customer payment received,November,45,304494.32,22812904.699999984,SAFE
+2024-11-08,Income,Advance Payment,511496.2,Customer payment received,November,45,511496.2,23324400.899999984,SAFE
+2024-11-09,Expense,Miscellaneous,184481.54,Business expense paid,November,45,-184481.54,23139919.359999985,SAFE
+2024-11-09,Income,Product Sales,1003897.36,Customer payment received,November,45,1003897.36,24143816.719999984,SAFE
+2024-11-09,Income,Loan Received,980872.64,Customer payment received,November,45,980872.64,25124689.359999985,SAFE
+2024-11-09,Expense,Rent,218291.48,Business expense paid,November,45,-218291.48,24906397.879999984,SAFE
+2024-11-09,Expense,Logistics / Delivery,85935.32,Business expense paid,November,45,-85935.32,24820462.559999984,SAFE
+2024-11-10,Expense,Rent,254038.81,Business expense paid,November,45,-254038.81,24566423.749999985,SAFE
+2024-11-10,Income,Bulk Order Payment,402202.63,Customer payment received,November,45,402202.63,24968626.379999984,SAFE
+2024-11-11,Income,Product Sales,736223.92,Customer payment received,November,46,736223.92,25704850.299999986,SAFE
+2024-11-11,Income,Bulk Order Payment,544655.89,Customer payment received,November,46,544655.89,26249506.189999986,SAFE
+2024-11-11,Expense,Rent,296613.88,Business expense paid,November,46,-296613.88,25952892.309999987,SAFE
+2024-11-11,Expense,Staff Salaries,254997.0,Business expense paid,November,46,-254997.0,25697895.309999987,SAFE
+2024-11-12,Expense,Marketing,276215.65,Business expense paid,November,46,-276215.65,25421679.65999999,SAFE
+2024-11-12,Expense,Supplier Payment,203991.88,Business expense paid,November,46,-203991.88,25217687.77999999,SAFE
+2024-11-12,Expense,Marketing,476032.94,Business expense paid,November,46,-476032.94,24741654.83999999,SAFE
+2024-11-12,Income,Loan Received,715203.73,Customer payment received,November,46,715203.73,25456858.56999999,SAFE
+2024-11-12,Expense,Miscellaneous,225932.22,Business expense paid,November,46,-225932.22,25230926.34999999,SAFE
+2024-11-13,Income,Product Sales,270105.55,Customer payment received,November,46,270105.55,25501031.89999999,SAFE
+2024-11-13,Income,Bulk Order Payment,728021.28,Customer payment received,November,46,728021.28,26229053.179999992,SAFE
+2024-11-13,Income,Advance Payment,307579.0,Customer payment received,November,46,307579.0,26536632.179999992,SAFE
+2024-11-13,Expense,Loan Repayment,81886.78,Business expense paid,November,46,-81886.78,26454745.39999999,SAFE
+2024-11-13,Expense,Utilities,261601.51,Business expense paid,November,46,-261601.51,26193143.88999999,SAFE
+2024-11-13,Expense,Supplier Payment,100169.69,Business expense paid,November,46,-100169.69,26092974.199999988,SAFE
+2024-11-14,Expense,Logistics / Delivery,192440.43,Business expense paid,November,46,-192440.43,25900533.76999999,SAFE
+2024-11-14,Expense,Miscellaneous,184511.76,Business expense paid,November,46,-184511.76,25716022.009999987,SAFE
+2024-11-14,Expense,Loan Repayment,99144.08,Business expense paid,November,46,-99144.08,25616877.92999999,SAFE
+2024-11-14,Income,Advance Payment,834223.51,Customer payment received,November,46,834223.51,26451101.43999999,SAFE
+2024-11-14,Income,Loan Received,1065886.54,Customer payment received,November,46,1065886.54,27516987.97999999,SAFE
+2024-11-14,Expense,Rent,446227.54,Business expense paid,November,46,-446227.54,27070760.43999999,SAFE
+2024-11-15,Expense,Rent,372356.78,Business expense paid,November,46,-372356.78,26698403.65999999,SAFE
+2024-11-15,Expense,Supplier Payment,79117.75,Business expense paid,November,46,-79117.75,26619285.90999999,SAFE
+2024-11-15,Income,Bulk Order Payment,309839.2,Customer payment received,November,46,309839.2,26929125.10999999,SAFE
+2024-11-16,Income,Advance Payment,990371.34,Customer payment received,November,46,990371.34,27919496.449999988,SAFE
+2024-11-16,Income,Product Sales,879812.15,Customer payment received,November,46,879812.15,28799308.599999987,SAFE
+2024-11-16,Expense,Supplier Payment,337745.56,Business expense paid,November,46,-337745.56,28461563.039999988,SAFE
+2024-11-17,Income,Loan Received,794237.24,Customer payment received,November,46,794237.24,29255800.279999986,SAFE
+2024-11-17,Expense,Utilities,202521.81,Business expense paid,November,46,-202521.81,29053278.469999988,SAFE
+2024-11-17,Expense,Rent,247710.24,Business expense paid,November,46,-247710.24,28805568.22999999,SAFE
+2024-11-17,Expense,Supplier Payment,118637.56,Business expense paid,November,46,-118637.56,28686930.66999999,SAFE
+2024-11-17,Expense,Staff Salaries,164535.9,Business expense paid,November,46,-164535.9,28522394.769999992,SAFE
+2024-11-18,Expense,Logistics / Delivery,393420.28,Business expense paid,November,47,-393420.28,28128974.48999999,SAFE
+2024-11-18,Expense,Logistics / Delivery,258914.75,Business expense paid,November,47,-258914.75,27870059.73999999,SAFE
+2024-11-18,Expense,Staff Salaries,74726.03,Business expense paid,November,47,-74726.03,27795333.70999999,SAFE
+2024-11-18,Income,Product Sales,509767.04,Customer payment received,November,47,509767.04,28305100.74999999,SAFE
+2024-11-18,Income,Bulk Order Payment,616324.7,Customer payment received,November,47,616324.7,28921425.449999988,SAFE
+2024-11-18,Income,Product Sales,607164.03,Customer payment received,November,47,607164.03,29528589.47999999,SAFE
+2024-11-19,Income,Advance Payment,808608.59,Customer payment received,November,47,808608.59,30337198.06999999,SAFE
+2024-11-19,Income,Loan Received,238392.28,Customer payment received,November,47,238392.28,30575590.34999999,SAFE
+2024-11-19,Expense,Miscellaneous,350337.88,Business expense paid,November,47,-350337.88,30225252.46999999,SAFE
+2024-11-19,Expense,Supplier Payment,178689.74,Business expense paid,November,47,-178689.74,30046562.729999993,SAFE
+2024-11-20,Expense,Logistics / Delivery,454294.1,Business expense paid,November,47,-454294.1,29592268.62999999,SAFE
+2024-11-20,Income,Product Sales,775214.79,Customer payment received,November,47,775214.79,30367483.41999999,SAFE
+2024-11-20,Expense,Staff Salaries,91589.36,Business expense paid,November,47,-91589.36,30275894.05999999,SAFE
+2024-11-20,Expense,Staff Salaries,394172.59,Business expense paid,November,47,-394172.59,29881721.46999999,SAFE
+2024-11-20,Expense,Staff Salaries,367310.54,Business expense paid,November,47,-367310.54,29514410.929999992,SAFE
+2024-11-21,Expense,Supplier Payment,410325.64,Business expense paid,November,47,-410325.64,29104085.28999999,SAFE
+2024-11-21,Income,Advance Payment,1108099.23,Customer payment received,November,47,1108099.23,30212184.519999992,SAFE
+2024-11-21,Income,Product Sales,347331.27,Customer payment received,November,47,347331.27,30559515.78999999,SAFE
+2024-11-22,Income,Advance Payment,448225.4,Customer payment received,November,47,448225.4,31007741.18999999,SAFE
+2024-11-22,Income,Product Sales,517294.97,Customer payment received,November,47,517294.97,31525036.15999999,SAFE
+2024-11-22,Expense,Supplier Payment,428598.03,Business expense paid,November,47,-428598.03,31096438.129999988,SAFE
+2024-11-23,Income,Bulk Order Payment,964598.66,Customer payment received,November,47,964598.66,32061036.789999988,SAFE
+2024-11-23,Expense,Miscellaneous,191613.15,Business expense paid,November,47,-191613.15,31869423.63999999,SAFE
+2024-11-23,Expense,Utilities,478442.8,Business expense paid,November,47,-478442.8,31390980.83999999,SAFE
+2024-11-23,Expense,Staff Salaries,441668.26,Business expense paid,November,47,-441668.26,30949312.579999987,SAFE
+2024-11-24,Income,Loan Received,189523.6,Customer payment received,November,47,189523.6,31138836.17999999,SAFE
+2024-11-24,Income,Bulk Order Payment,925712.5,Customer payment received,November,47,925712.5,32064548.67999999,SAFE
+2024-11-24,Expense,Loan Repayment,150479.88,Business expense paid,November,47,-150479.88,31914068.79999999,SAFE
+2024-11-24,Expense,Miscellaneous,351153.17,Business expense paid,November,47,-351153.17,31562915.629999988,SAFE
+2024-11-24,Expense,Rent,403951.57,Business expense paid,November,47,-403951.57,31158964.059999987,SAFE
+2024-11-24,Expense,Supplier Payment,74267.15,Business expense paid,November,47,-74267.15,31084696.90999999,SAFE
+2024-11-25,Expense,Supplier Payment,709197.95,Business expense paid,November,48,-709197.95,30375498.95999999,SAFE
+2024-11-25,Expense,Rent,781265.47,Business expense paid,November,48,-781265.47,29594233.48999999,SAFE
+2024-11-25,Income,Loan Received,178898.76,Customer payment received,November,48,178898.76,29773132.249999993,SAFE
+2024-11-25,Expense,Loan Repayment,192609.12,Business expense paid,November,48,-192609.12,29580523.12999999,SAFE
+2024-11-25,Expense,Miscellaneous,453380.82,Business expense paid,November,48,-453380.82,29127142.30999999,SAFE
+2024-11-26,Expense,Marketing,90722.34,Business expense paid,November,48,-90722.34,29036419.96999999,SAFE
+2024-11-26,Income,Loan Received,1001973.62,Customer payment received,November,48,1001973.62,30038393.589999992,SAFE
+2024-11-27,Expense,Loan Repayment,452387.24,Business expense paid,November,48,-452387.24,29586006.349999994,SAFE
+2024-11-27,Expense,Logistics / Delivery,409980.59,Business expense paid,November,48,-409980.59,29176025.759999994,SAFE
+2024-11-27,Income,Bulk Order Payment,809796.59,Customer payment received,November,48,809796.59,29985822.349999994,SAFE
+2024-11-27,Expense,Staff Salaries,484502.12,Business expense paid,November,48,-484502.12,29501320.229999993,SAFE
+2024-11-28,Income,Product Sales,950984.67,Customer payment received,November,48,950984.67,30452304.899999995,SAFE
+2024-11-28,Expense,Rent,591896.49,Business expense paid,November,48,-591896.49,29860408.409999996,SAFE
+2024-11-29,Income,Loan Received,961287.85,Customer payment received,November,48,961287.85,30821696.259999998,SAFE
+2024-11-29,Income,Product Sales,982886.42,Customer payment received,November,48,982886.42,31804582.68,SAFE
+2024-11-29,Income,Advance Payment,859001.5,Customer payment received,November,48,859001.5,32663584.18,SAFE
+2024-11-29,Expense,Utilities,321893.14,Business expense paid,November,48,-321893.14,32341691.04,SAFE
+2024-11-29,Expense,Logistics / Delivery,79503.02,Business expense paid,November,48,-79503.02,32262188.02,SAFE
+2024-11-30,Income,Loan Received,745483.18,Customer payment received,November,48,745483.18,33007671.2,SAFE
+2024-11-30,Income,Product Sales,927958.47,Customer payment received,November,48,927958.47,33935629.67,SAFE
+2024-11-30,Income,Loan Received,552049.32,Customer payment received,November,48,552049.32,34487678.99,SAFE
+2024-11-30,Expense,Miscellaneous,776093.09,Business expense paid,November,48,-776093.09,33711585.9,SAFE
+2024-12-01,Income,Loan Received,194642.19,Customer payment received,December,48,194642.19,33906228.089999996,SAFE
+2024-12-01,Income,Product Sales,852500.91,Customer payment received,December,48,852500.91,34758728.99999999,SAFE
+2024-12-01,Expense,Supplier Payment,213651.04,Business expense paid,December,48,-213651.04,34545077.95999999,SAFE
+2024-12-02,Expense,Miscellaneous,288872.41,Business expense paid,December,49,-288872.41,34256205.55,SAFE
+2024-12-02,Expense,Marketing,425272.37,Business expense paid,December,49,-425272.37,33830933.18,SAFE
+2024-12-02,Expense,Marketing,476170.46,Business expense paid,December,49,-476170.46,33354762.72,SAFE
+2024-12-02,Expense,Logistics / Delivery,416149.28,Business expense paid,December,49,-416149.28,32938613.439999998,SAFE
+2024-12-02,Income,Advance Payment,901372.45,Customer payment received,December,49,901372.45,33839985.89,SAFE
+2024-12-02,Income,Product Sales,646553.73,Customer payment received,December,49,646553.73,34486539.62,SAFE
+2024-12-02,Income,Bulk Order Payment,1004616.44,Customer payment received,December,49,1004616.44,35491156.059999995,SAFE
+2024-12-03,Income,Loan Received,760025.57,Customer payment received,December,49,760025.57,36251181.629999995,SAFE
+2024-12-03,Income,Bulk Order Payment,189724.53,Customer payment received,December,49,189724.53,36440906.16,SAFE
+2024-12-03,Income,Advance Payment,72306.8,Customer payment received,December,49,72306.8,36513212.95999999,SAFE
+2024-12-03,Expense,Marketing,282891.48,Business expense paid,December,49,-282891.48,36230321.48,SAFE
+2024-12-03,Expense,Supplier Payment,357006.11,Business expense paid,December,49,-357006.11,35873315.37,SAFE
+2024-12-03,Expense,Miscellaneous,450501.02,Business expense paid,December,49,-450501.02,35422814.349999994,SAFE
+2024-12-04,Expense,Logistics / Delivery,142058.87,Business expense paid,December,49,-142058.87,35280755.48,SAFE
+2024-12-04,Income,Loan Received,932930.59,Customer payment received,December,49,932930.59,36213686.07,SAFE
+2024-12-05,Income,Loan Received,196783.1,Customer payment received,December,49,196783.1,36410469.17,SAFE
+2024-12-05,Expense,Logistics / Delivery,239382.08,Business expense paid,December,49,-239382.08,36171087.09,SAFE
+2024-12-05,Expense,Staff Salaries,364058.2,Business expense paid,December,49,-364058.2,35807028.89,SAFE
+2024-12-06,Expense,Supplier Payment,274574.89,Business expense paid,December,49,-274574.89,35532454.0,SAFE
+2024-12-06,Expense,Supplier Payment,482650.28,Business expense paid,December,49,-482650.28,35049803.72,SAFE
+2024-12-06,Expense,Loan Repayment,285548.64,Business expense paid,December,49,-285548.64,34764255.08,SAFE
+2024-12-06,Income,Loan Received,880752.43,Customer payment received,December,49,880752.43,35645007.51,SAFE
+2024-12-06,Income,Product Sales,118825.38,Customer payment received,December,49,118825.38,35763832.89,SAFE
+2024-12-06,Expense,Rent,336059.21,Business expense paid,December,49,-336059.21,35427773.68,SAFE
+2024-12-07,Income,Bulk Order Payment,796408.6,Customer payment received,December,49,796408.6,36224182.28,SAFE
+2024-12-07,Income,Bulk Order Payment,837019.39,Customer payment received,December,49,837019.39,37061201.67,SAFE
+2024-12-07,Income,Bulk Order Payment,577078.56,Customer payment received,December,49,577078.56,37638280.230000004,SAFE
+2024-12-07,Expense,Marketing,205954.68,Business expense paid,December,49,-205954.68,37432325.550000004,SAFE
+2024-12-08,Expense,Marketing,424675.73,Business expense paid,December,49,-424675.73,37007649.82000001,SAFE
+2024-12-08,Expense,Utilities,86326.4,Business expense paid,December,49,-86326.4,36921323.42000001,SAFE
+2024-12-08,Expense,Rent,237365.94,Business expense paid,December,49,-237365.94,36683957.48000001,SAFE
+2024-12-08,Income,Advance Payment,357275.67,Customer payment received,December,49,357275.67,37041233.15000001,SAFE
+2024-12-08,Income,Bulk Order Payment,1098475.8,Customer payment received,December,49,1098475.8,38139708.95000001,SAFE
+2024-12-08,Income,Loan Received,995460.1,Customer payment received,December,49,995460.1,39135169.05000001,SAFE
+2024-12-09,Income,Bulk Order Payment,843659.58,Customer payment received,December,50,843659.58,39978828.63000001,SAFE
+2024-12-09,Income,Advance Payment,280933.54,Customer payment received,December,50,280933.54,40259762.17000001,SAFE
+2024-12-09,Income,Bulk Order Payment,790941.86,Customer payment received,December,50,790941.86,41050704.03000001,SAFE
+2024-12-09,Expense,Marketing,261868.85,Business expense paid,December,50,-261868.85,40788835.18000001,SAFE
+2024-12-09,Expense,Marketing,360969.31,Business expense paid,December,50,-360969.31,40427865.870000005,SAFE
+2024-12-10,Expense,Supplier Payment,270910.39,Business expense paid,December,50,-270910.39,40156955.480000004,SAFE
+2024-12-10,Income,Loan Received,991351.1,Customer payment received,December,50,991351.1,41148306.580000006,SAFE
+2024-12-10,Income,Advance Payment,777955.66,Customer payment received,December,50,777955.66,41926262.24,SAFE
+2024-12-10,Income,Loan Received,574388.42,Customer payment received,December,50,574388.42,42500650.660000004,SAFE
+2024-12-11,Income,Product Sales,222593.05,Customer payment received,December,50,222593.05,42723243.71,SAFE
+2024-12-11,Income,Bulk Order Payment,279897.54,Customer payment received,December,50,279897.54,43003141.25,SAFE
+2024-12-11,Expense,Rent,348027.36,Business expense paid,December,50,-348027.36,42655113.89,SAFE
+2024-12-11,Expense,Utilities,422903.27,Business expense paid,December,50,-422903.27,42232210.62,SAFE
+2024-12-11,Expense,Supplier Payment,117920.43,Business expense paid,December,50,-117920.43,42114290.19,SAFE
+2024-12-12,Expense,Loan Repayment,464712.71,Business expense paid,December,50,-464712.71,41649577.48,SAFE
+2024-12-12,Expense,Supplier Payment,352609.32,Business expense paid,December,50,-352609.32,41296968.16,SAFE
+2024-12-12,Expense,Marketing,219951.79,Business expense paid,December,50,-219951.79,41077016.37,SAFE
+2024-12-12,Income,Bulk Order Payment,716914.28,Customer payment received,December,50,716914.28,41793930.65,SAFE
+2024-12-12,Income,Product Sales,924727.53,Customer payment received,December,50,924727.53,42718658.18,SAFE
+2024-12-12,Expense,Utilities,134045.83,Business expense paid,December,50,-134045.83,42584612.35,SAFE
+2024-12-13,Income,Advance Payment,126492.3,Customer payment received,December,50,126492.3,42711104.65,SAFE
+2024-12-13,Income,Loan Received,283241.58,Customer payment received,December,50,283241.58,42994346.23,SAFE
+2024-12-13,Income,Advance Payment,941482.66,Customer payment received,December,50,941482.66,43935828.88999999,SAFE
+2024-12-13,Expense,Logistics / Delivery,392550.44,Business expense paid,December,50,-392550.44,43543278.449999996,SAFE
+2024-12-13,Expense,Rent,161205.31,Business expense paid,December,50,-161205.31,43382073.13999999,SAFE
+2024-12-14,Expense,Miscellaneous,22709.67,Business expense paid,December,50,-22709.67,43359363.46999999,SAFE
+2024-12-14,Expense,Rent,287167.34,Business expense paid,December,50,-287167.34,43072196.12999999,SAFE
+2024-12-14,Expense,Utilities,97245.85,Business expense paid,December,50,-97245.85,42974950.27999999,SAFE
+2024-12-14,Income,Product Sales,841833.46,Customer payment received,December,50,841833.46,43816783.73999999,SAFE
+2024-12-14,Income,Bulk Order Payment,148192.44,Customer payment received,December,50,148192.44,43964976.179999985,SAFE
+2024-12-14,Income,Loan Received,466058.14,Customer payment received,December,50,466058.14,44431034.319999985,SAFE
+2024-12-15,Income,Product Sales,1054369.17,Customer payment received,December,50,1054369.17,45485403.48999999,SAFE
+2024-12-15,Income,Advance Payment,231388.55,Customer payment received,December,50,231388.55,45716792.039999984,SAFE
+2024-12-15,Income,Advance Payment,696724.35,Customer payment received,December,50,696724.35,46413516.389999986,SAFE
+2024-12-15,Expense,Marketing,399155.93,Business expense paid,December,50,-399155.93,46014360.459999986,SAFE
+2024-12-15,Expense,Marketing,54982.78,Business expense paid,December,50,-54982.78,45959377.679999985,SAFE
+2024-12-15,Expense,Rent,272189.63,Business expense paid,December,50,-272189.63,45687188.04999998,SAFE
+2024-12-15,Expense,Rent,269891.02,Business expense paid,December,50,-269891.02,45417297.02999998,SAFE
+2024-12-16,Expense,Logistics / Delivery,193182.96,Business expense paid,December,51,-193182.96,45224114.06999998,SAFE
+2024-12-16,Income,Loan Received,640234.16,Customer payment received,December,51,640234.16,45864348.229999974,SAFE
+2024-12-16,Income,Bulk Order Payment,166542.83,Customer payment received,December,51,166542.83,46030891.05999997,SAFE
+2024-12-16,Expense,Marketing,338400.55,Business expense paid,December,51,-338400.55,45692490.509999976,SAFE
+2024-12-17,Expense,Marketing,347624.65,Business expense paid,December,51,-347624.65,45344865.85999998,SAFE
+2024-12-17,Income,Bulk Order Payment,537950.61,Customer payment received,December,51,537950.61,45882816.46999998,SAFE
+2024-12-17,Income,Advance Payment,190458.05,Customer payment received,December,51,190458.05,46073274.51999997,SAFE
+2024-12-17,Income,Product Sales,627023.84,Customer payment received,December,51,627023.84,46700298.35999998,SAFE
+2024-12-18,Income,Product Sales,1031729.05,Customer payment received,December,51,1031729.05,47732027.409999974,SAFE
+2024-12-18,Income,Advance Payment,475169.73,Customer payment received,December,51,475169.73,48207197.13999997,SAFE
+2024-12-18,Expense,Marketing,457441.24,Business expense paid,December,51,-457441.24,47749755.89999997,SAFE
+2024-12-19,Expense,Supplier Payment,100349.51,Business expense paid,December,51,-100349.51,47649406.38999997,SAFE
+2024-12-19,Expense,Staff Salaries,266669.46,Business expense paid,December,51,-266669.46,47382736.92999997,SAFE
+2024-12-19,Expense,Logistics / Delivery,320927.88,Business expense paid,December,51,-320927.88,47061809.04999997,SAFE
+2024-12-19,Income,Advance Payment,581144.94,Customer payment received,December,51,581144.94,47642953.989999965,SAFE
+2024-12-19,Income,Loan Received,912957.57,Customer payment received,December,51,912957.57,48555911.559999965,SAFE
+2024-12-19,Income,Bulk Order Payment,1013195.69,Customer payment received,December,51,1013195.69,49569107.24999996,SAFE
+2024-12-20,Income,Bulk Order Payment,730990.21,Customer payment received,December,51,730990.21,50300097.45999996,SAFE
+2024-12-20,Income,Loan Received,978198.4,Customer payment received,December,51,978198.4,51278295.85999996,SAFE
+2024-12-20,Income,Bulk Order Payment,947448.33,Customer payment received,December,51,947448.33,52225744.18999996,SAFE
+2024-12-20,Expense,Staff Salaries,330349.36,Business expense paid,December,51,-330349.36,51895394.82999996,SAFE
+2024-12-20,Expense,Rent,378507.6,Business expense paid,December,51,-378507.6,51516887.22999996,SAFE
+2024-12-20,Expense,Marketing,31401.41,Business expense paid,December,51,-31401.41,51485485.81999996,SAFE
+2024-12-20,Expense,Staff Salaries,38185.43,Business expense paid,December,51,-38185.43,51447300.38999996,SAFE
+2024-12-21,Income,Advance Payment,256891.77,Customer payment received,December,51,256891.77,51704192.15999997,SAFE
+2024-12-21,Expense,Logistics / Delivery,295981.9,Business expense paid,December,51,-295981.9,51408210.25999997,SAFE
+2024-12-22,Expense,Supplier Payment,382861.09,Business expense paid,December,51,-382861.09,51025349.169999965,SAFE
+2024-12-22,Expense,Staff Salaries,276720.5,Business expense paid,December,51,-276720.5,50748628.669999965,SAFE
+2024-12-22,Income,Loan Received,731728.13,Customer payment received,December,51,731728.13,51480356.79999997,SAFE
+2024-12-22,Income,Loan Received,498014.42,Customer payment received,December,51,498014.42,51978371.21999997,SAFE
+2024-12-22,Expense,Staff Salaries,28107.66,Business expense paid,December,51,-28107.66,51950263.55999997,SAFE
+2024-12-23,Income,Advance Payment,960663.8,Customer payment received,December,52,960663.8,52910927.35999997,SAFE
+2024-12-23,Income,Product Sales,1044450.14,Customer payment received,December,52,1044450.14,53955377.49999997,SAFE
+2024-12-23,Income,Advance Payment,374328.43,Customer payment received,December,52,374328.43,54329705.92999997,SAFE
+2024-12-23,Expense,Miscellaneous,155128.37,Business expense paid,December,52,-155128.37,54174577.55999997,SAFE
+2024-12-24,Expense,Rent,480864.45,Business expense paid,December,52,-480864.45,53693713.10999997,SAFE
+2024-12-24,Income,Product Sales,484868.92,Customer payment received,December,52,484868.92,54178582.02999997,SAFE
+2024-12-24,Income,Bulk Order Payment,567687.06,Customer payment received,December,52,567687.06,54746269.089999974,SAFE
+2024-12-24,Expense,Utilities,378441.88,Business expense paid,December,52,-378441.88,54367827.20999997,SAFE
+2024-12-25,Expense,Loan Repayment,530828.87,Business expense paid,December,52,-530828.87,53836998.339999974,SAFE
+2024-12-25,Expense,Supplier Payment,142475.18,Business expense paid,December,52,-142475.18,53694523.159999974,SAFE
+2024-12-25,Income,Advance Payment,781153.5,Customer payment received,December,52,781153.5,54475676.659999974,SAFE
+2024-12-25,Income,Product Sales,1075261.23,Customer payment received,December,52,1075261.23,55550937.88999997,SAFE
+2024-12-26,Expense,Utilities,194969.71,Business expense paid,December,52,-194969.71,55355968.17999997,SAFE
+2024-12-26,Income,Product Sales,644901.72,Customer payment received,December,52,644901.72,56000869.89999997,SAFE
+2024-12-26,Income,Advance Payment,389925.71,Customer payment received,December,52,389925.71,56390795.60999997,SAFE
+2024-12-26,Income,Bulk Order Payment,292323.79,Customer payment received,December,52,292323.79,56683119.39999997,SAFE
+2024-12-26,Expense,Rent,203897.85,Business expense paid,December,52,-203897.85,56479221.54999997,SAFE
+2024-12-27,Expense,Utilities,616336.06,Business expense paid,December,52,-616336.06,55862885.489999965,SAFE
+2024-12-27,Income,Product Sales,746908.24,Customer payment received,December,52,746908.24,56609793.72999997,SAFE
+2024-12-27,Expense,Miscellaneous,120846.87,Business expense paid,December,52,-120846.87,56488946.85999997,SAFE
+2024-12-27,Income,Product Sales,909643.06,Customer payment received,December,52,909643.06,57398589.91999997,SAFE
+2024-12-27,Income,Loan Received,963957.11,Customer payment received,December,52,963957.11,58362547.02999997,SAFE
+2024-12-27,Expense,Marketing,858130.48,Business expense paid,December,52,-858130.48,57504416.549999975,SAFE
+2024-12-28,Expense,Staff Salaries,282358.49,Business expense paid,December,52,-282358.49,57222058.05999997,SAFE
+2024-12-28,Income,Bulk Order Payment,774860.34,Customer payment received,December,52,774860.34,57996918.399999976,SAFE
+2024-12-29,Expense,Rent,635147.82,Business expense paid,December,52,-635147.82,57361770.579999976,SAFE
+2024-12-29,Expense,Marketing,524636.93,Business expense paid,December,52,-524636.93,56837133.649999976,SAFE
+2024-12-29,Income,Loan Received,403675.23,Customer payment received,December,52,403675.23,57240808.87999997,SAFE
+2024-12-29,Expense,Utilities,568519.86,Business expense paid,December,52,-568519.86,56672289.01999997,SAFE
+2024-12-30,Income,Bulk Order Payment,75073.48,Customer payment received,December,1,75073.48,56747362.49999997,SAFE
+2024-12-30,Expense,Loan Repayment,651340.05,Business expense paid,December,1,-651340.05,56096022.44999997,SAFE
+2024-12-30,Income,Bulk Order Payment,1076591.87,Customer payment received,December,1,1076591.87,57172614.31999997,SAFE
+2024-12-30,Expense,Marketing,275051.38,Business expense paid,December,1,-275051.38,56897562.93999997,SAFE
